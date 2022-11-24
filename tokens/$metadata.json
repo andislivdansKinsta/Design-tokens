@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "Base",
     "Semantic-Light",
-    "Semantic-Dark"
+    "Semantic-Dark",
+    "Button-Light"
   ]
 }
