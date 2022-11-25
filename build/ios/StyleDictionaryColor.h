@@ -1,0 +1,81 @@
+
+//
+// StyleDictionaryColor.h
+//
+
+// Do not edit directly
+// Generated on Fri, 25 Nov 2022 12:18:23 GMT
+
+
+#import <UIKit/UIKit.h>
+
+typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+ColorBaseGrayLight,
+ColorBaseGrayMedium,
+ColorBaseGrayDark,
+ColorBaseRed,
+ColorBaseGreen,
+ColorFontBase,
+ColorFontSecondary,
+ColorFontTertiary,
+ColorScale,
+ColorLightNeutral600,
+ColorLightNeutral900,
+ColorLightNeutral1000,
+ColorLightOnBackgroundOpacity1,
+ColorLightOnBackgroundOpacity2,
+ColorLightOnBackgroundOpacity3,
+ColorLightOnSurfaceLowEmphasisOpacity1,
+ColorLightOnSurfaceLowEmphasisOpacity2,
+ColorLightOnSurfaceLowEmphasisOpacity3,
+ColorLightOnSurfaceOpacity1,
+ColorLightOnSurfaceOpacity2,
+ColorLightOnSurfaceOpacity3,
+ColorLightOnSurfaceHighEmphasisOpacity1,
+ColorLightOnSurfaceHighEmphasisOpacity2,
+ColorLightOnSurfaceHighEmphasisOpacity3,
+ColorLightOnSurfaceHighEmphasisInverseOpacity1,
+ColorLightOnSurfaceHighEmphasisInverseOpacity2,
+ColorLightOnSurfaceHighEmphasisInverseOpacity3,
+ColorLightOnSurfaceInverseOpacity1,
+ColorLightOnSurfaceInverseOpacity2,
+ColorLightOnSurfaceInverseOpacity3,
+ColorLightOnSurfaceLowEmphasisInverseOpacity1,
+ColorLightOnSurfaceLowEmphasisInverseOpacity2,
+ColorLightOnSurfaceLowEmphasisInverseOpacity3,
+ColorLightOnBackgroundInverseOpacity1,
+ColorLightOnBackgroundInverseOpacity2,
+ColorLightOnBackgroundInverseOpacity3,
+ColorDarkNeutral25,
+ColorDarkNeutral200,
+ColorDarkNeutral0,
+ColorDarkOnBackgroundOpacity1,
+ColorDarkOnBackgroundOpacity2,
+ColorDarkOnBackgroundOpacity3,
+ColorDarkOnSurfaceLowEmphasisOpacity1,
+ColorDarkOnSurfaceLowEmphasisOpacity2,
+ColorDarkOnSurfaceLowEmphasisOpacity3,
+ColorDarkOnSurfaceOpacity1,
+ColorDarkOnSurfaceOpacity2,
+ColorDarkOnSurfaceOpacity3,
+ColorDarkOnSurfaceHighEmphasisOpacity1,
+ColorDarkOnSurfaceHighEmphasisOpacity2,
+ColorDarkOnSurfaceHighEmphasisOpacity3,
+ColorDarkOnSurfaceHighEmphasisInverseOpacity1,
+ColorDarkOnSurfaceHighEmphasisInverseOpacity2,
+ColorDarkOnSurfaceHighEmphasisInverseOpacity3,
+ColorDarkOnSurfaceInverseOpacity1,
+ColorDarkOnSurfaceInverseOpacity2,
+ColorDarkOnSurfaceInverseOpacity3,
+ColorDarkOnSurfaceLowEmphasisInverseOpacity1,
+ColorDarkOnSurfaceLowEmphasisInverseOpacity2,
+ColorDarkOnSurfaceLowEmphasisInverseOpacity3,
+ColorDarkOnBackgroundInverseOpacity1,
+ColorDarkOnBackgroundInverseOpacity2,
+ColorDarkOnBackgroundInverseOpacity3
+};
+
+@interface StyleDictionaryColor : NSObject
++ (NSArray *)values;
++ (UIColor *)color:(StyleDictionaryColorName)color;
+@end
