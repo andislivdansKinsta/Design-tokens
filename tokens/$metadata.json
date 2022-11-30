@@ -1,5 +1,12 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Base",
+    "Semantic-Light",
+    "Semantic-Dark",
+    "Button-Light",
+    "color/base",
+    "color/font",
+    "output",
+    "size/font"
   ]
 }
