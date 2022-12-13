@@ -1,1 +1,160 @@
-{}
+{
+  "color": {
+    "background": {
+      "neutral": {
+        "base": {
+          "value": "{light.palette.neutral.0}",
+          "type": "color"
+        },
+        "base-inverse": {
+          "value": "{light.palette.neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{light.palette.neutral.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{light.palette.neutral.800}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{light.palette.neutral.50}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{light.palette.neutral.700}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{light.palette.neutral.100}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{light.palette.neutral.600}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "base-inverse": {
+          "value": "{light.palette.indigo.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{light.palette.indigo.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{light.palette.indigo.800}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{light.palette.indigo.50}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{light.palette.indigo.700}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{light.palette.indigo.100}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{light.palette.indigo.600}",
+          "type": "color"
+        }
+      },
+      "success": {
+        "base-inverse": {
+          "value": "{light.palette.green.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{light.palette.green.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{light.palette.green.800}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{light.palette.green.50}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{light.palette.green.700}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{light.palette.green.100}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{light.palette.green.600}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "base-inverse": {
+          "value": "{light.palette.yellow.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{light.palette.yellow.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{light.palette.yellow.800}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{light.palette.yellow.50}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{light.palette.yellow.700}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{light.palette.yellow.100}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{light.palette.yellow.600}",
+          "type": "color"
+        }
+      },
+      "error": {
+        "base-inverse": {
+          "value": "{light.palette.red.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{light.palette.red.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{light.palette.red.800}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{light.palette.red.50}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{light.palette.red.700}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{light.palette.red.100}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{light.palette.red.600}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
