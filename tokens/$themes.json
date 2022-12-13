@@ -5,8 +5,7 @@
     "selectedTokenSets": {
       "Base": "source",
       "Semantic-Light": "enabled",
-      "Semantic-Dark": "disabled",
-      "Button-Light": "disabled"
+      "Semantic-Dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,8 +15,7 @@
     "selectedTokenSets": {
       "Base": "source",
       "Semantic-Light": "disabled",
-      "Semantic-Dark": "enabled",
-      "Button-Light": "disabled"
+      "Semantic-Dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
