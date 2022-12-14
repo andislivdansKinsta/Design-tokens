@@ -7,7 +7,14 @@
       "Semantic-Light": "enabled",
       "Semantic-Dark": "disabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {
+      "color.surface.neutral.weak.deafault": "S:d161e48c53568fc192083a156b2d5ffa537ab61e,",
+      "color.surface.neutral.weak.hovered": "S:41244d329492c031ad34a2e8e2d4cac19ead0105,",
+      "color.surface.neutral.weak.pressed": "S:c1de06c5d91b4e5443cfe0c74daceb6400845201,",
+      "color.surface.base.default": "S:51bfb1be85daa7f9091c8342213587eac344a12b,",
+      "color.surface.base.hovered": "S:af748fcb61e6773f636a12be3eecdd19dcb076b6,",
+      "color.surface.base.pressed": "S:4799a77baf95e993fc360b077027eb7525fbba8d,"
+    }
   },
   {
     "id": "f40c57b83b4e26dcfcfa2819e44bc35dd4b59e3c",
