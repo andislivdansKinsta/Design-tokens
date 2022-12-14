@@ -1,21 +1,21 @@
 {
   "color": {
     "surface": {
-      "base": {
-        "default": {
-          "value": "{light.palette.neutral.0}",
-          "type": "color"
-        },
-        "hovered": {
-          "value": "{light.palette.neutral.25}",
-          "type": "color"
-        },
-        "pressed": {
-          "value": "{light.palette.neutral.50}",
-          "type": "color"
-        }
-      },
       "neutral": {
+        "base": {
+          "default": {
+            "value": "{light.palette.neutral.0}",
+            "type": "color"
+          },
+          "hovered": {
+            "value": "{light.palette.neutral.25}",
+            "type": "color"
+          },
+          "pressed": {
+            "value": "{light.palette.neutral.50}",
+            "type": "color"
+          }
+        },
         "weak": {
           "default": {
             "value": "{light.palette.neutral.25}",
@@ -412,6 +412,186 @@
           "pressed-inverse": {
             "value": "{light.palette.indigo.500}",
             "type": "color"
+          }
+        }
+      }
+    },
+    "action": {
+      "on-surface": {
+        "base+weak+normal": {
+          "neutral": {
+            "default": {
+              "value": "{light.palette.neutral.900}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.neutral.800}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.neutral.1000}",
+              "type": "color"
+            }
+          },
+          "positive": {
+            "default": {
+              "value": "{light.palette.green.500}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.green.400}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.green.600}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "default": {
+              "value": "{light.palette.yellow.500}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.yellow.400}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.yellow.600}",
+              "type": "color"
+            }
+          },
+          "negative": {
+            "default": {
+              "value": "{light.palette.red.500}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.red.400}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.red.600}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "default": {
+              "value": "{light.palette.indigo.500}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.indigo.400}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.indigo.600}",
+              "type": "color"
+            }
+          }
+        },
+        "strong": {
+          "neutral": {
+            "default": {
+              "value": "{light.palette.neutral.900}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.neutral.800}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.neutral.1000}",
+              "type": "color"
+            }
+          }
+        },
+        "weak+normal-inverse": {
+          "neutral": {
+            "default": {
+              "value": "{light.palette.neutral.50}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.neutral.0}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.neutral.100}",
+              "type": "color"
+            }
+          },
+          "positive": {
+            "default": {
+              "value": "{light.palette.green.300}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.green.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.green.400}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "default": {
+              "value": "{light.palette.yellow.300}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.yellow.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.yellow.400}",
+              "type": "color"
+            }
+          },
+          "negative": {
+            "default": {
+              "value": "{light.palette.red.300}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.red.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.red.400}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "default": {
+              "value": "{light.palette.indigo.300}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.indigo.200}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.indigo.400}",
+              "type": "color"
+            }
+          }
+        },
+        "strong-inverse": {
+          "neutral": {
+            "default": {
+              "value": "{light.palette.neutral.50}",
+              "type": "color"
+            },
+            "hovered": {
+              "value": "{light.palette.neutral.0}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{light.palette.neutral.100}",
+              "type": "color"
+            }
           }
         }
       }
