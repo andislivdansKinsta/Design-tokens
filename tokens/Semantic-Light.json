@@ -17,7 +17,7 @@
       },
       "neutral": {
         "weak": {
-          "deafault": {
+          "default": {
             "value": "{light.palette.neutral.25}",
             "type": "color"
           },
@@ -97,7 +97,7 @@
       },
       "positive": {
         "weak": {
-          "deafault": {
+          "default": {
             "value": "{light.palette.green.25}",
             "type": "color"
           },
@@ -177,7 +177,7 @@
       },
       "warning": {
         "weak": {
-          "deafault": {
+          "default": {
             "value": "{light.palette.yellow.25}",
             "type": "color"
           },
@@ -257,7 +257,7 @@
       },
       "negative": {
         "weak": {
-          "deafault": {
+          "default": {
             "value": "{light.palette.red.25}",
             "type": "color"
           },
@@ -337,7 +337,7 @@
       },
       "accent": {
         "weak": {
-          "deafault": {
+          "default": {
             "value": "{light.palette.indigo.25}",
             "type": "color"
           },
