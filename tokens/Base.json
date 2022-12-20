@@ -7255,39 +7255,39 @@
       "type": "opacity"
     },
     "25": {
-      "value": "0.05",
+      "value": "0.04",
       "type": "opacity"
     },
     "50": {
-      "value": "0.13",
+      "value": "0.12",
       "type": "opacity"
     },
     "100": {
-      "value": "0.21",
+      "value": "0.22",
       "type": "opacity"
     },
     "200": {
-      "value": "0.29",
+      "value": "0.34",
       "type": "opacity"
     },
     "300": {
-      "value": "0.37",
+      "value": "0.44",
       "type": "opacity"
     },
     "400": {
-      "value": "0.46",
-      "type": "opacity"
-    },
-    "500": {
       "value": "0.54",
       "type": "opacity"
     },
+    "500": {
+      "value": "0.62",
+      "type": "opacity"
+    },
     "600": {
-      "value": "0.64",
+      "value": "0.69",
       "type": "opacity"
     },
     "700": {
-      "value": "0.73",
+      "value": "0.77",
       "type": "opacity"
     },
     "800": {
@@ -7295,7 +7295,7 @@
       "type": "opacity"
     },
     "900": {
-      "value": "0.94",
+      "value": "0.92",
       "type": "opacity"
     }
   },
