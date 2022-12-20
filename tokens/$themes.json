@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "Base": "source",
       "Semantic-Light": "enabled",
-      "Semantic-Dark": "disabled"
+      "Semantic-Dark": "disabled",
+      "Semantic-Base": "disabled"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
@@ -1336,7 +1337,8 @@
     "selectedTokenSets": {
       "Base": "source",
       "Semantic-Light": "disabled",
-      "Semantic-Dark": "enabled"
+      "Semantic-Dark": "enabled",
+      "Semantic-Base": "disabled"
     },
     "$figmaStyleReferences": {}
   }
