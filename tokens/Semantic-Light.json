@@ -1700,6 +1700,100 @@
             "type": "color"
           }
         }
+      },
+      "alpha": {
+        "base": {
+          "strong": {
+            "value": "{alpha.black.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{alpha.black.600}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.black.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.black.300}",
+            "type": "color"
+          }
+        },
+        "primary": {
+          "strong": {
+            "value": "{alpha.black.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.black.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.black.300}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{alpha.black.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.black.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.black.300}",
+            "type": "color"
+          }
+        },
+        "secondary-inverse": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.white.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.white.300}",
+            "type": "color"
+          }
+        },
+        "primary-inverse": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.white.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.white.300}",
+            "type": "color"
+          }
+        },
+        "base-inverse": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{alpha.white.500}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{alpha.white.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{alpha.white.200}",
+            "type": "color"
+          }
+        }
       }
     }
   }
