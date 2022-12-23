@@ -683,6 +683,98 @@
       }
     }
   },
+  "interactive": {
+    "neutral": {
+      "default": {
+        "value": "{light.neutral.0}",
+        "type": "color"
+      },
+      "immutable": {
+        "value": "{light.neutral.100}",
+        "type": "color"
+      },
+      "default-inverse": {
+        "value": "{light.neutral.900}",
+        "type": "color"
+      },
+      "immutable-inverse": {
+        "value": "{light.neutral.600}",
+        "type": "color"
+      }
+    },
+    "positive": {
+      "default": {
+        "value": "{light.neutral.0}",
+        "type": "color"
+      },
+      "immutable": {
+        "value": "{light.positive.100}",
+        "type": "color"
+      },
+      "default-inverse": {
+        "value": "{light.neutral.900}",
+        "type": "color"
+      },
+      "immutable-inverse": {
+        "value": "{light.positive.600}",
+        "type": "color"
+      }
+    },
+    "warning": {
+      "default": {
+        "value": "{light.neutral.0}",
+        "type": "color"
+      },
+      "immutable": {
+        "value": "{light.warning.100}",
+        "type": "color"
+      },
+      "default-inverse": {
+        "value": "{light.neutral.900}",
+        "type": "color"
+      },
+      "immutable-inverse": {
+        "value": "{light.warning.600}",
+        "type": "color"
+      }
+    },
+    "negative": {
+      "default": {
+        "value": "{light.neutral.0}",
+        "type": "color"
+      },
+      "immutable": {
+        "value": "{light.negative.100}",
+        "type": "color"
+      },
+      "default-inverse": {
+        "value": "{light.neutral.900}",
+        "type": "color"
+      },
+      "immutable-inverse": {
+        "value": "{light.negative.600}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "default": {
+        "value": "{light.neutral.0}",
+        "type": "color"
+      },
+      "immutable": {
+        "value": "{light.accent.100}",
+        "type": "color"
+      },
+      "default-inverse": {
+        "value": "{light.neutral.900}",
+        "type": "color"
+      },
+      "immutable-inverse": {
+        "value": "{light.accent.600}",
+        "type": "color"
+      }
+    }
+  },
   "border": {
     "on-surface": {
       "neutral": {
@@ -1145,6 +1237,76 @@
             "value": "{light.accent.300}",
             "type": "color"
           }
+        }
+      }
+    },
+    "on-interactive": {
+      "neutral": {
+        "default": {
+          "value": "{light.neutral.100}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{light.neutral.200}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{light.neutral.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{light.neutral.200}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{light.neutral.600}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{light.neutral.500}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{light.neutral.25}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{light.neutral.500}",
+          "type": "color"
+        }
+      },
+      "positive": {
+        "default": {
+          "value": "{light.positive.100}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{light.positive.200}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{light.positive.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{light.positive.200}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{light.positive.600}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{light.positive.500}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{light.positive.25}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{light.positive.500}",
+          "type": "color"
         }
       }
     }
