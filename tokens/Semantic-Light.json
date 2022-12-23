@@ -1046,6 +1046,14 @@
           "secondary": {
             "value": "{light.neutral.300}",
             "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.neutral.25}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.neutral.400}",
+            "type": "color"
           }
         },
         "hovered": {
@@ -1055,6 +1063,14 @@
           },
           "secondary": {
             "value": "{light.neutral.200}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.neutral.300}",
             "type": "color"
           }
         }
@@ -1068,6 +1084,14 @@
           "secondary": {
             "value": "{light.positive.300}",
             "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.positive.100}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.positive.400}",
+            "type": "color"
           }
         },
         "hovered": {
@@ -1077,6 +1101,14 @@
           },
           "secondary": {
             "value": "{light.positive.200}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.positive.50}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.positive.300}",
             "type": "color"
           }
         }
@@ -1090,6 +1122,14 @@
           "secondary": {
             "value": "{light.warning.300}",
             "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.warning.100}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.warning.400}",
+            "type": "color"
           }
         },
         "hovered": {
@@ -1099,6 +1139,14 @@
           },
           "secondary": {
             "value": "{light.warning.200}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.warning.50}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.warning.300}",
             "type": "color"
           }
         }
@@ -1112,6 +1160,14 @@
           "secondary": {
             "value": "{light.negative.300}",
             "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.negative.100}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.negative.400}",
+            "type": "color"
           }
         },
         "hovered": {
@@ -1121,6 +1177,14 @@
           },
           "secondary": {
             "value": "{light.negative.200}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.negative.50}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.negative.300}",
             "type": "color"
           }
         }
@@ -1132,17 +1196,33 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{light.negative.300}",
+            "value": "{light.accent.300}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.accent.100}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.accent.400}",
             "type": "color"
           }
         },
         "hovered": {
           "primary": {
-            "value": "{light.negative.500}",
+            "value": "{light.accent.500}",
             "type": "color"
           },
           "secondary": {
-            "value": "{light.negative.200}",
+            "value": "{light.accent.200}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{light.accent.50}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{light.accent.300}",
             "type": "color"
           }
         }
