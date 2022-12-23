@@ -1308,6 +1308,108 @@
           "value": "{light.positive.500}",
           "type": "color"
         }
+      },
+      "warning": {
+        "default": {
+          "value": "{light.warning.100}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{light.warning.200}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{light.warning.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{light.warning.200}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{light.warning.600}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{light.warning.500}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{light.warning.25}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{light.warning.500}",
+          "type": "color"
+        }
+      },
+      "negative": {
+        "default": {
+          "value": "{light.negative.100}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{light.negative.200}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{light.negative.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{light.negative.200}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{light.negative.600}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{light.negative.500}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{light.negative.25}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{light.negative.500}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "default": {
+          "value": "{light.accent.100}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{light.accent.200}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{light.accent.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{light.accent.200}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{light.accent.600}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{light.accent.500}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{light.accent.25}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{light.accent.500}",
+          "type": "color"
+        }
       }
     }
   },
