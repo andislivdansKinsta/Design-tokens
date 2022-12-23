@@ -1795,6 +1795,228 @@
           }
         }
       }
+    },
+    "on-action": {
+      "neutral": {
+        "primary": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.neutral.300}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.neutral.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{light.neutral.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.neutral.700}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.neutral.600}",
+            "type": "color"
+          }
+        },
+        "alternative": {
+          "strong": {
+            "value": "{light.neutral.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.neutral.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.neutral.400}",
+            "type": "color"
+          }
+        }
+      },
+      "positive": {
+        "primary": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.positive.50}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.positive.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{light.positive.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.positive.700}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.positive.600}",
+            "type": "color"
+          }
+        },
+        "alternative": {
+          "strong": {
+            "value": "{light.positive.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.positive.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.positive.400}",
+            "type": "color"
+          }
+        }
+      },
+      "warning": {
+        "primary": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.warning.50}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.warning.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{light.warning.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.warning.700}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.warning.600}",
+            "type": "color"
+          }
+        },
+        "alternative": {
+          "strong": {
+            "value": "{light.warning.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.warning.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.warning.400}",
+            "type": "color"
+          }
+        }
+      },
+      "negative": {
+        "primary": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.negative.50}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.negative.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{light.negative.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.negative.700}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.negative.600}",
+            "type": "color"
+          }
+        },
+        "alternative": {
+          "strong": {
+            "value": "{light.negative.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.negative.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.negative.400}",
+            "type": "color"
+          }
+        }
+      },
+      "accent": {
+        "primary": {
+          "strong": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.accent.50}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.accent.100}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "strong": {
+            "value": "{light.accent.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.accent.700}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.accent.600}",
+            "type": "color"
+          }
+        },
+        "alternative": {
+          "strong": {
+            "value": "{light.accent.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.accent.500}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.accent.400}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }
