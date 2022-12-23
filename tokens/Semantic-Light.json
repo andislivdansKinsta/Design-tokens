@@ -2487,6 +2487,318 @@
           }
         }
       }
+    },
+    "on-interactive": {
+      "neutral": {
+        "default": {
+          "strong": {
+            "value": "{light.neutral.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{light.neutral.700}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.neutral.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.neutral.300}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal-inverse": {
+            "value": "{light.neutral.50}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.neutral.300}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.neutral.500}",
+            "type": "color"
+          }
+        },
+        "immutable": {
+          "strong": {
+            "value": "{light.neutral.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.neutral.600}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.neutral.500}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.neutral.100}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.neutral.200}",
+            "type": "color"
+          }
+        }
+      },
+      "positive": {
+        "default": {
+          "strong": {
+            "value": "{light.positive.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{light.positive.700}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.positive.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.positive.300}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal-inverse": {
+            "value": "{light.positive.50}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.positive.300}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.positive.500}",
+            "type": "color"
+          }
+        },
+        "immutable": {
+          "strong": {
+            "value": "{light.positive.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.positive.600}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.positive.500}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.positive.100}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.positive.200}",
+            "type": "color"
+          }
+        }
+      },
+      "warning": {
+        "default": {
+          "strong": {
+            "value": "{light.warning.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{light.warning.700}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.warning.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.warning.300}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal-inverse": {
+            "value": "{light.warning.50}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.warning.300}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.warning.500}",
+            "type": "color"
+          }
+        },
+        "immutable": {
+          "strong": {
+            "value": "{light.warning.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.warning.600}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.warning.500}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.warning.100}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.warning.200}",
+            "type": "color"
+          }
+        }
+      },
+      "negative": {
+        "default": {
+          "strong": {
+            "value": "{light.negative.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{light.negative.700}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.negative.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.negative.300}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal-inverse": {
+            "value": "{light.negative.50}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.negative.300}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.negative.500}",
+            "type": "color"
+          }
+        },
+        "immutable": {
+          "strong": {
+            "value": "{light.negative.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.negative.600}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.negative.500}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.negative.100}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.negative.200}",
+            "type": "color"
+          }
+        }
+      },
+      "accent": {
+        "default": {
+          "strong": {
+            "value": "{light.accent.900}",
+            "type": "color"
+          },
+          "normal": {
+            "value": "{light.accent.700}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.accent.400}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.accent.300}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "normal-inverse": {
+            "value": "{light.accent.50}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.accent.300}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.accent.500}",
+            "type": "color"
+          }
+        },
+        "immutable": {
+          "strong": {
+            "value": "{light.accent.900}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{light.accent.600}",
+            "type": "color"
+          },
+          "weakest": {
+            "value": "{light.accent.500}",
+            "type": "color"
+          },
+          "strong-inverse": {
+            "value": "{light.neutral.0}",
+            "type": "color"
+          },
+          "weak-inverse": {
+            "value": "{light.accent.100}",
+            "type": "color"
+          },
+          "weakest-inverse": {
+            "value": "{light.accent.200}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }
