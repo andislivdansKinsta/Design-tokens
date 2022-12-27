@@ -1440,115 +1440,87 @@
           "value": "{light.palette.neutral.1000}",
           "type": "other"
         },
-        "on-background": {
+        "on-surface-base": {
           "opacity-1": {
             "value": "0.18",
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-background.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-background.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
-        "on-surface-low-emphasis": {
+        "on-surface-primary": {
           "opacity-1": {
             "value": "0.19",
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
-        "on-surface": {
+        "on-surface-secondary": {
           "opacity-1": {
             "value": "0.19",
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
-        "on-surface-high-emphasis": {
-          "opacity-1": {
-            "value": "0.22",
-            "type": "other"
-          },
-          "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-high-emphasis.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
-            "type": "other"
-          },
-          "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-high-emphasis.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
-            "type": "other"
-          }
-        },
-        "on-surface-high-emphasis-inverse": {
-          "opacity-1": {
-            "value": "0.23",
-            "type": "other"
-          },
-          "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-high-emphasis-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
-            "type": "other"
-          },
-          "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-high-emphasis-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
-            "type": "other"
-          }
-        },
-        "on-surface-inverse": {
-          "opacity-1": {
-            "value": "0.32",
-            "type": "other"
-          },
-          "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
-            "type": "other"
-          },
-          "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
-            "type": "other"
-          }
-        },
-        "on-surface-low-emphasis-inverse": {
+        "on-surface-secondary-inverse": {
           "opacity-1": {
             "value": "0.48",
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
-        "on-background-inverse": {
+        "on-surface-primary-inverse": {
           "opacity-1": {
             "value": "0.57",
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-background-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-background-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "type": "other"
+          }
+        },
+        "on-surface-base-inverse": {
+          "opacity-1": {
+            "value": "1",
+            "type": "other"
+          },
+          "opacity-2": {
+            "value": "roundTo({box-shadow.color.light.on-surface-base-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "type": "other"
+          },
+          "opacity-3": {
+            "value": "roundTo({box-shadow.color.light.on-surface-base-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         }
@@ -1572,11 +1544,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-background.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-background.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
@@ -1586,11 +1558,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
@@ -1600,11 +1572,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
@@ -1642,11 +1614,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-secondary-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
@@ -1656,11 +1628,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-primary-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         },
@@ -1670,11 +1642,11 @@
             "type": "other"
           },
           "opacity-2": {
-            "value": "roundTo({box-shadow.color.light.on-background-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base-inverse.opacity-1} / {box-shadow.color.scale} /0.01, 0) *0.01",
             "type": "other"
           },
           "opacity-3": {
-            "value": "roundTo({box-shadow.color.light.on-background-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
+            "value": "roundTo({box-shadow.color.light.on-surface-base-inverse.opacity-2} / (2*{box-shadow.color.scale}) /0.01, 0) *0.01",
             "type": "other"
           }
         }
@@ -1689,7 +1661,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1697,7 +1669,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1705,7 +1677,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1718,7 +1690,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1726,7 +1698,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1734,7 +1706,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1747,7 +1719,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1755,7 +1727,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1763,7 +1735,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1776,7 +1748,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1784,7 +1756,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1792,7 +1764,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1805,7 +1777,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1813,7 +1785,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1821,7 +1793,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1834,7 +1806,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1842,7 +1814,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1850,7 +1822,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1863,7 +1835,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1871,7 +1843,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1879,7 +1851,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-background.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-base.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1894,7 +1866,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1902,7 +1874,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1910,7 +1882,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1923,7 +1895,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1931,7 +1903,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1939,7 +1911,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1952,7 +1924,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1960,7 +1932,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1968,7 +1940,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -1981,7 +1953,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -1989,7 +1961,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -1997,7 +1969,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2010,7 +1982,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2018,7 +1990,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2026,7 +1998,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2039,7 +2011,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2047,7 +2019,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2055,7 +2027,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2068,7 +2040,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2076,7 +2048,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2084,7 +2056,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-low-emphasis.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-primary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2099,7 +2071,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2107,7 +2079,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2115,7 +2087,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2128,7 +2100,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2136,7 +2108,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2144,7 +2116,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2157,7 +2129,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2165,7 +2137,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2173,7 +2145,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2186,7 +2158,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2194,7 +2166,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2202,7 +2174,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2215,7 +2187,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2223,7 +2195,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2231,7 +2203,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2244,7 +2216,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2252,7 +2224,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2260,7 +2232,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2273,7 +2245,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2281,7 +2253,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2289,7 +2261,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-600}, {box-shadow.color.light.on-surface-secondary.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2304,7 +2276,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2312,7 +2284,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2320,7 +2292,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2333,7 +2305,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2341,7 +2313,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2349,7 +2321,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2362,7 +2334,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2370,7 +2342,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2378,7 +2350,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2391,7 +2363,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2399,7 +2371,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2407,7 +2379,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2420,7 +2392,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2428,7 +2400,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2436,7 +2408,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2449,7 +2421,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2457,7 +2429,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2465,7 +2437,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2478,7 +2450,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2486,7 +2458,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2494,7 +2466,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-secondary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2509,7 +2481,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2517,7 +2489,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2525,7 +2497,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2538,7 +2510,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2546,7 +2518,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2554,7 +2526,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2567,7 +2539,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2575,7 +2547,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2583,7 +2555,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2596,7 +2568,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2604,7 +2576,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2612,7 +2584,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2625,7 +2597,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2633,7 +2605,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2641,7 +2613,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2654,7 +2626,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2662,7 +2634,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2670,7 +2642,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2683,7 +2655,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2691,7 +2663,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2699,7 +2671,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-low-emphasis-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-900}, {box-shadow.color.light.on-surface-primary-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2714,7 +2686,7 @@
               "y": "{box-shadow.axis.x-small.1}",
               "blur": "{box-shadow.blur.x-small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2722,7 +2694,7 @@
               "y": "{box-shadow.axis.x-small.2}",
               "blur": "{box-shadow.blur.x-small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2730,7 +2702,7 @@
               "y": "{box-shadow.axis.x-small.3}",
               "blur": "{box-shadow.blur.x-small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2743,7 +2715,7 @@
               "y": "{box-shadow.axis.small.1}",
               "blur": "{box-shadow.blur.small.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2751,7 +2723,7 @@
               "y": "{box-shadow.axis.small.2}",
               "blur": "{box-shadow.blur.small.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2759,7 +2731,7 @@
               "y": "{box-shadow.axis.small.3}",
               "blur": "{box-shadow.blur.small.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2772,7 +2744,7 @@
               "y": "{box-shadow.axis.regular.1}",
               "blur": "{box-shadow.blur.regular.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2780,7 +2752,7 @@
               "y": "{box-shadow.axis.regular.2}",
               "blur": "{box-shadow.blur.regular.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2788,7 +2760,7 @@
               "y": "{box-shadow.axis.regular.3}",
               "blur": "{box-shadow.blur.regular.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2801,7 +2773,7 @@
               "y": "{box-shadow.axis.medium.1}",
               "blur": "{box-shadow.blur.medium.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2809,7 +2781,7 @@
               "y": "{box-shadow.axis.medium.2}",
               "blur": "{box-shadow.blur.medium.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2817,7 +2789,7 @@
               "y": "{box-shadow.axis.medium.3}",
               "blur": "{box-shadow.blur.medium.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2830,7 +2802,7 @@
               "y": "{box-shadow.axis.large.1}",
               "blur": "{box-shadow.blur.large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2838,7 +2810,7 @@
               "y": "{box-shadow.axis.large.2}",
               "blur": "{box-shadow.blur.large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2846,7 +2818,7 @@
               "y": "{box-shadow.axis.large.3}",
               "blur": "{box-shadow.blur.large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2859,7 +2831,7 @@
               "y": "{box-shadow.axis.x-large.1}",
               "blur": "{box-shadow.blur.x-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2867,7 +2839,7 @@
               "y": "{box-shadow.axis.x-large.2}",
               "blur": "{box-shadow.blur.x-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2875,7 +2847,7 @@
               "y": "{box-shadow.axis.x-large.3}",
               "blur": "{box-shadow.blur.x-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
@@ -2888,7 +2860,7 @@
               "y": "{box-shadow.axis.xx-large.1}",
               "blur": "{box-shadow.blur.xx-large.1}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-1})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-1})",
               "type": "dropShadow"
             },
             {
@@ -2896,7 +2868,7 @@
               "y": "{box-shadow.axis.xx-large.2}",
               "blur": "{box-shadow.blur.xx-large.2}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-2})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-2})",
               "type": "dropShadow"
             },
             {
@@ -2904,7 +2876,7 @@
               "y": "{box-shadow.axis.xx-large.3}",
               "blur": "{box-shadow.blur.xx-large.3}",
               "spread": "0",
-              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-background-inverse.opacity-3})",
+              "color": "rgba({box-shadow.color.light.neutral-1000}, {box-shadow.color.light.on-surface-base-inverse.opacity-3})",
               "type": "dropShadow"
             }
           ],
