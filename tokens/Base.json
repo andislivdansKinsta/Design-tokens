@@ -5148,9 +5148,5 @@
         }
       }
     }
-  },
-  "combo-shadow": {
-    "value": "box-shadow.light.on-surface-base.xx-large",
-    "type": "boxShadow"
   }
 }
