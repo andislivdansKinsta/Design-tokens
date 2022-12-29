@@ -1,12 +1,25 @@
 [
   {
+    "id": "f40c57b83b4e26dcfcfa2819e44bc35dd4b59e3c",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "Semantic-Light": "disabled",
+      "Semantic-Dark": "enabled",
+      "Semantic-Global": "enabled",
+      "Base": "source",
+      "Semantic-Base": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
     "id": "f2e2954b12158df2eaeef1f9dac452678b699d21",
     "name": "Light",
     "selectedTokenSets": {
       "Semantic-Light": "enabled",
       "Semantic-Dark": "disabled",
-      "Global": "source",
-      "Semantic-Global": "source"
+      "Semantic-Global": "enabled",
+      "Base": "source",
+      "Semantic-Base": "source"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
@@ -1330,16 +1343,5 @@
       "border.on-action.accent-inverse.strong-alt.hovered": "S:b71b3236c618d70699979d3d328524cf7afd1b3a,",
       "border.on-action.accent-inverse.strong-alt.pressed": "S:753f5f534f40ff435770ad84e940b8f08c05f66b,"
     }
-  },
-  {
-    "id": "f40c57b83b4e26dcfcfa2819e44bc35dd4b59e3c",
-    "name": "Dark",
-    "selectedTokenSets": {
-      "Semantic-Light": "disabled",
-      "Semantic-Dark": "enabled",
-      "Global": "source",
-      "Semantic-Global": "source"
-    },
-    "$figmaStyleReferences": {}
   }
 ]
