@@ -1484,7 +1484,7 @@
         },
         "on-surface-secondary-inverse": {
           "opacity-1": {
-            "value": "0.48",
+            "value": "0.24",
             "type": "other"
           },
           "opacity-2": {
@@ -1498,7 +1498,7 @@
         },
         "on-surface-primary-inverse": {
           "opacity-1": {
-            "value": "0.57",
+            "value": "0.29",
             "type": "other"
           },
           "opacity-2": {
@@ -1512,7 +1512,7 @@
         },
         "on-surface-base-inverse": {
           "opacity-1": {
-            "value": "1",
+            "value": "0.5",
             "type": "other"
           },
           "opacity-2": {
@@ -1540,7 +1540,7 @@
         },
         "on-surface-base": {
           "opacity-1": {
-            "value": "1.00",
+            "value": "0.5",
             "type": "other"
           },
           "opacity-2": {
@@ -1554,7 +1554,7 @@
         },
         "on-surface-primary": {
           "opacity-1": {
-            "value": "1.00",
+            "value": "0.32",
             "type": "other"
           },
           "opacity-2": {
@@ -1568,7 +1568,7 @@
         },
         "on-surface-secondary": {
           "opacity-1": {
-            "value": "0.52",
+            "value": "0.26",
             "type": "other"
           },
           "opacity-2": {
