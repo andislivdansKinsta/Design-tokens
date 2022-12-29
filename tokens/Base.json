@@ -5131,5 +5131,26 @@
       "type": "other",
       "description": "Default z-index for toast messages."
     }
+  },
+  "focused-shadow": {
+    "light": {
+      "neutral": {
+        "default": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "#C5C5C7",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
+    }
+  },
+  "combo-shadow": {
+    "value": "box-shadow.light.on-surface-base.xx-large",
+    "type": "boxShadow"
   }
 }
