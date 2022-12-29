@@ -3,10 +3,10 @@
     "id": "f2e2954b12158df2eaeef1f9dac452678b699d21",
     "name": "Light",
     "selectedTokenSets": {
-      "Base": "source",
       "Semantic-Light": "enabled",
       "Semantic-Dark": "disabled",
-      "Semantic-Base": "source"
+      "Global": "source",
+      "Semantic-Global": "source"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
@@ -1335,10 +1335,10 @@
     "id": "f40c57b83b4e26dcfcfa2819e44bc35dd4b59e3c",
     "name": "Dark",
     "selectedTokenSets": {
-      "Base": "source",
       "Semantic-Light": "disabled",
       "Semantic-Dark": "enabled",
-      "Semantic-Base": "source"
+      "Global": "source",
+      "Semantic-Global": "source"
     },
     "$figmaStyleReferences": {}
   }
