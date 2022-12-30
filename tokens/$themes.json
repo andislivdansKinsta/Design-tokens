@@ -3,7 +3,6 @@
     "id": "f40c57b83b4e26dcfcfa2819e44bc35dd4b59e3c",
     "name": "Dark",
     "selectedTokenSets": {
-      "Semantic-Light": "disabled",
       "Semantic-Dark": "enabled",
       "Semantic-Global": "enabled",
       "Base": "source",
@@ -16,7 +15,6 @@
     "name": "Light",
     "selectedTokenSets": {
       "Semantic-Light": "enabled",
-      "Semantic-Dark": "disabled",
       "Semantic-Global": "enabled",
       "Base": "source",
       "Semantic-Base": "source"
