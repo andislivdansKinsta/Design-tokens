@@ -782,7 +782,6 @@
       "color.action.on-surface.base/weak/normal-copy.accent.default": "S:6bac5ec8775e3f6fc7b2a822f4853330480cb50e,",
       "color.action.on-surface.base/weak/normal-copy.accent.hovered": "S:45c48e8a158dc9a1bfa76446561c5b5849d6ffa5,",
       "color.action.on-surface.base/weak/normal-copy.accent.pressed": "S:9844f1319b9e586967f71b56cfa283fb699aba38,",
-      "surface.neutral.base.default": "S:27b345c1d133dfb2b97ac8b3585d765a77a4bcc2,",
       "surface.neutral.base.hovered": "S:c9b66dc35c65a7596eb1c799684bdfe5ec7ff84e,",
       "surface.neutral.base.pressed": "S:a8b1dc13d787b059b5d028989bd617844a50dbf4,",
       "surface.neutral.weak.default": "S:af6b4f7d37f7032b06291c9d0f4e901f9c58d5c7,",
@@ -1339,7 +1338,8 @@
       "border.on-action.accent-inverse.weak-alt.pressed": "S:835d0fa32e055939c6f67940c45ada68d3d7a909,",
       "border.on-action.accent-inverse.strong-alt.default": "S:3d5ccce230419134493e71e3d717b3558cd75433,",
       "border.on-action.accent-inverse.strong-alt.hovered": "S:b71b3236c618d70699979d3d328524cf7afd1b3a,",
-      "border.on-action.accent-inverse.strong-alt.pressed": "S:753f5f534f40ff435770ad84e940b8f08c05f66b,"
+      "border.on-action.accent-inverse.strong-alt.pressed": "S:753f5f534f40ff435770ad84e940b8f08c05f66b,",
+      "surface.neutral.default.base": "S:27b345c1d133dfb2b97ac8b3585d765a77a4bcc2,"
     }
   }
 ]
