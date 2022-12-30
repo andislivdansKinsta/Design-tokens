@@ -9191,11 +9191,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "{dark.neutral.100}",
+          "value": "{dark.neutral.50}",
           "type": "color"
         },
         "secondary": {
-          "value": "{dark.neutral.200}",
+          "value": "{dark.neutral.100}",
           "type": "color"
         },
         "secondary-inverse": {
@@ -9217,7 +9217,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{dark.neutral.200}",
+          "value": "{dark.neutral.100}",
           "type": "color"
         },
         "secondary": {
@@ -9243,7 +9243,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{dark.neutral.50}",
+          "value": "{dark.neutral.0}",
           "type": "color"
         },
         "secondary": {
@@ -9288,15 +9288,27 @@
       "neutral": {
         "default": {
           "base": {
-            "value": "{dark.neutral.100}",
+            "value": "{dark.neutral.50}",
             "type": "color"
           },
           "primary": {
-            "value": "{dark.neutral.100}",
+            "value": "{dark.neutral.200}",
             "type": "color"
           },
           "secondary": {
-            "value": "{dark.neutral.200}",
+            "value": "{dark.neutral.300}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{dark.neutral.800}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{dark.neutral.900}",
+            "type": "color"
+          },
+          "base-inverse": {
+            "value": "{dark.neutral.1000}",
             "type": "color"
           }
         },
@@ -9306,11 +9318,23 @@
             "type": "color"
           },
           "primary": {
-            "value": "{dark.neutral.200}",
+            "value": "{dark.neutral.300}",
             "type": "color"
           },
           "secondary": {
-            "value": "{dark.neutral.300}",
+            "value": "{dark.neutral.400}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{dark.neutral.700}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{dark.neutral.800}",
+            "type": "color"
+          },
+          "base-inverse": {
+            "value": "{dark.neutral.900}",
             "type": "color"
           }
         }
