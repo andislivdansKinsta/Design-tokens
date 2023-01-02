@@ -10406,47 +10406,47 @@
       "alpha": {
         "base": {
           "strong": {
-            "value": "{dark.neutral.900}",
+            "value": "{alpha.white.900}",
             "type": "color"
           },
           "normal": {
-            "value": "{dark.neutral.700}",
+            "value": "{alpha.white.700}",
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.500}",
+            "value": "{alpha.white.400}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.400}",
+            "value": "{alpha.white.200}",
             "type": "color"
           }
         },
         "primary": {
           "strong": {
-            "value": "{dark.neutral.900}",
+            "value": "{alpha.white.900}",
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.500}",
+            "value": "{alpha.white.400}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.400}",
+            "value": "{alpha.white.300}",
             "type": "color"
           }
         },
         "secondary": {
           "strong": {
-            "value": "{dark.neutral.900}",
+            "value": "{alpha.white.900}",
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.600}",
+            "value": "{alpha.white.500}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.500}",
+            "value": "{alpha.white.300}",
             "type": "color"
           }
         },
@@ -10456,11 +10456,11 @@
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.200}",
+            "value": "{alpha.black.500}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.300}",
+            "value": "{alpha.black.400}",
             "type": "color"
           }
         },
@@ -10470,11 +10470,11 @@
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.200}",
+            "value": "{alpha.black.500}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.400}",
+            "value": "{alpha.black.300}",
             "type": "color"
           }
         },
@@ -10484,15 +10484,15 @@
             "type": "color"
           },
           "normal": {
-            "value": "{dark.neutral.50}",
+            "value": "{alpha.black.800}",
             "type": "color"
           },
           "weak": {
-            "value": "{dark.neutral.300}",
+            "value": "{alpha.black.500}",
             "type": "color"
           },
           "weakest": {
-            "value": "{dark.neutral.500}",
+            "value": "{alpha.black.300}",
             "type": "color"
           }
         }
