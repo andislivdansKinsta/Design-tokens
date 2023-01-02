@@ -10702,6 +10702,40 @@
           "value": "{dark.accent.500}",
           "type": "color"
         }
+      },
+      "alpha": {
+        "default": {
+          "value": "{alpha.white.200}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{alpha.white.300}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{alpha.white.800}",
+          "type": "color"
+        },
+        "immutable": {
+          "value": "{alpha.white.300}",
+          "type": "color"
+        },
+        "default-inverse": {
+          "value": "{alpha.black.200}",
+          "type": "color"
+        },
+        "hovered-inverse": {
+          "value": "{alpha.black.300}",
+          "type": "color"
+        },
+        "pressed-inverse": {
+          "value": "{alpha.black.800}",
+          "type": "color"
+        },
+        "immutable-inverse": {
+          "value": "{alpha.black.300}",
+          "type": "color"
+        }
       }
     }
   },
