@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "Base",
-    "Semantic-Base",
+    "Semantic-Colors",
     "Semantic-Global",
     "Semantic-Light",
     "Semantic-Dark"

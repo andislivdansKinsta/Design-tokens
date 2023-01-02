@@ -6,7 +6,7 @@
       "Semantic-Dark": "enabled",
       "Semantic-Global": "enabled",
       "Base": "source",
-      "Semantic-Base": "source"
+      "Semantic-Colors": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -17,7 +17,7 @@
       "Semantic-Light": "enabled",
       "Semantic-Global": "enabled",
       "Base": "source",
-      "Semantic-Base": "source"
+      "Semantic-Colors": "source"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
