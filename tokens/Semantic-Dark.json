@@ -12140,7 +12140,7 @@
             "type": "color"
           },
           "weakest": {
-            "value": "{alpha.white.300}",
+            "value": "{alpha.white.200}",
             "type": "color"
           },
           "strong-inverse": {
@@ -12148,15 +12148,15 @@
             "type": "color"
           },
           "normal-inverse": {
-            "value": "{alpha.black.700}",
+            "value": "{alpha.black.800}",
             "type": "color"
           },
           "weak-inverse": {
-            "value": "{alpha.black.300}",
+            "value": "{alpha.black.500}",
             "type": "color"
           },
           "weakest-inverse": {
-            "value": "{alpha.black.200}",
+            "value": "{alpha.black.300}",
             "type": "color"
           }
         },
