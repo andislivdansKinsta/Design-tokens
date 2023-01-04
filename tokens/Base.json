@@ -1615,43 +1615,43 @@
           "type": "other"
         },
         "focus-neutral": {
-          "value": "{light.neutral.100}",
+          "value": "{neutral.100}",
           "type": "other"
         },
         "focus-positive": {
-          "value": "{light.positive.100}",
+          "value": "{positive.100}",
           "type": "other"
         },
         "focus-warning": {
-          "value": "{light.warning.100}",
+          "value": "{warning.100}",
           "type": "other"
         },
         "focus-negative": {
-          "value": "{light.negative.100}",
+          "value": "{negative.100}",
           "type": "other"
         },
         "focus-accent": {
-          "value": "{light.accent.100}",
+          "value": "{accent.100}",
           "type": "other"
         },
         "focus-neutral-inverse": {
-          "value": "{light.neutral.600}",
+          "value": "{neutral.600}",
           "type": "other"
         },
         "focus-positive-inverse": {
-          "value": "{light.positive.600}",
+          "value": "{positive.600}",
           "type": "other"
         },
         "focus-warning-inverse": {
-          "value": "{light.warning.600}",
+          "value": "{warning.600}",
           "type": "other"
         },
         "focus-negative-inverse": {
-          "value": "{light.negative.600}",
+          "value": "{negative.600}",
           "type": "other"
         },
         "focus-accent-inverse": {
-          "value": "{light.accent.600}",
+          "value": "{accent.600}",
           "type": "other"
         }
       },
@@ -1669,43 +1669,43 @@
           "type": "other"
         },
         "focus-neutral": {
-          "value": "{dark.neutral.200}",
+          "value": "{neutral.200}",
           "type": "other"
         },
         "focus-positive": {
-          "value": "{dark.positive.200}",
+          "value": "{positive.200}",
           "type": "other"
         },
         "focus-warning": {
-          "value": "{dark.warning.200}",
+          "value": "{warning.200}",
           "type": "other"
         },
         "focus-negative": {
-          "value": "{dark.negative.200}",
+          "value": "{negative.200}",
           "type": "other"
         },
         "focus-accent": {
-          "value": "{dark.accent.200}",
+          "value": "{accent.200}",
           "type": "other"
         },
         "focus-neutral-inverse": {
-          "value": "{dark.neutral.700}",
+          "value": "{neutral.700}",
           "type": "other"
         },
         "focus-positive-inverse": {
-          "value": "{dark.positive.700}",
+          "value": "{positive.700}",
           "type": "other"
         },
         "focus-warning-inverse": {
-          "value": "{dark.warning.700}",
+          "value": "{warning.700}",
           "type": "other"
         },
         "focus-negative-inverse": {
-          "value": "{dark.negative.700}",
+          "value": "{negative.700}",
           "type": "other"
         },
         "focus-accent-inverse": {
-          "value": "{dark.accent.700}",
+          "value": "{accent.700}",
           "type": "other"
         }
       }
