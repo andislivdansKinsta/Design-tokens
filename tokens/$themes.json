@@ -1988,9 +1988,6 @@
       "text.on-interactive.alpha.immutable.strong-inverse": "S:6604a601006dd21e4915bc4e54bfbac6b18a5a30,",
       "text.on-interactive.alpha.immutable.weak-inverse": "S:293d1c616d33dc285bb50f095db2717d3f3e1c85,",
       "text.on-interactive.alpha.immutable.weakest-inverse": "S:018be54db00008068d2bd72b059844519f5bb226,",
-      "paragraph.xx-small.regular": "S:e780d6d12978a14895270843382702ab11609753,",
-      "paragraph.xx-small.medium": "S:024238405ea8a1cd4b8f2450cb85d6a51a70e56a,",
-      "paragraph.xx-small.bold": "S:9d6e955fd2813919c7a58bcf9efa5c619436638d,",
       "paragraph.x-small.regular": "S:b2ec4ce82d4a7a219540ce4f1d696a6638ccf6b1,",
       "paragraph.x-small.medium": "S:8a83a1928103c6df5f1cf8d01504693dcbe04b8c,",
       "paragraph.x-small.bold": "S:f0da17025166f49f2e3b30376c01ca90b47f0b7b,",
@@ -2345,7 +2342,10 @@
       "box-shadow-focused.accent.on-surface-base-inverse.medium": "S:47db79c813a5b01f5407fab31a22789d9401b2fe,",
       "box-shadow-focused.accent.on-surface-base-inverse.large": "S:fc4f9998e74d666d3f98d230a550a83196bc07e3,",
       "box-shadow-focused.accent.on-surface-base-inverse.x-large": "S:e42d72af5fa73234e4d807332345a02f6ac0a66b,",
-      "box-shadow-focused.accent.on-surface-base-inverse.xx-large": "S:9216185b9403dcb85338df46b2c7f979b9755ddb,"
+      "box-shadow-focused.accent.on-surface-base-inverse.xx-large": "S:9216185b9403dcb85338df46b2c7f979b9755ddb,",
+      "paragraph.xx-small.400": "S:e780d6d12978a14895270843382702ab11609753,",
+      "paragraph.xx-small.500": "S:024238405ea8a1cd4b8f2450cb85d6a51a70e56a,",
+      "paragraph.xx-small.700": "S:9d6e955fd2813919c7a58bcf9efa5c619436638d,"
     }
   },
   {
@@ -3018,9 +3018,6 @@
       "text.on-interactive.alpha.immutable.strong-inverse": "S:4e0aba81a571c224b424a0a0966d457c1f89c762,",
       "text.on-interactive.alpha.immutable.weak-inverse": "S:c746c2eaade48371bf5f034546e28e035d0825c8,",
       "text.on-interactive.alpha.immutable.weakest-inverse": "S:17bd6df7538b07b90aac9531579d6799708dab16,",
-      "paragraph.xx-small.regular": "S:63b14429da15a3f8d417cbe93e35dbf7cc9d01aa,",
-      "paragraph.xx-small.medium": "S:94a6fa40abdf2cb6ad3f40e9b842f279fb79549a,",
-      "paragraph.xx-small.bold": "S:76272bbb748f9e42463bbe43f1964feea967cfe3,",
       "paragraph.x-small.regular": "S:f91a0b2d7dbc43c6aedc0169ba29e432b19e6d9c,",
       "paragraph.x-small.medium": "S:09dd39f3d68eea784c439fd2778e660f06fe04d4,",
       "paragraph.x-small.bold": "S:c841c390bc8792f04941dd63018dc7df2b366332,",
@@ -3375,7 +3372,10 @@
       "box-shadow-focused.accent.on-surface-base-inverse.medium": "S:21a0bce461a9cbcd2d61fcd8b85b790921328a1d,",
       "box-shadow-focused.accent.on-surface-base-inverse.large": "S:24a45c5d3d3be6a097ea8a726d98a96f88420aeb,",
       "box-shadow-focused.accent.on-surface-base-inverse.x-large": "S:ce3669ad6e0b4e45147aa8ebede8b28073486d2d,",
-      "box-shadow-focused.accent.on-surface-base-inverse.xx-large": "S:3f0f1bc6bcb3628fdd479d21ce4a0614d89fe5a4,"
+      "box-shadow-focused.accent.on-surface-base-inverse.xx-large": "S:3f0f1bc6bcb3628fdd479d21ce4a0614d89fe5a4,",
+      "paragraph.xx-small.400": "S:63b14429da15a3f8d417cbe93e35dbf7cc9d01aa,",
+      "paragraph.xx-small.500": "S:94a6fa40abdf2cb6ad3f40e9b842f279fb79549a,",
+      "paragraph.xx-small.700": "S:76272bbb748f9e42463bbe43f1964feea967cfe3,"
     }
   },
   {
@@ -3501,9 +3501,6 @@
       "dark.accent.700": "S:80413a2ceb69d84af5ec2098abc26bc4dc1cdf66,",
       "dark.accent.800": "S:a70991ae8af36b6aa465cc7f15e67b32eda69192,",
       "dark.accent.900": "S:2ad25414d82e237fb6350bd77286c7b2c170a7ac,",
-      "paragraph.xx-small.regular": "S:7283077bdb81b547d6ef8a0f44cad5b66ffa21b5,",
-      "paragraph.xx-small.medium": "S:8d6bd29f25825246ce175072842fffd302f5880f,",
-      "paragraph.xx-small.bold": "S:652613061fab3885a41230e5876bb65e66791cbf,",
       "paragraph.x-small.regular": "S:57212dae331843a0ad622abc01d58a9fadd2ab66,",
       "paragraph.x-small.medium": "S:68e7e533053e2ed025aa5b7c04c662eed3a03b98,",
       "paragraph.x-small.bold": "S:2dd53b9056ec1d841a38b3bb32a6b414f6e4bb7d,",
@@ -3653,7 +3650,10 @@
       "accent.600": "S:c98b2a57412eef5ff8b0bf5af088a1fc2f37bf87,",
       "accent.700": "S:966f26538ec2637e52235a3d75d56d4fdf6cf3d0,",
       "accent.800": "S:3162bc3073e67298230e7dd7c56ac5348c439077,",
-      "accent.900": "S:0f7e385de2e39e135932d53c45513bf58088e031,"
+      "accent.900": "S:0f7e385de2e39e135932d53c45513bf58088e031,",
+      "paragraph.xx-small.400": "S:7283077bdb81b547d6ef8a0f44cad5b66ffa21b5,",
+      "paragraph.xx-small.500": "S:8d6bd29f25825246ce175072842fffd302f5880f,",
+      "paragraph.xx-small.700": "S:652613061fab3885a41230e5876bb65e66791cbf,"
     }
   },
   {
@@ -3722,9 +3722,6 @@
       "accent.700": "S:85e876d47234f08f86d821e0660e2919819e4fff,",
       "accent.800": "S:fbb7d80d54f824d54cbd31119fd01325a55bffcc,",
       "accent.900": "S:d1dd6671fe49eee6697e78926e9829aa5d3084e7,",
-      "paragraph.xx-small.regular": "S:b639e0d5920f39325b7ed0cacbedc711c61a17cc,",
-      "paragraph.xx-small.medium": "S:748c30f52e2d380224562b4318c9cfa6399320da,",
-      "paragraph.xx-small.bold": "S:427f65e0d875cc655f9e8388157e58d37632f7ff,",
       "paragraph.x-small.regular": "S:ebd2deee3db77a396122f3d7001514451997baa6,",
       "paragraph.x-small.medium": "S:d6bf24ad0639eac682cd01cfbf3eca7a43704541,",
       "paragraph.x-small.bold": "S:e660b8c0de1f159ebddf36876916a86253618101,",
@@ -3817,7 +3814,10 @@
       "display.x-large.bold": "S:2b9a04e2f6097229e149dfc37aaba1fc23bd3751,",
       "display.xx-large.regular": "S:0e976fe79362acf8fc9401d29a512bd19e98bebd,",
       "display.xx-large.medium": "S:b5d92a05a9098c7e279e3087dcd953c6c743e001,",
-      "display.xx-large.bold": "S:607cab744f9f545e65987c48ca9cb79ed955d9a0,"
+      "display.xx-large.bold": "S:607cab744f9f545e65987c48ca9cb79ed955d9a0,",
+      "paragraph.xx-small.400": "S:b639e0d5920f39325b7ed0cacbedc711c61a17cc,",
+      "paragraph.xx-small.500": "S:748c30f52e2d380224562b4318c9cfa6399320da,",
+      "paragraph.xx-small.700": "S:427f65e0d875cc655f9e8388157e58d37632f7ff,"
     }
   }
 ]
