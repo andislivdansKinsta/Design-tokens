@@ -340,561 +340,561 @@
       "viridis": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.viridis.3.100}",
+            "value": "{light.palette.viridis.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.3.200}",
+            "value": "{light.palette.viridis.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.3.300}",
+            "value": "{light.palette.viridis.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.viridis.4.100}",
+            "value": "{light.palette.viridis.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.4.200}",
+            "value": "{light.palette.viridis.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.4.300}",
+            "value": "{light.palette.viridis.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.4.400}",
+            "value": "{light.palette.viridis.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.viridis.5.100}",
+            "value": "{light.palette.viridis.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.5.200}",
+            "value": "{light.palette.viridis.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.5.300}",
+            "value": "{light.palette.viridis.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.5.400}",
+            "value": "{light.palette.viridis.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.5.500}",
+            "value": "{light.palette.viridis.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.viridis.6.100}",
+            "value": "{light.palette.viridis.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.6.200}",
+            "value": "{light.palette.viridis.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.6.300}",
+            "value": "{light.palette.viridis.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.6.400}",
+            "value": "{light.palette.viridis.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.6.500}",
+            "value": "{light.palette.viridis.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.6.600}",
+            "value": "{light.palette.viridis.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.viridis.7.100}",
+            "value": "{light.palette.viridis.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.7.200}",
+            "value": "{light.palette.viridis.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.7.300}",
+            "value": "{light.palette.viridis.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.7.400}",
+            "value": "{light.palette.viridis.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.7.500}",
+            "value": "{light.palette.viridis.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.7.600}",
+            "value": "{light.palette.viridis.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.7.700}",
+            "value": "{light.palette.viridis.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.viridis.8.100}",
+            "value": "{light.palette.viridis.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.8.200}",
+            "value": "{light.palette.viridis.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.8.300}",
+            "value": "{light.palette.viridis.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.8.400}",
+            "value": "{light.palette.viridis.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.8.500}",
+            "value": "{light.palette.viridis.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.8.600}",
+            "value": "{light.palette.viridis.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.8.700}",
+            "value": "{light.palette.viridis.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.8.800}",
+            "value": "{light.palette.viridis.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.viridis.9.100}",
+            "value": "{light.palette.viridis.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.9.200}",
+            "value": "{light.palette.viridis.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.9.300}",
+            "value": "{light.palette.viridis.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.9.400}",
+            "value": "{light.palette.viridis.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.9.500}",
+            "value": "{light.palette.viridis.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.9.600}",
+            "value": "{light.palette.viridis.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.9.700}",
+            "value": "{light.palette.viridis.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.9.800}",
+            "value": "{light.palette.viridis.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.9.900}",
+            "value": "{light.palette.viridis.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.viridis.10.100}",
+            "value": "{light.palette.viridis.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.10.200}",
+            "value": "{light.palette.viridis.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.10.300}",
+            "value": "{light.palette.viridis.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.10.400}",
+            "value": "{light.palette.viridis.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.10.500}",
+            "value": "{light.palette.viridis.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.10.600}",
+            "value": "{light.palette.viridis.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.10.700}",
+            "value": "{light.palette.viridis.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.10.800}",
+            "value": "{light.palette.viridis.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.10.900}",
+            "value": "{light.palette.viridis.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.10.1000}",
+            "value": "{light.palette.viridis.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.viridis.11.100}",
+            "value": "{light.palette.viridis.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.11.200}",
+            "value": "{light.palette.viridis.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.11.300}",
+            "value": "{light.palette.viridis.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.11.400}",
+            "value": "{light.palette.viridis.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.11.500}",
+            "value": "{light.palette.viridis.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.11.600}",
+            "value": "{light.palette.viridis.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.11.700}",
+            "value": "{light.palette.viridis.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.11.800}",
+            "value": "{light.palette.viridis.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.11.900}",
+            "value": "{light.palette.viridis.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.11.1000}",
+            "value": "{light.palette.viridis.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.11.1100}",
+            "value": "{light.palette.viridis.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.viridis.12.100}",
+            "value": "{light.palette.viridis.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.12.200}",
+            "value": "{light.palette.viridis.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.12.300}",
+            "value": "{light.palette.viridis.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.12.400}",
+            "value": "{light.palette.viridis.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.12.500}",
+            "value": "{light.palette.viridis.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.12.600}",
+            "value": "{light.palette.viridis.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.12.700}",
+            "value": "{light.palette.viridis.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.12.800}",
+            "value": "{light.palette.viridis.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.12.900}",
+            "value": "{light.palette.viridis.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.12.1000}",
+            "value": "{light.palette.viridis.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.12.1100}",
+            "value": "{light.palette.viridis.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.viridis.12.1200}",
+            "value": "{light.palette.viridis.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.viridis.13.100}",
+            "value": "{light.palette.viridis.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.13.200}",
+            "value": "{light.palette.viridis.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.13.300}",
+            "value": "{light.palette.viridis.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.13.400}",
+            "value": "{light.palette.viridis.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.13.500}",
+            "value": "{light.palette.viridis.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.13.600}",
+            "value": "{light.palette.viridis.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.13.700}",
+            "value": "{light.palette.viridis.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.13.800}",
+            "value": "{light.palette.viridis.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.13.900}",
+            "value": "{light.palette.viridis.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.13.1000}",
+            "value": "{light.palette.viridis.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.13.1100}",
+            "value": "{light.palette.viridis.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.viridis.13.1200}",
+            "value": "{light.palette.viridis.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.viridis.13.1300}",
+            "value": "{light.palette.viridis.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.viridis.14.100}",
+            "value": "{light.palette.viridis.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.14.200}",
+            "value": "{light.palette.viridis.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.14.300}",
+            "value": "{light.palette.viridis.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.14.400}",
+            "value": "{light.palette.viridis.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.14.500}",
+            "value": "{light.palette.viridis.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.14.600}",
+            "value": "{light.palette.viridis.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.14.700}",
+            "value": "{light.palette.viridis.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.14.800}",
+            "value": "{light.palette.viridis.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.14.900}",
+            "value": "{light.palette.viridis.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.14.1000}",
+            "value": "{light.palette.viridis.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.14.1100}",
+            "value": "{light.palette.viridis.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.viridis.14.1200}",
+            "value": "{light.palette.viridis.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.viridis.14.1300}",
+            "value": "{light.palette.viridis.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.viridis.14.1400}",
+            "value": "{light.palette.viridis.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.viridis.15.100}",
+            "value": "{light.palette.viridis.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.15.200}",
+            "value": "{light.palette.viridis.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.15.300}",
+            "value": "{light.palette.viridis.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.15.400}",
+            "value": "{light.palette.viridis.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.15.500}",
+            "value": "{light.palette.viridis.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.15.600}",
+            "value": "{light.palette.viridis.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.15.700}",
+            "value": "{light.palette.viridis.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.15.800}",
+            "value": "{light.palette.viridis.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.15.900}",
+            "value": "{light.palette.viridis.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.15.1000}",
+            "value": "{light.palette.viridis.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.15.1100}",
+            "value": "{light.palette.viridis.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.viridis.15.1200}",
+            "value": "{light.palette.viridis.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.viridis.15.1300}",
+            "value": "{light.palette.viridis.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.viridis.15.1400}",
+            "value": "{light.palette.viridis.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.viridis.15.1500}",
+            "value": "{light.palette.viridis.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.viridis.16.100}",
+            "value": "{light.palette.viridis.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.viridis.16.200}",
+            "value": "{light.palette.viridis.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.viridis.16.300}",
+            "value": "{light.palette.viridis.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.viridis.16.400}",
+            "value": "{light.palette.viridis.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.viridis.16.500}",
+            "value": "{light.palette.viridis.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.viridis.16.600}",
+            "value": "{light.palette.viridis.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.viridis.16.700}",
+            "value": "{light.palette.viridis.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.viridis.16.800}",
+            "value": "{light.palette.viridis.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.viridis.16.900}",
+            "value": "{light.palette.viridis.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.viridis.16.1000}",
+            "value": "{light.palette.viridis.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.viridis.16.1100}",
+            "value": "{light.palette.viridis.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.viridis.16.1200}",
+            "value": "{light.palette.viridis.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.viridis.16.1300}",
+            "value": "{light.palette.viridis.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.viridis.16.1400}",
+            "value": "{light.palette.viridis.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.viridis.16.1500}",
+            "value": "{light.palette.viridis.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.viridis.16.1600}",
+            "value": "{light.palette.viridis.16-segments.1600}",
             "type": "color"
           }
         }
@@ -902,561 +902,561 @@
       "magma": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.magma.3.100}",
+            "value": "{light.palette.magma.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.3.200}",
+            "value": "{light.palette.magma.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.3.300}",
+            "value": "{light.palette.magma.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.magma.4.100}",
+            "value": "{light.palette.magma.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.4.200}",
+            "value": "{light.palette.magma.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.4.300}",
+            "value": "{light.palette.magma.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.4.400}",
+            "value": "{light.palette.magma.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.magma.5.100}",
+            "value": "{light.palette.magma.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.5.200}",
+            "value": "{light.palette.magma.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.5.300}",
+            "value": "{light.palette.magma.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.5.400}",
+            "value": "{light.palette.magma.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.5.500}",
+            "value": "{light.palette.magma.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.magma.6.100}",
+            "value": "{light.palette.magma.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.6.200}",
+            "value": "{light.palette.magma.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.6.300}",
+            "value": "{light.palette.magma.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.6.400}",
+            "value": "{light.palette.magma.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.6.500}",
+            "value": "{light.palette.magma.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.6.600}",
+            "value": "{light.palette.magma.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.magma.7.100}",
+            "value": "{light.palette.magma.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.7.200}",
+            "value": "{light.palette.magma.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.7.300}",
+            "value": "{light.palette.magma.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.7.400}",
+            "value": "{light.palette.magma.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.7.500}",
+            "value": "{light.palette.magma.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.7.600}",
+            "value": "{light.palette.magma.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.7.700}",
+            "value": "{light.palette.magma.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.magma.8.100}",
+            "value": "{light.palette.magma.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.8.200}",
+            "value": "{light.palette.magma.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.8.300}",
+            "value": "{light.palette.magma.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.8.400}",
+            "value": "{light.palette.magma.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.8.500}",
+            "value": "{light.palette.magma.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.8.600}",
+            "value": "{light.palette.magma.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.8.700}",
+            "value": "{light.palette.magma.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.8.800}",
+            "value": "{light.palette.magma.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.magma.9.100}",
+            "value": "{light.palette.magma.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.9.200}",
+            "value": "{light.palette.magma.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.9.300}",
+            "value": "{light.palette.magma.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.9.400}",
+            "value": "{light.palette.magma.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.9.500}",
+            "value": "{light.palette.magma.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.9.600}",
+            "value": "{light.palette.magma.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.9.700}",
+            "value": "{light.palette.magma.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.9.800}",
+            "value": "{light.palette.magma.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.9.900}",
+            "value": "{light.palette.magma.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.magma.10.100}",
+            "value": "{light.palette.magma.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.10.200}",
+            "value": "{light.palette.magma.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.10.300}",
+            "value": "{light.palette.magma.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.10.400}",
+            "value": "{light.palette.magma.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.10.500}",
+            "value": "{light.palette.magma.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.10.600}",
+            "value": "{light.palette.magma.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.10.700}",
+            "value": "{light.palette.magma.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.10.800}",
+            "value": "{light.palette.magma.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.10.900}",
+            "value": "{light.palette.magma.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.10.1000}",
+            "value": "{light.palette.magma.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.magma.11.100}",
+            "value": "{light.palette.magma.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.11.200}",
+            "value": "{light.palette.magma.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.11.300}",
+            "value": "{light.palette.magma.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.11.400}",
+            "value": "{light.palette.magma.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.11.500}",
+            "value": "{light.palette.magma.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.11.600}",
+            "value": "{light.palette.magma.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.11.700}",
+            "value": "{light.palette.magma.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.11.800}",
+            "value": "{light.palette.magma.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.11.900}",
+            "value": "{light.palette.magma.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.11.1000}",
+            "value": "{light.palette.magma.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.11.1100}",
+            "value": "{light.palette.magma.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.magma.12.100}",
+            "value": "{light.palette.magma.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.12.200}",
+            "value": "{light.palette.magma.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.12.300}",
+            "value": "{light.palette.magma.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.12.400}",
+            "value": "{light.palette.magma.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.12.500}",
+            "value": "{light.palette.magma.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.12.600}",
+            "value": "{light.palette.magma.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.12.700}",
+            "value": "{light.palette.magma.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.12.800}",
+            "value": "{light.palette.magma.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.12.900}",
+            "value": "{light.palette.magma.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.12.1000}",
+            "value": "{light.palette.magma.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.12.1100}",
+            "value": "{light.palette.magma.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.magma.12.1200}",
+            "value": "{light.palette.magma.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.magma.13.100}",
+            "value": "{light.palette.magma.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.13.200}",
+            "value": "{light.palette.magma.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.13.300}",
+            "value": "{light.palette.magma.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.13.400}",
+            "value": "{light.palette.magma.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.13.500}",
+            "value": "{light.palette.magma.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.13.600}",
+            "value": "{light.palette.magma.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.13.700}",
+            "value": "{light.palette.magma.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.13.800}",
+            "value": "{light.palette.magma.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.13.900}",
+            "value": "{light.palette.magma.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.13.1000}",
+            "value": "{light.palette.magma.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.13.1100}",
+            "value": "{light.palette.magma.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.magma.13.1200}",
+            "value": "{light.palette.magma.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.magma.13.1300}",
+            "value": "{light.palette.magma.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.magma.14.100}",
+            "value": "{light.palette.magma.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.14.200}",
+            "value": "{light.palette.magma.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.14.300}",
+            "value": "{light.palette.magma.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.14.400}",
+            "value": "{light.palette.magma.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.14.500}",
+            "value": "{light.palette.magma.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.14.600}",
+            "value": "{light.palette.magma.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.14.700}",
+            "value": "{light.palette.magma.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.14.800}",
+            "value": "{light.palette.magma.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.14.900}",
+            "value": "{light.palette.magma.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.14.1000}",
+            "value": "{light.palette.magma.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.14.1100}",
+            "value": "{light.palette.magma.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.magma.14.1200}",
+            "value": "{light.palette.magma.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.magma.14.1300}",
+            "value": "{light.palette.magma.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.magma.14.1400}",
+            "value": "{light.palette.magma.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.magma.15.100}",
+            "value": "{light.palette.magma.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.15.200}",
+            "value": "{light.palette.magma.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.15.300}",
+            "value": "{light.palette.magma.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.15.400}",
+            "value": "{light.palette.magma.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.15.500}",
+            "value": "{light.palette.magma.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.15.600}",
+            "value": "{light.palette.magma.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.15.700}",
+            "value": "{light.palette.magma.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.15.800}",
+            "value": "{light.palette.magma.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.15.900}",
+            "value": "{light.palette.magma.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.15.1000}",
+            "value": "{light.palette.magma.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.15.1100}",
+            "value": "{light.palette.magma.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.magma.15.1200}",
+            "value": "{light.palette.magma.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.magma.15.1300}",
+            "value": "{light.palette.magma.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.magma.15.1400}",
+            "value": "{light.palette.magma.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.magma.15.1500}",
+            "value": "{light.palette.magma.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.magma.16.100}",
+            "value": "{light.palette.magma.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.magma.16.200}",
+            "value": "{light.palette.magma.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.magma.16.300}",
+            "value": "{light.palette.magma.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.magma.16.400}",
+            "value": "{light.palette.magma.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.magma.16.500}",
+            "value": "{light.palette.magma.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.magma.16.600}",
+            "value": "{light.palette.magma.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.magma.16.700}",
+            "value": "{light.palette.magma.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.magma.16.800}",
+            "value": "{light.palette.magma.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.magma.16.900}",
+            "value": "{light.palette.magma.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.magma.16.1000}",
+            "value": "{light.palette.magma.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.magma.16.1100}",
+            "value": "{light.palette.magma.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.magma.16.1200}",
+            "value": "{light.palette.magma.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.magma.16.1300}",
+            "value": "{light.palette.magma.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.magma.16.1400}",
+            "value": "{light.palette.magma.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.magma.16.1500}",
+            "value": "{light.palette.magma.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.magma.16.1600}",
+            "value": "{light.palette.magma.16-segments.1600}",
             "type": "color"
           }
         }
@@ -1464,561 +1464,561 @@
       "forest": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.forest.3.100}",
+            "value": "{light.palette.forest.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.3.200}",
+            "value": "{light.palette.forest.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.3.300}",
+            "value": "{light.palette.forest.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.forest.4.100}",
+            "value": "{light.palette.forest.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.4.200}",
+            "value": "{light.palette.forest.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.4.300}",
+            "value": "{light.palette.forest.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.4.400}",
+            "value": "{light.palette.forest.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.forest.5.100}",
+            "value": "{light.palette.forest.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.5.200}",
+            "value": "{light.palette.forest.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.5.300}",
+            "value": "{light.palette.forest.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.5.400}",
+            "value": "{light.palette.forest.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.5.500}",
+            "value": "{light.palette.forest.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.forest.6.100}",
+            "value": "{light.palette.forest.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.6.200}",
+            "value": "{light.palette.forest.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.6.300}",
+            "value": "{light.palette.forest.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.6.400}",
+            "value": "{light.palette.forest.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.6.500}",
+            "value": "{light.palette.forest.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.6.600}",
+            "value": "{light.palette.forest.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.forest.7.100}",
+            "value": "{light.palette.forest.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.7.200}",
+            "value": "{light.palette.forest.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.7.300}",
+            "value": "{light.palette.forest.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.7.400}",
+            "value": "{light.palette.forest.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.7.500}",
+            "value": "{light.palette.forest.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.7.600}",
+            "value": "{light.palette.forest.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.7.700}",
+            "value": "{light.palette.forest.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.forest.8.100}",
+            "value": "{light.palette.forest.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.8.200}",
+            "value": "{light.palette.forest.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.8.300}",
+            "value": "{light.palette.forest.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.8.400}",
+            "value": "{light.palette.forest.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.8.500}",
+            "value": "{light.palette.forest.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.8.600}",
+            "value": "{light.palette.forest.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.8.700}",
+            "value": "{light.palette.forest.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.8.800}",
+            "value": "{light.palette.forest.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.forest.9.100}",
+            "value": "{light.palette.forest.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.9.200}",
+            "value": "{light.palette.forest.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.9.300}",
+            "value": "{light.palette.forest.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.9.400}",
+            "value": "{light.palette.forest.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.9.500}",
+            "value": "{light.palette.forest.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.9.600}",
+            "value": "{light.palette.forest.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.9.700}",
+            "value": "{light.palette.forest.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.9.800}",
+            "value": "{light.palette.forest.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.9.900}",
+            "value": "{light.palette.forest.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.forest.10.100}",
+            "value": "{light.palette.forest.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.10.200}",
+            "value": "{light.palette.forest.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.10.300}",
+            "value": "{light.palette.forest.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.10.400}",
+            "value": "{light.palette.forest.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.10.500}",
+            "value": "{light.palette.forest.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.10.600}",
+            "value": "{light.palette.forest.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.10.700}",
+            "value": "{light.palette.forest.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.10.800}",
+            "value": "{light.palette.forest.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.10.900}",
+            "value": "{light.palette.forest.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.10.1000}",
+            "value": "{light.palette.forest.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.forest.11.100}",
+            "value": "{light.palette.forest.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.11.200}",
+            "value": "{light.palette.forest.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.11.300}",
+            "value": "{light.palette.forest.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.11.400}",
+            "value": "{light.palette.forest.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.11.500}",
+            "value": "{light.palette.forest.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.11.600}",
+            "value": "{light.palette.forest.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.11.700}",
+            "value": "{light.palette.forest.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.11.800}",
+            "value": "{light.palette.forest.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.11.900}",
+            "value": "{light.palette.forest.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.11.1000}",
+            "value": "{light.palette.forest.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.11.1100}",
+            "value": "{light.palette.forest.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.forest.12.100}",
+            "value": "{light.palette.forest.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.12.200}",
+            "value": "{light.palette.forest.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.12.300}",
+            "value": "{light.palette.forest.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.12.400}",
+            "value": "{light.palette.forest.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.12.500}",
+            "value": "{light.palette.forest.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.12.600}",
+            "value": "{light.palette.forest.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.12.700}",
+            "value": "{light.palette.forest.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.12.800}",
+            "value": "{light.palette.forest.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.12.900}",
+            "value": "{light.palette.forest.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.12.1000}",
+            "value": "{light.palette.forest.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.12.1100}",
+            "value": "{light.palette.forest.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.forest.12.1200}",
+            "value": "{light.palette.forest.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.forest.13.100}",
+            "value": "{light.palette.forest.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.13.200}",
+            "value": "{light.palette.forest.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.13.300}",
+            "value": "{light.palette.forest.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.13.400}",
+            "value": "{light.palette.forest.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.13.500}",
+            "value": "{light.palette.forest.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.13.600}",
+            "value": "{light.palette.forest.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.13.700}",
+            "value": "{light.palette.forest.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.13.800}",
+            "value": "{light.palette.forest.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.13.900}",
+            "value": "{light.palette.forest.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.13.1000}",
+            "value": "{light.palette.forest.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.13.1100}",
+            "value": "{light.palette.forest.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.forest.13.1200}",
+            "value": "{light.palette.forest.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.forest.13.1300}",
+            "value": "{light.palette.forest.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.forest.14.100}",
+            "value": "{light.palette.forest.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.14.200}",
+            "value": "{light.palette.forest.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.14.300}",
+            "value": "{light.palette.forest.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.14.400}",
+            "value": "{light.palette.forest.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.14.500}",
+            "value": "{light.palette.forest.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.14.600}",
+            "value": "{light.palette.forest.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.14.700}",
+            "value": "{light.palette.forest.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.14.800}",
+            "value": "{light.palette.forest.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.14.900}",
+            "value": "{light.palette.forest.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.14.1000}",
+            "value": "{light.palette.forest.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.14.1100}",
+            "value": "{light.palette.forest.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.forest.14.1200}",
+            "value": "{light.palette.forest.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.forest.14.1300}",
+            "value": "{light.palette.forest.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.forest.14.1400}",
+            "value": "{light.palette.forest.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.forest.15.100}",
+            "value": "{light.palette.forest.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.15.200}",
+            "value": "{light.palette.forest.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.15.300}",
+            "value": "{light.palette.forest.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.15.400}",
+            "value": "{light.palette.forest.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.15.500}",
+            "value": "{light.palette.forest.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.15.600}",
+            "value": "{light.palette.forest.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.15.700}",
+            "value": "{light.palette.forest.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.15.800}",
+            "value": "{light.palette.forest.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.15.900}",
+            "value": "{light.palette.forest.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.15.1000}",
+            "value": "{light.palette.forest.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.15.1100}",
+            "value": "{light.palette.forest.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.forest.15.1200}",
+            "value": "{light.palette.forest.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.forest.15.1300}",
+            "value": "{light.palette.forest.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.forest.15.1400}",
+            "value": "{light.palette.forest.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.forest.15.1500}",
+            "value": "{light.palette.forest.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.forest.16.100}",
+            "value": "{light.palette.forest.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.forest.16.200}",
+            "value": "{light.palette.forest.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.forest.16.300}",
+            "value": "{light.palette.forest.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.forest.16.400}",
+            "value": "{light.palette.forest.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.forest.16.500}",
+            "value": "{light.palette.forest.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.forest.16.600}",
+            "value": "{light.palette.forest.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.forest.16.700}",
+            "value": "{light.palette.forest.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.forest.16.800}",
+            "value": "{light.palette.forest.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.forest.16.900}",
+            "value": "{light.palette.forest.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.forest.16.1000}",
+            "value": "{light.palette.forest.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.forest.16.1100}",
+            "value": "{light.palette.forest.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.forest.16.1200}",
+            "value": "{light.palette.forest.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.forest.16.1300}",
+            "value": "{light.palette.forest.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.forest.16.1400}",
+            "value": "{light.palette.forest.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.forest.16.1500}",
+            "value": "{light.palette.forest.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.forest.16.1600}",
+            "value": "{light.palette.forest.16-segments.1600}",
             "type": "color"
           }
         }
@@ -2026,561 +2026,561 @@
       "sky": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.sky.3.100}",
+            "value": "{light.palette.sky.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.3.200}",
+            "value": "{light.palette.sky.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.3.300}",
+            "value": "{light.palette.sky.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.sky.4.100}",
+            "value": "{light.palette.sky.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.4.200}",
+            "value": "{light.palette.sky.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.4.300}",
+            "value": "{light.palette.sky.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.4.400}",
+            "value": "{light.palette.sky.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.sky.5.100}",
+            "value": "{light.palette.sky.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.5.200}",
+            "value": "{light.palette.sky.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.5.300}",
+            "value": "{light.palette.sky.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.5.400}",
+            "value": "{light.palette.sky.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.5.500}",
+            "value": "{light.palette.sky.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.sky.6.100}",
+            "value": "{light.palette.sky.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.6.200}",
+            "value": "{light.palette.sky.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.6.300}",
+            "value": "{light.palette.sky.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.6.400}",
+            "value": "{light.palette.sky.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.6.500}",
+            "value": "{light.palette.sky.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.6.600}",
+            "value": "{light.palette.sky.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.sky.7.100}",
+            "value": "{light.palette.sky.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.7.200}",
+            "value": "{light.palette.sky.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.7.300}",
+            "value": "{light.palette.sky.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.7.400}",
+            "value": "{light.palette.sky.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.7.500}",
+            "value": "{light.palette.sky.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.7.600}",
+            "value": "{light.palette.sky.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.7.700}",
+            "value": "{light.palette.sky.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.sky.8.100}",
+            "value": "{light.palette.sky.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.8.200}",
+            "value": "{light.palette.sky.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.8.300}",
+            "value": "{light.palette.sky.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.8.400}",
+            "value": "{light.palette.sky.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.8.500}",
+            "value": "{light.palette.sky.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.8.600}",
+            "value": "{light.palette.sky.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.8.700}",
+            "value": "{light.palette.sky.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.8.800}",
+            "value": "{light.palette.sky.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.sky.9.100}",
+            "value": "{light.palette.sky.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.9.200}",
+            "value": "{light.palette.sky.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.9.300}",
+            "value": "{light.palette.sky.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.9.400}",
+            "value": "{light.palette.sky.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.9.500}",
+            "value": "{light.palette.sky.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.9.600}",
+            "value": "{light.palette.sky.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.9.700}",
+            "value": "{light.palette.sky.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.9.800}",
+            "value": "{light.palette.sky.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.9.900}",
+            "value": "{light.palette.sky.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.sky.10.100}",
+            "value": "{light.palette.sky.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.10.200}",
+            "value": "{light.palette.sky.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.10.300}",
+            "value": "{light.palette.sky.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.10.400}",
+            "value": "{light.palette.sky.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.10.500}",
+            "value": "{light.palette.sky.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.10.600}",
+            "value": "{light.palette.sky.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.10.700}",
+            "value": "{light.palette.sky.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.10.800}",
+            "value": "{light.palette.sky.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.10.900}",
+            "value": "{light.palette.sky.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.10.1000}",
+            "value": "{light.palette.sky.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.sky.11.100}",
+            "value": "{light.palette.sky.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.11.200}",
+            "value": "{light.palette.sky.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.11.300}",
+            "value": "{light.palette.sky.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.11.400}",
+            "value": "{light.palette.sky.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.11.500}",
+            "value": "{light.palette.sky.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.11.600}",
+            "value": "{light.palette.sky.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.11.700}",
+            "value": "{light.palette.sky.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.11.800}",
+            "value": "{light.palette.sky.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.11.900}",
+            "value": "{light.palette.sky.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.11.1000}",
+            "value": "{light.palette.sky.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.11.1100}",
+            "value": "{light.palette.sky.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.sky.12.100}",
+            "value": "{light.palette.sky.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.12.200}",
+            "value": "{light.palette.sky.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.12.300}",
+            "value": "{light.palette.sky.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.12.400}",
+            "value": "{light.palette.sky.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.12.500}",
+            "value": "{light.palette.sky.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.12.600}",
+            "value": "{light.palette.sky.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.12.700}",
+            "value": "{light.palette.sky.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.12.800}",
+            "value": "{light.palette.sky.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.12.900}",
+            "value": "{light.palette.sky.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.12.1000}",
+            "value": "{light.palette.sky.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.12.1100}",
+            "value": "{light.palette.sky.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.sky.12.1200}",
+            "value": "{light.palette.sky.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.sky.13.100}",
+            "value": "{light.palette.sky.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.13.200}",
+            "value": "{light.palette.sky.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.13.300}",
+            "value": "{light.palette.sky.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.13.400}",
+            "value": "{light.palette.sky.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.13.500}",
+            "value": "{light.palette.sky.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.13.600}",
+            "value": "{light.palette.sky.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.13.700}",
+            "value": "{light.palette.sky.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.13.800}",
+            "value": "{light.palette.sky.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.13.900}",
+            "value": "{light.palette.sky.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.13.1000}",
+            "value": "{light.palette.sky.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.13.1100}",
+            "value": "{light.palette.sky.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.sky.13.1200}",
+            "value": "{light.palette.sky.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.sky.13.1300}",
+            "value": "{light.palette.sky.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.sky.14.100}",
+            "value": "{light.palette.sky.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.14.200}",
+            "value": "{light.palette.sky.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.14.300}",
+            "value": "{light.palette.sky.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.14.400}",
+            "value": "{light.palette.sky.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.14.500}",
+            "value": "{light.palette.sky.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.14.600}",
+            "value": "{light.palette.sky.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.14.700}",
+            "value": "{light.palette.sky.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.14.800}",
+            "value": "{light.palette.sky.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.14.900}",
+            "value": "{light.palette.sky.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.14.1000}",
+            "value": "{light.palette.sky.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.14.1100}",
+            "value": "{light.palette.sky.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.sky.14.1200}",
+            "value": "{light.palette.sky.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.sky.14.1300}",
+            "value": "{light.palette.sky.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.sky.14.1400}",
+            "value": "{light.palette.sky.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.sky.15.100}",
+            "value": "{light.palette.sky.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.15.200}",
+            "value": "{light.palette.sky.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.15.300}",
+            "value": "{light.palette.sky.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.15.400}",
+            "value": "{light.palette.sky.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.15.500}",
+            "value": "{light.palette.sky.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.15.600}",
+            "value": "{light.palette.sky.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.15.700}",
+            "value": "{light.palette.sky.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.15.800}",
+            "value": "{light.palette.sky.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.15.900}",
+            "value": "{light.palette.sky.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.15.1000}",
+            "value": "{light.palette.sky.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.15.1100}",
+            "value": "{light.palette.sky.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.sky.15.1200}",
+            "value": "{light.palette.sky.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.sky.15.1300}",
+            "value": "{light.palette.sky.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.sky.15.1400}",
+            "value": "{light.palette.sky.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.sky.15.1500}",
+            "value": "{light.palette.sky.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.sky.16.100}",
+            "value": "{light.palette.sky.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.sky.16.200}",
+            "value": "{light.palette.sky.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.sky.16.300}",
+            "value": "{light.palette.sky.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.sky.16.400}",
+            "value": "{light.palette.sky.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.sky.16.500}",
+            "value": "{light.palette.sky.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.sky.16.600}",
+            "value": "{light.palette.sky.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.sky.16.700}",
+            "value": "{light.palette.sky.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.sky.16.800}",
+            "value": "{light.palette.sky.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.sky.16.900}",
+            "value": "{light.palette.sky.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.sky.16.1000}",
+            "value": "{light.palette.sky.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.sky.16.1100}",
+            "value": "{light.palette.sky.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.sky.16.1200}",
+            "value": "{light.palette.sky.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.sky.16.1300}",
+            "value": "{light.palette.sky.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.sky.16.1400}",
+            "value": "{light.palette.sky.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.sky.16.1500}",
+            "value": "{light.palette.sky.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.sky.16.1600}",
+            "value": "{light.palette.sky.16-segments.1600}",
             "type": "color"
           }
         }
@@ -2590,561 +2590,561 @@
       "red-green": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.red-green.3.100}",
+            "value": "{light.palette.red-green.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.3.200}",
+            "value": "{light.palette.red-green.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.3.300}",
+            "value": "{light.palette.red-green.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.red-green.4.100}",
+            "value": "{light.palette.red-green.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.4.200}",
+            "value": "{light.palette.red-green.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.4.300}",
+            "value": "{light.palette.red-green.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.4.400}",
+            "value": "{light.palette.red-green.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.red-green.5.100}",
+            "value": "{light.palette.red-green.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.5.200}",
+            "value": "{light.palette.red-green.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.5.300}",
+            "value": "{light.palette.red-green.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.5.400}",
+            "value": "{light.palette.red-green.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.5.500}",
+            "value": "{light.palette.red-green.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.red-green.6.100}",
+            "value": "{light.palette.red-green.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.6.200}",
+            "value": "{light.palette.red-green.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.6.300}",
+            "value": "{light.palette.red-green.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.6.400}",
+            "value": "{light.palette.red-green.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.6.500}",
+            "value": "{light.palette.red-green.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.6.600}",
+            "value": "{light.palette.red-green.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.red-green.7.100}",
+            "value": "{light.palette.red-green.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.7.200}",
+            "value": "{light.palette.red-green.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.7.300}",
+            "value": "{light.palette.red-green.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.7.400}",
+            "value": "{light.palette.red-green.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.7.500}",
+            "value": "{light.palette.red-green.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.7.600}",
+            "value": "{light.palette.red-green.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.7.700}",
+            "value": "{light.palette.red-green.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.red-green.8.100}",
+            "value": "{light.palette.red-green.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.8.200}",
+            "value": "{light.palette.red-green.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.8.300}",
+            "value": "{light.palette.red-green.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.8.400}",
+            "value": "{light.palette.red-green.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.8.500}",
+            "value": "{light.palette.red-green.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.8.600}",
+            "value": "{light.palette.red-green.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.8.700}",
+            "value": "{light.palette.red-green.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.8.800}",
+            "value": "{light.palette.red-green.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.red-green.9.100}",
+            "value": "{light.palette.red-green.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.9.200}",
+            "value": "{light.palette.red-green.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.9.300}",
+            "value": "{light.palette.red-green.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.9.400}",
+            "value": "{light.palette.red-green.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.9.500}",
+            "value": "{light.palette.red-green.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.9.600}",
+            "value": "{light.palette.red-green.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.9.700}",
+            "value": "{light.palette.red-green.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.9.800}",
+            "value": "{light.palette.red-green.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.9.900}",
+            "value": "{light.palette.red-green.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.red-green.10.100}",
+            "value": "{light.palette.red-green.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.10.200}",
+            "value": "{light.palette.red-green.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.10.300}",
+            "value": "{light.palette.red-green.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.10.400}",
+            "value": "{light.palette.red-green.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.10.500}",
+            "value": "{light.palette.red-green.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.10.600}",
+            "value": "{light.palette.red-green.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.10.700}",
+            "value": "{light.palette.red-green.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.10.800}",
+            "value": "{light.palette.red-green.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.10.900}",
+            "value": "{light.palette.red-green.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.10.1000}",
+            "value": "{light.palette.red-green.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.red-green.11.100}",
+            "value": "{light.palette.red-green.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.11.200}",
+            "value": "{light.palette.red-green.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.11.300}",
+            "value": "{light.palette.red-green.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.11.400}",
+            "value": "{light.palette.red-green.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.11.500}",
+            "value": "{light.palette.red-green.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.11.600}",
+            "value": "{light.palette.red-green.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.11.700}",
+            "value": "{light.palette.red-green.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.11.800}",
+            "value": "{light.palette.red-green.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.11.900}",
+            "value": "{light.palette.red-green.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.11.1000}",
+            "value": "{light.palette.red-green.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.11.1100}",
+            "value": "{light.palette.red-green.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.red-green.12.100}",
+            "value": "{light.palette.red-green.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.12.200}",
+            "value": "{light.palette.red-green.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.12.300}",
+            "value": "{light.palette.red-green.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.12.400}",
+            "value": "{light.palette.red-green.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.12.500}",
+            "value": "{light.palette.red-green.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.12.600}",
+            "value": "{light.palette.red-green.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.12.700}",
+            "value": "{light.palette.red-green.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.12.800}",
+            "value": "{light.palette.red-green.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.12.900}",
+            "value": "{light.palette.red-green.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.12.1000}",
+            "value": "{light.palette.red-green.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.12.1100}",
+            "value": "{light.palette.red-green.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-green.12.1200}",
+            "value": "{light.palette.red-green.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.red-green.13.100}",
+            "value": "{light.palette.red-green.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.13.200}",
+            "value": "{light.palette.red-green.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.13.300}",
+            "value": "{light.palette.red-green.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.13.400}",
+            "value": "{light.palette.red-green.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.13.500}",
+            "value": "{light.palette.red-green.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.13.600}",
+            "value": "{light.palette.red-green.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.13.700}",
+            "value": "{light.palette.red-green.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.13.800}",
+            "value": "{light.palette.red-green.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.13.900}",
+            "value": "{light.palette.red-green.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.13.1000}",
+            "value": "{light.palette.red-green.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.13.1100}",
+            "value": "{light.palette.red-green.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-green.13.1200}",
+            "value": "{light.palette.red-green.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-green.13.1300}",
+            "value": "{light.palette.red-green.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.red-green.14.100}",
+            "value": "{light.palette.red-green.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.14.200}",
+            "value": "{light.palette.red-green.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.14.300}",
+            "value": "{light.palette.red-green.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.14.400}",
+            "value": "{light.palette.red-green.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.14.500}",
+            "value": "{light.palette.red-green.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.14.600}",
+            "value": "{light.palette.red-green.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.14.700}",
+            "value": "{light.palette.red-green.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.14.800}",
+            "value": "{light.palette.red-green.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.14.900}",
+            "value": "{light.palette.red-green.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.14.1000}",
+            "value": "{light.palette.red-green.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.14.1100}",
+            "value": "{light.palette.red-green.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-green.14.1200}",
+            "value": "{light.palette.red-green.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-green.14.1300}",
+            "value": "{light.palette.red-green.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-green.14.1400}",
+            "value": "{light.palette.red-green.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.red-green.15.100}",
+            "value": "{light.palette.red-green.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.15.200}",
+            "value": "{light.palette.red-green.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.15.300}",
+            "value": "{light.palette.red-green.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.15.400}",
+            "value": "{light.palette.red-green.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.15.500}",
+            "value": "{light.palette.red-green.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.15.600}",
+            "value": "{light.palette.red-green.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.15.700}",
+            "value": "{light.palette.red-green.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.15.800}",
+            "value": "{light.palette.red-green.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.15.900}",
+            "value": "{light.palette.red-green.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.15.1000}",
+            "value": "{light.palette.red-green.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.15.1100}",
+            "value": "{light.palette.red-green.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-green.15.1200}",
+            "value": "{light.palette.red-green.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-green.15.1300}",
+            "value": "{light.palette.red-green.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-green.15.1400}",
+            "value": "{light.palette.red-green.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.red-green.15.1500}",
+            "value": "{light.palette.red-green.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.red-green.16.100}",
+            "value": "{light.palette.red-green.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-green.16.200}",
+            "value": "{light.palette.red-green.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-green.16.300}",
+            "value": "{light.palette.red-green.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-green.16.400}",
+            "value": "{light.palette.red-green.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-green.16.500}",
+            "value": "{light.palette.red-green.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-green.16.600}",
+            "value": "{light.palette.red-green.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-green.16.700}",
+            "value": "{light.palette.red-green.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-green.16.800}",
+            "value": "{light.palette.red-green.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-green.16.900}",
+            "value": "{light.palette.red-green.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-green.16.1000}",
+            "value": "{light.palette.red-green.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-green.16.1100}",
+            "value": "{light.palette.red-green.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-green.16.1200}",
+            "value": "{light.palette.red-green.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-green.16.1300}",
+            "value": "{light.palette.red-green.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-green.16.1400}",
+            "value": "{light.palette.red-green.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.red-green.16.1500}",
+            "value": "{light.palette.red-green.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.red-green.16.1600}",
+            "value": "{light.palette.red-green.16-segments.1600}",
             "type": "color"
           }
         }
@@ -3152,561 +3152,561 @@
       "red-blue": {
         "3-segments": {
           "100": {
-            "value": "{light.palette.red-blue.3.100}",
+            "value": "{light.palette.red-blue.3-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.3.200}",
+            "value": "{light.palette.red-blue.3-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.3.300}",
+            "value": "{light.palette.red-blue.3-segments.300}",
             "type": "color"
           }
         },
         "4-segments": {
           "100": {
-            "value": "{light.palette.red-blue.4.100}",
+            "value": "{light.palette.red-blue.4-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.4.200}",
+            "value": "{light.palette.red-blue.4-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.4.300}",
+            "value": "{light.palette.red-blue.4-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.4.400}",
+            "value": "{light.palette.red-blue.4-segments.400}",
             "type": "color"
           }
         },
         "5-segments": {
           "100": {
-            "value": "{light.palette.red-blue.5.100}",
+            "value": "{light.palette.red-blue.5-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.5.200}",
+            "value": "{light.palette.red-blue.5-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.5.300}",
+            "value": "{light.palette.red-blue.5-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.5.400}",
+            "value": "{light.palette.red-blue.5-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.5.500}",
+            "value": "{light.palette.red-blue.5-segments.500}",
             "type": "color"
           }
         },
         "6-segments": {
           "100": {
-            "value": "{light.palette.red-blue.6.100}",
+            "value": "{light.palette.red-blue.6-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.6.200}",
+            "value": "{light.palette.red-blue.6-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.6.300}",
+            "value": "{light.palette.red-blue.6-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.6.400}",
+            "value": "{light.palette.red-blue.6-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.6.500}",
+            "value": "{light.palette.red-blue.6-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.6.600}",
+            "value": "{light.palette.red-blue.6-segments.600}",
             "type": "color"
           }
         },
         "7-segments": {
           "100": {
-            "value": "{light.palette.red-blue.7.100}",
+            "value": "{light.palette.red-blue.7-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.7.200}",
+            "value": "{light.palette.red-blue.7-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.7.300}",
+            "value": "{light.palette.red-blue.7-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.7.400}",
+            "value": "{light.palette.red-blue.7-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.7.500}",
+            "value": "{light.palette.red-blue.7-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.7.600}",
+            "value": "{light.palette.red-blue.7-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.7.700}",
+            "value": "{light.palette.red-blue.7-segments.700}",
             "type": "color"
           }
         },
         "8-segments": {
           "100": {
-            "value": "{light.palette.red-blue.8.100}",
+            "value": "{light.palette.red-blue.8-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.8.200}",
+            "value": "{light.palette.red-blue.8-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.8.300}",
+            "value": "{light.palette.red-blue.8-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.8.400}",
+            "value": "{light.palette.red-blue.8-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.8.500}",
+            "value": "{light.palette.red-blue.8-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.8.600}",
+            "value": "{light.palette.red-blue.8-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.8.700}",
+            "value": "{light.palette.red-blue.8-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.8.800}",
+            "value": "{light.palette.red-blue.8-segments.800}",
             "type": "color"
           }
         },
         "9-segments": {
           "100": {
-            "value": "{light.palette.red-blue.9.100}",
+            "value": "{light.palette.red-blue.9-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.9.200}",
+            "value": "{light.palette.red-blue.9-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.9.300}",
+            "value": "{light.palette.red-blue.9-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.9.400}",
+            "value": "{light.palette.red-blue.9-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.9.500}",
+            "value": "{light.palette.red-blue.9-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.9.600}",
+            "value": "{light.palette.red-blue.9-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.9.700}",
+            "value": "{light.palette.red-blue.9-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.9.800}",
+            "value": "{light.palette.red-blue.9-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.9.900}",
+            "value": "{light.palette.red-blue.9-segments.900}",
             "type": "color"
           }
         },
         "10-segments": {
           "100": {
-            "value": "{light.palette.red-blue.10.100}",
+            "value": "{light.palette.red-blue.10-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.10.200}",
+            "value": "{light.palette.red-blue.10-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.10.300}",
+            "value": "{light.palette.red-blue.10-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.10.400}",
+            "value": "{light.palette.red-blue.10-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.10.500}",
+            "value": "{light.palette.red-blue.10-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.10.600}",
+            "value": "{light.palette.red-blue.10-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.10.700}",
+            "value": "{light.palette.red-blue.10-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.10.800}",
+            "value": "{light.palette.red-blue.10-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.10.900}",
+            "value": "{light.palette.red-blue.10-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.10.1000}",
+            "value": "{light.palette.red-blue.10-segments.1000}",
             "type": "color"
           }
         },
         "11-segments": {
           "100": {
-            "value": "{light.palette.red-blue.11.100}",
+            "value": "{light.palette.red-blue.11-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.11.200}",
+            "value": "{light.palette.red-blue.11-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.11.300}",
+            "value": "{light.palette.red-blue.11-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.11.400}",
+            "value": "{light.palette.red-blue.11-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.11.500}",
+            "value": "{light.palette.red-blue.11-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.11.600}",
+            "value": "{light.palette.red-blue.11-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.11.700}",
+            "value": "{light.palette.red-blue.11-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.11.800}",
+            "value": "{light.palette.red-blue.11-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.11.900}",
+            "value": "{light.palette.red-blue.11-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.11.1000}",
+            "value": "{light.palette.red-blue.11-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.11.1100}",
+            "value": "{light.palette.red-blue.11-segments.1100}",
             "type": "color"
           }
         },
         "12-segments": {
           "100": {
-            "value": "{light.palette.red-blue.12.100}",
+            "value": "{light.palette.red-blue.12-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.12.200}",
+            "value": "{light.palette.red-blue.12-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.12.300}",
+            "value": "{light.palette.red-blue.12-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.12.400}",
+            "value": "{light.palette.red-blue.12-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.12.500}",
+            "value": "{light.palette.red-blue.12-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.12.600}",
+            "value": "{light.palette.red-blue.12-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.12.700}",
+            "value": "{light.palette.red-blue.12-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.12.800}",
+            "value": "{light.palette.red-blue.12-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.12.900}",
+            "value": "{light.palette.red-blue.12-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.12.1000}",
+            "value": "{light.palette.red-blue.12-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.12.1100}",
+            "value": "{light.palette.red-blue.12-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-blue.12.1200}",
+            "value": "{light.palette.red-blue.12-segments.1200}",
             "type": "color"
           }
         },
         "13-segments": {
           "100": {
-            "value": "{light.palette.red-blue.13.100}",
+            "value": "{light.palette.red-blue.13-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.13.200}",
+            "value": "{light.palette.red-blue.13-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.13.300}",
+            "value": "{light.palette.red-blue.13-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.13.400}",
+            "value": "{light.palette.red-blue.13-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.13.500}",
+            "value": "{light.palette.red-blue.13-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.13.600}",
+            "value": "{light.palette.red-blue.13-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.13.700}",
+            "value": "{light.palette.red-blue.13-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.13.800}",
+            "value": "{light.palette.red-blue.13-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.13.900}",
+            "value": "{light.palette.red-blue.13-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.13.1000}",
+            "value": "{light.palette.red-blue.13-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.13.1100}",
+            "value": "{light.palette.red-blue.13-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-blue.13.1200}",
+            "value": "{light.palette.red-blue.13-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-blue.13.1300}",
+            "value": "{light.palette.red-blue.13-segments.1300}",
             "type": "color"
           }
         },
         "14-segments": {
           "100": {
-            "value": "{light.palette.red-blue.14.100}",
+            "value": "{light.palette.red-blue.14-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.14.200}",
+            "value": "{light.palette.red-blue.14-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.14.300}",
+            "value": "{light.palette.red-blue.14-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.14.400}",
+            "value": "{light.palette.red-blue.14-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.14.500}",
+            "value": "{light.palette.red-blue.14-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.14.600}",
+            "value": "{light.palette.red-blue.14-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.14.700}",
+            "value": "{light.palette.red-blue.14-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.14.800}",
+            "value": "{light.palette.red-blue.14-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.14.900}",
+            "value": "{light.palette.red-blue.14-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.14.1000}",
+            "value": "{light.palette.red-blue.14-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.14.1100}",
+            "value": "{light.palette.red-blue.14-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-blue.14.1200}",
+            "value": "{light.palette.red-blue.14-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-blue.14.1300}",
+            "value": "{light.palette.red-blue.14-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-blue.14.1400}",
+            "value": "{light.palette.red-blue.14-segments.1400}",
             "type": "color"
           }
         },
         "15-segments": {
           "100": {
-            "value": "{light.palette.red-blue.15.100}",
+            "value": "{light.palette.red-blue.15-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.15.200}",
+            "value": "{light.palette.red-blue.15-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.15.300}",
+            "value": "{light.palette.red-blue.15-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.15.400}",
+            "value": "{light.palette.red-blue.15-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.15.500}",
+            "value": "{light.palette.red-blue.15-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.15.600}",
+            "value": "{light.palette.red-blue.15-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.15.700}",
+            "value": "{light.palette.red-blue.15-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.15.800}",
+            "value": "{light.palette.red-blue.15-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.15.900}",
+            "value": "{light.palette.red-blue.15-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.15.1000}",
+            "value": "{light.palette.red-blue.15-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.15.1100}",
+            "value": "{light.palette.red-blue.15-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-blue.15.1200}",
+            "value": "{light.palette.red-blue.15-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-blue.15.1300}",
+            "value": "{light.palette.red-blue.15-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-blue.15.1400}",
+            "value": "{light.palette.red-blue.15-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.red-blue.15.1500}",
+            "value": "{light.palette.red-blue.15-segments.1500}",
             "type": "color"
           }
         },
         "16-segments": {
           "100": {
-            "value": "{light.palette.red-blue.16.100}",
+            "value": "{light.palette.red-blue.16-segments.100}",
             "type": "color"
           },
           "200": {
-            "value": "{light.palette.red-blue.16.200}",
+            "value": "{light.palette.red-blue.16-segments.200}",
             "type": "color"
           },
           "300": {
-            "value": "{light.palette.red-blue.16.300}",
+            "value": "{light.palette.red-blue.16-segments.300}",
             "type": "color"
           },
           "400": {
-            "value": "{light.palette.red-blue.16.400}",
+            "value": "{light.palette.red-blue.16-segments.400}",
             "type": "color"
           },
           "500": {
-            "value": "{light.palette.red-blue.16.500}",
+            "value": "{light.palette.red-blue.16-segments.500}",
             "type": "color"
           },
           "600": {
-            "value": "{light.palette.red-blue.16.600}",
+            "value": "{light.palette.red-blue.16-segments.600}",
             "type": "color"
           },
           "700": {
-            "value": "{light.palette.red-blue.16.700}",
+            "value": "{light.palette.red-blue.16-segments.700}",
             "type": "color"
           },
           "800": {
-            "value": "{light.palette.red-blue.16.800}",
+            "value": "{light.palette.red-blue.16-segments.800}",
             "type": "color"
           },
           "900": {
-            "value": "{light.palette.red-blue.16.900}",
+            "value": "{light.palette.red-blue.16-segments.900}",
             "type": "color"
           },
           "1000": {
-            "value": "{light.palette.red-blue.16.1000}",
+            "value": "{light.palette.red-blue.16-segments.1000}",
             "type": "color"
           },
           "1100": {
-            "value": "{light.palette.red-blue.16.1100}",
+            "value": "{light.palette.red-blue.16-segments.1100}",
             "type": "color"
           },
           "1200": {
-            "value": "{light.palette.red-blue.16.1200}",
+            "value": "{light.palette.red-blue.16-segments.1200}",
             "type": "color"
           },
           "1300": {
-            "value": "{light.palette.red-blue.16.1300}",
+            "value": "{light.palette.red-blue.16-segments.1300}",
             "type": "color"
           },
           "1400": {
-            "value": "{light.palette.red-blue.16.1400}",
+            "value": "{light.palette.red-blue.16-segments.1400}",
             "type": "color"
           },
           "1500": {
-            "value": "{light.palette.red-blue.16.1500}",
+            "value": "{light.palette.red-blue.16-segments.1500}",
             "type": "color"
           },
           "1600": {
-            "value": "{light.palette.red-blue.16.1600}",
+            "value": "{light.palette.red-blue.16-segments.1600}",
             "type": "color"
           }
         }

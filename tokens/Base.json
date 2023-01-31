@@ -1208,7 +1208,7 @@
         }
       },
       "viridis": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#83CC2E",
             "type": "color"
@@ -1222,7 +1222,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#A8DA2A",
             "type": "color"
@@ -1240,7 +1240,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#BEE128",
             "type": "color"
@@ -1262,7 +1262,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#CCE627",
             "type": "color"
@@ -1288,7 +1288,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#D7EA26",
             "type": "color"
@@ -1318,7 +1318,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#DCE925",
             "type": "color"
@@ -1352,7 +1352,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#E0E925",
             "type": "color"
@@ -1390,7 +1390,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#E3E924",
             "type": "color"
@@ -1432,7 +1432,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#E5E924",
             "type": "color"
@@ -1478,7 +1478,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#E7E924",
             "type": "color"
@@ -1528,7 +1528,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#E9E924",
             "type": "color"
@@ -1582,7 +1582,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#EAE924",
             "type": "color"
@@ -1640,7 +1640,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#ECE924",
             "type": "color"
@@ -1702,7 +1702,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#EDE823",
             "type": "color"
@@ -1770,7 +1770,7 @@
         }
       },
       "magma": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#FBB17B",
             "type": "color"
@@ -1784,7 +1784,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#FCC285",
             "type": "color"
@@ -1802,7 +1802,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#FDCD8C",
             "type": "color"
@@ -1824,7 +1824,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#FDD590",
             "type": "color"
@@ -1850,7 +1850,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#FEDA93",
             "type": "color"
@@ -1880,7 +1880,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#FEDF95",
             "type": "color"
@@ -1914,7 +1914,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#FEE397",
             "type": "color"
@@ -1952,7 +1952,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#FEE698",
             "type": "color"
@@ -1994,7 +1994,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#FEE899",
             "type": "color"
@@ -2040,7 +2040,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#FEEA9A",
             "type": "color"
@@ -2090,7 +2090,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#FEEB9B",
             "type": "color"
@@ -2144,7 +2144,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#FEED9C",
             "type": "color"
@@ -2202,7 +2202,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#FEEE9C",
             "type": "color"
@@ -2264,7 +2264,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#FEEF9D",
             "type": "color"
@@ -2332,7 +2332,7 @@
         }
       },
       "forest": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#A6E17E",
             "type": "color"
@@ -2346,7 +2346,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#B7E685",
             "type": "color"
@@ -2364,7 +2364,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#C1E989",
             "type": "color"
@@ -2386,7 +2386,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#C9EB8C",
             "type": "color"
@@ -2412,7 +2412,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#CEED8E",
             "type": "color"
@@ -2442,7 +2442,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#D0EE8F",
             "type": "color"
@@ -2476,7 +2476,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#D2EF90",
             "type": "color"
@@ -2514,7 +2514,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#D3F091",
             "type": "color"
@@ -2556,7 +2556,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#D4F192",
             "type": "color"
@@ -2602,7 +2602,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#D5F292",
             "type": "color"
@@ -2652,7 +2652,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#D6F293",
             "type": "color"
@@ -2706,7 +2706,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#D7F393",
             "type": "color"
@@ -2764,7 +2764,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#D7F394",
             "type": "color"
@@ -2826,7 +2826,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#D8F394",
             "type": "color"
@@ -2894,7 +2894,7 @@
         }
       },
       "sky": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#8CD6CA",
             "type": "color"
@@ -2908,7 +2908,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#9DDFD0",
             "type": "color"
@@ -2926,7 +2926,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#A9E6D6",
             "type": "color"
@@ -2948,7 +2948,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#B1EADA",
             "type": "color"
@@ -2974,7 +2974,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#B7EEDD",
             "type": "color"
@@ -3004,7 +3004,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#BCF0DF",
             "type": "color"
@@ -3038,7 +3038,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#C0F2E0",
             "type": "color"
@@ -3076,7 +3076,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#C4F3E2",
             "type": "color"
@@ -3118,7 +3118,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#C6F4E3",
             "type": "color"
@@ -3164,7 +3164,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#C8F5E4",
             "type": "color"
@@ -3214,7 +3214,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#CAF6E5",
             "type": "color"
@@ -3268,7 +3268,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#CCF7E5",
             "type": "color"
@@ -3326,7 +3326,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#CDF7E6",
             "type": "color"
@@ -3388,7 +3388,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#CEF8E6",
             "type": "color"
@@ -3456,7 +3456,7 @@
         }
       },
       "red-green": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#D74A24",
             "type": "color"
@@ -3470,7 +3470,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#BF331E",
             "type": "color"
@@ -3488,7 +3488,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#AA291E",
             "type": "color"
@@ -3510,7 +3510,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#9C211D",
             "type": "color"
@@ -3536,7 +3536,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#931D1D",
             "type": "color"
@@ -3566,7 +3566,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#8E191C",
             "type": "color"
@@ -3600,7 +3600,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#8B161B",
             "type": "color"
@@ -3638,7 +3638,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#88141B",
             "type": "color"
@@ -3680,7 +3680,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#86121B",
             "type": "color"
@@ -3726,7 +3726,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#84111A",
             "type": "color"
@@ -3776,7 +3776,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#810F1A",
             "type": "color"
@@ -3830,7 +3830,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#810F1A",
             "type": "color"
@@ -3888,7 +3888,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#800E19",
             "type": "color"
@@ -3950,7 +3950,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#7F0D19",
             "type": "color"
@@ -4018,7 +4018,7 @@
         }
       },
       "red-blue": {
-        "3": {
+        "3-segments": {
           "100": {
             "value": "#D74A24",
             "type": "color"
@@ -4032,7 +4032,7 @@
             "type": "color"
           }
         },
-        "4": {
+        "4-segments": {
           "100": {
             "value": "#BF331E",
             "type": "color"
@@ -4050,7 +4050,7 @@
             "type": "color"
           }
         },
-        "5": {
+        "5-segments": {
           "100": {
             "value": "#AA291E",
             "type": "color"
@@ -4072,7 +4072,7 @@
             "type": "color"
           }
         },
-        "6": {
+        "6-segments": {
           "100": {
             "value": "#9C211D",
             "type": "color"
@@ -4098,7 +4098,7 @@
             "type": "color"
           }
         },
-        "7": {
+        "7-segments": {
           "100": {
             "value": "#931D1D",
             "type": "color"
@@ -4128,7 +4128,7 @@
             "type": "color"
           }
         },
-        "8": {
+        "8-segments": {
           "100": {
             "value": "#8E191C",
             "type": "color"
@@ -4162,7 +4162,7 @@
             "type": "color"
           }
         },
-        "9": {
+        "9-segments": {
           "100": {
             "value": "#8B161B",
             "type": "color"
@@ -4200,7 +4200,7 @@
             "type": "color"
           }
         },
-        "10": {
+        "10-segments": {
           "100": {
             "value": "#88141B",
             "type": "color"
@@ -4242,7 +4242,7 @@
             "type": "color"
           }
         },
-        "11": {
+        "11-segments": {
           "100": {
             "value": "#86121B",
             "type": "color"
@@ -4288,7 +4288,7 @@
             "type": "color"
           }
         },
-        "12": {
+        "12-segments": {
           "100": {
             "value": "#84111A",
             "type": "color"
@@ -4338,7 +4338,7 @@
             "type": "color"
           }
         },
-        "13": {
+        "13-segments": {
           "100": {
             "value": "#810F1A",
             "type": "color"
@@ -4392,7 +4392,7 @@
             "type": "color"
           }
         },
-        "14": {
+        "14-segments": {
           "100": {
             "value": "#810F1A",
             "type": "color"
@@ -4450,7 +4450,7 @@
             "type": "color"
           }
         },
-        "15": {
+        "15-segments": {
           "100": {
             "value": "#800E19",
             "type": "color"
@@ -4512,7 +4512,7 @@
             "type": "color"
           }
         },
-        "16": {
+        "16-segments": {
           "100": {
             "value": "#7F0D19",
             "type": "color"
