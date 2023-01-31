@@ -334,6 +334,30 @@
       "neutral-tertiary": {
         "value": "{neutral.200}",
         "type": "color"
+      },
+      "positive-primary": {
+        "value": "{light.palette.green.50}",
+        "type": "color"
+      },
+      "positive-secondary": {
+        "value": "{light.palette.green.100}",
+        "type": "color"
+      },
+      "positive-tertiary": {
+        "value": "{light.palette.green.200}",
+        "type": "color"
+      },
+      "negative-primary": {
+        "value": "{light.palette.red.200}",
+        "type": "color"
+      },
+      "negative-secondary": {
+        "value": "{light.palette.red.300}",
+        "type": "color"
+      },
+      "negative-tertiary": {
+        "value": "{light.palette.red.400}",
+        "type": "color"
       }
     },
     "sequential": {
