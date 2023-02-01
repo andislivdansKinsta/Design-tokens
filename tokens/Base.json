@@ -459,7 +459,7 @@
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Brandon Text",
+      "value": "Inter",
       "type": "fontFamilies"
     }
   },
