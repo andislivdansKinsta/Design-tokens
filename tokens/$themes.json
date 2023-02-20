@@ -1504,7 +1504,6 @@
       "border.on-surface.neutral.hovered.base": "S:e467682de4769ec31b3fd12f4d55d72ea2223e2b,",
       "border.on-surface.neutral.hovered.primary": "S:ae0cf27e53a6c46374c8529092288774a975b961,",
       "border.on-surface.neutral.hovered.secondary": "S:6d2c719e170e6b3dc7a0eb020b9fd5f5d346bb29,",
-      "border.on-surface.neutral.hovered.secondary-inverse": "S:8595128c3a009f51b26d3239502eba2a6c8abe0e,",
       "border.on-surface.neutral.hovered.primary-inverse": "S:3de876aec76909437de39f6c0531537738518250,",
       "border.on-surface.neutral.hovered.base-inverse": "S:e2e5a941d81776dd35b46ce869804fd82ffdc444,",
       "border.on-surface.positive.default.base": "S:ae9cf440b5b6bf31dc72b0c9ec7d017b3f8d989a,",
@@ -3333,7 +3332,8 @@
       "data-visualization.diverging.red-blue.16-segments.1500": "S:4d300e57e447570861ff002b3d9068063fee6a18,",
       "data-visualization.diverging.red-blue.16-segments.1600": "S:a083be0918b508c5262f2fd17d4cac8e81279f9d,",
       "border.on-surface.neutral.default.alt": "S:e4f0fc7f6f78cdd7113287758a52298ecd9ae2dd,",
-      "border.on-surface.neutral.default.primary-inverse": "S:28d3a802f69f5675d2098e3f696388b1fced38d7,"
+      "border.on-surface.neutral.default.primary-inverse": "S:28d3a802f69f5675d2098e3f696388b1fced38d7,",
+      "border.on-surface.neutral.hovered.alt": "S:8595128c3a009f51b26d3239502eba2a6c8abe0e,"
     }
   },
   {
@@ -3522,7 +3522,6 @@
       "border.on-surface.neutral.hovered.base": "S:90f6e7d85b26067c6e46f7e4ac958eeadb4efcc4,",
       "border.on-surface.neutral.hovered.primary": "S:b8835831690e2236b56bc6689ab711cb36e0c75b,",
       "border.on-surface.neutral.hovered.secondary": "S:f5dce79212d23a9d40ee92fb1b5f3fe3288c3808,",
-      "border.on-surface.neutral.hovered.secondary-inverse": "S:da46df67b5c957286ba365004afa3433590201b0,",
       "border.on-surface.neutral.hovered.primary-inverse": "S:39ca88730d17e4374094a45a07247f343069bfe1,",
       "border.on-surface.neutral.hovered.base-inverse": "S:d6e0da355bffd8ff2da77528943026fe212a5038,",
       "border.on-surface.positive.default.base": "S:890ab083f8be3550823e49a7e021fb282c6381d3,",
@@ -4362,7 +4361,8 @@
       "paragraph.x-large.400": "S:9a25f356a9d69c0a49418ef9f40824c00fe9a767,",
       "paragraph.xx-large.400": "S:c28bc69ba213e4058b6211f61ed3f85279ed30a3,",
       "border.on-surface.neutral.default.alt": "S:552b42a2a931fb5387023d15e3e0594b99818f61,",
-      "border.on-surface.neutral.default.primary-inverse": "S:1d40f15487ec1bd095d7dee1b4ef53c954414674,"
+      "border.on-surface.neutral.default.primary-inverse": "S:1d40f15487ec1bd095d7dee1b4ef53c954414674,",
+      "border.on-surface.neutral.hovered.alt": "S:da46df67b5c957286ba365004afa3433590201b0,"
     }
   }
 ]
