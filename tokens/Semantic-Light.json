@@ -11827,6 +11827,44 @@
           }
         }
       }
+    },
+    "on-surface": {
+      "neutral": {
+        "default": {
+          "primary": {
+            "value": "{neutral.300}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{neutral.200}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{neutral.100}",
+            "type": "color"
+          },
+          "alt": {
+            "value": "{neutral.1000}",
+            "type": "color"
+          },
+          "primary-inverse": {
+            "value": "{neutral.800}",
+            "type": "color"
+          },
+          "secondary-inverse": {
+            "value": "{neutral.700}",
+            "type": "color"
+          },
+          "tertiary-inverse": {
+            "value": "{neutral.600}",
+            "type": "color"
+          },
+          "alt-inverse": {
+            "value": "{neutral.100}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

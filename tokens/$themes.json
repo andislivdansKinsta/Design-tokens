@@ -1500,8 +1500,6 @@
       "border.on-surface.neutral.default.base": "S:b57ab7a2eeb43ee7d8c384bcb892973ecd295aa1,",
       "border.on-surface.neutral.default.primary": "S:8a929858fc8aa8c6d7f222bc7ad78a3516fc041f,",
       "border.on-surface.neutral.default.secondary": "S:a880d0bb027275a9546f1b572711d03b1156089d,",
-      "border.on-surface.neutral.default.secondary-inverse": "S:28d3a802f69f5675d2098e3f696388b1fced38d7,",
-      "border.on-surface.neutral.default.primary-inverse": "S:e4f0fc7f6f78cdd7113287758a52298ecd9ae2dd,",
       "border.on-surface.neutral.default.base-inverse": "S:c001809d6a666a9c5ff9734297f18cdd773f0a03,",
       "border.on-surface.neutral.hovered.base": "S:e467682de4769ec31b3fd12f4d55d72ea2223e2b,",
       "border.on-surface.neutral.hovered.primary": "S:ae0cf27e53a6c46374c8529092288774a975b961,",
@@ -3333,7 +3331,9 @@
       "data-visualization.diverging.red-blue.16-segments.1300": "S:2b40b0441e6b01b82c598b46664c337215559804,",
       "data-visualization.diverging.red-blue.16-segments.1400": "S:40acd568bbb872795ec5f56808321ff393d0ec62,",
       "data-visualization.diverging.red-blue.16-segments.1500": "S:4d300e57e447570861ff002b3d9068063fee6a18,",
-      "data-visualization.diverging.red-blue.16-segments.1600": "S:a083be0918b508c5262f2fd17d4cac8e81279f9d,"
+      "data-visualization.diverging.red-blue.16-segments.1600": "S:a083be0918b508c5262f2fd17d4cac8e81279f9d,",
+      "border.on-surface.neutral.default.alt": "S:e4f0fc7f6f78cdd7113287758a52298ecd9ae2dd,",
+      "border.on-surface.neutral.default.primary-inverse": "S:28d3a802f69f5675d2098e3f696388b1fced38d7,"
     }
   },
   {
@@ -3518,8 +3518,6 @@
       "border.on-surface.neutral.default.base": "S:99cd4eb945bd374687a599ff597dc102d2b1276c,",
       "border.on-surface.neutral.default.primary": "S:dc81e9615aa08c44b3540a3b9b3a1e5242dc30b1,",
       "border.on-surface.neutral.default.secondary": "S:e631c44637c7a8ce62dcc1078ab3c4046692e848,",
-      "border.on-surface.neutral.default.secondary-inverse": "S:1d40f15487ec1bd095d7dee1b4ef53c954414674,",
-      "border.on-surface.neutral.default.primary-inverse": "S:552b42a2a931fb5387023d15e3e0594b99818f61,",
       "border.on-surface.neutral.default.base-inverse": "S:fc4fe2af364d54a77ea7bb5412e36b1cefb874e5,",
       "border.on-surface.neutral.hovered.base": "S:90f6e7d85b26067c6e46f7e4ac958eeadb4efcc4,",
       "border.on-surface.neutral.hovered.primary": "S:b8835831690e2236b56bc6689ab711cb36e0c75b,",
@@ -4362,7 +4360,9 @@
       "paragraph.medium.400": "S:0a32e44171c3b6f7f0b3b0753bfa81971025d6c3,",
       "paragraph.large.400": "S:6862eef0ecd93c2bd22e04dea7182a93595a3c5b,",
       "paragraph.x-large.400": "S:9a25f356a9d69c0a49418ef9f40824c00fe9a767,",
-      "paragraph.xx-large.400": "S:c28bc69ba213e4058b6211f61ed3f85279ed30a3,"
+      "paragraph.xx-large.400": "S:c28bc69ba213e4058b6211f61ed3f85279ed30a3,",
+      "border.on-surface.neutral.default.alt": "S:552b42a2a931fb5387023d15e3e0594b99818f61,",
+      "border.on-surface.neutral.default.primary-inverse": "S:1d40f15487ec1bd095d7dee1b4ef53c954414674,"
     }
   }
 ]
