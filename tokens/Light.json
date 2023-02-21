@@ -477,69 +477,69 @@
     "diverging": {
       "red-green": {
         "100": {
-          "value": "{light.palette.red-green.8-segments.100}",
+          "value": "{red-green.8-segments.100}",
           "type": "color"
         },
         "200": {
-          "value": "{light.palette.red-green.8-segments.200}",
+          "value": "{red-green.8-segments.200}",
           "type": "color"
         },
         "300": {
-          "value": "{light.palette.red-green.8-segments.300}",
+          "value": "{red-green.8-segments.300}",
           "type": "color"
         },
         "400": {
-          "value": "{light.palette.red-green.8-segments.400}",
+          "value": "{red-green.8-segments.400}",
           "type": "color"
         },
         "500": {
-          "value": "{light.palette.red-green.8-segments.500}",
+          "value": "{red-green.8-segments.500}",
           "type": "color"
         },
         "600": {
-          "value": "{light.palette.red-green.8-segments.600}",
+          "value": "{red-green.8-segments.600}",
           "type": "color"
         },
         "700": {
-          "value": "{light.palette.red-green.8-segments.700}",
+          "value": "{red-green.8-segments.700}",
           "type": "color"
         },
         "800": {
-          "value": "{light.palette.red-green.8-segments.800}",
+          "value": "{red-green.8-segments.800}",
           "type": "color"
         }
       },
       "red-blue": {
         "100": {
-          "value": "{light.palette.red-blue.8-segments.100}",
+          "value": "{red-blue.8-segments.100}",
           "type": "color"
         },
         "200": {
-          "value": "{light.palette.red-blue.8-segments.200}",
+          "value": "{red-blue.8-segments.200}",
           "type": "color"
         },
         "300": {
-          "value": "{light.palette.red-blue.8-segments.300}",
+          "value": "{red-blue.8-segments.300}",
           "type": "color"
         },
         "400": {
-          "value": "{light.palette.red-blue.8-segments.400}",
+          "value": "{red-blue.8-segments.400}",
           "type": "color"
         },
         "500": {
-          "value": "{light.palette.red-blue.8-segments.500}",
+          "value": "{red-blue.8-segments.500}",
           "type": "color"
         },
         "600": {
-          "value": "{light.palette.red-blue.8-segments.600}",
+          "value": "{red-blue.8-segments.600}",
           "type": "color"
         },
         "700": {
-          "value": "{light.palette.red-blue.8-segments.700}",
+          "value": "{red-blue.8-segments.700}",
           "type": "color"
         },
         "800": {
-          "value": "{light.palette.red-blue.8-segments.800}",
+          "value": "{red-blue.8-segments.800}",
           "type": "color"
         }
       }
