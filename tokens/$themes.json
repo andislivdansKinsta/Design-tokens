@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "Base": "source",
       "Dark": "enabled",
-      "Typography": "enabled",
       "Global": "enabled"
     },
     "$figmaStyleReferences": {
@@ -1035,7 +1034,6 @@
     "selectedTokenSets": {
       "Base": "source",
       "Light": "enabled",
-      "Typography": "enabled",
       "Global": "enabled"
     },
     "$figmaStyleReferences": {
