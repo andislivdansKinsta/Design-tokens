@@ -4,9 +4,7 @@
     "name": "Stratus - Light",
     "selectedTokenSets": {
       "Base": "source",
-      "Semantic": "disabled",
       "Typography": "enabled",
-      "Dark": "disabled",
       "Light": "enabled"
     },
     "$figmaStyleReferences": {
@@ -3343,10 +3341,8 @@
     "name": "Stratus - Dark",
     "selectedTokenSets": {
       "Base": "source",
-      "Semantic": "disabled",
       "Typography": "enabled",
-      "Dark": "enabled",
-      "Light": "disabled"
+      "Dark": "enabled"
     },
     "$figmaStyleReferences": {
       "surface.neutral.default.base": "S:226b2738acb670f357467ce17a70fb5eca1d2bf0,",
