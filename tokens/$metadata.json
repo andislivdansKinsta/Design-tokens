@@ -1,10 +1,9 @@
 {
   "tokenSetOrder": [
     "Base",
-    "Colors - Light",
-    "Colors - Dark",
-    "Global",
-    "Semantic-Light",
-    "Semantic-Dark"
+    "Light",
+    "Dark",
+    "Typography",
+    "Patterns"
   ]
 }
