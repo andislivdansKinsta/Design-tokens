@@ -3721,7 +3721,7 @@
       },
       "on-bg-primary": {
         "1": {
-          "value": "1",
+          "value": "0.2",
           "type": "other"
         },
         "2": {
@@ -3735,7 +3735,7 @@
       },
       "on-bg-secondary": {
         "1": {
-          "value": "0.63",
+          "value": "0.21",
           "type": "other"
         },
         "2": {
@@ -3749,7 +3749,7 @@
       },
       "on-bg-tertiary": {
         "1": {
-          "value": "0.52",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -3763,7 +3763,7 @@
       },
       "on-bg-tertiary-inverse": {
         "1": {
-          "value": "0.46",
+          "value": "0.32",
           "type": "other"
         },
         "2": {
@@ -3805,7 +3805,7 @@
       },
       "on-sfc-primary": {
         "1": {
-          "value": "0.52",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -3819,7 +3819,7 @@
       },
       "on-sfc-secondary": {
         "1": {
-          "value": "0.47",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -3833,7 +3833,7 @@
       },
       "on-sfc-tertiary": {
         "1": {
-          "value": "0.46",
+          "value": "0.21",
           "type": "other"
         },
         "2": {
@@ -3847,7 +3847,7 @@
       },
       "on-sfc-tertiary-inverse": {
         "1": {
-          "value": "0.51",
+          "value": "0.23",
           "type": "other"
         },
         "2": {
@@ -3861,7 +3861,7 @@
       },
       "on-sfc-secondary-inverse": {
         "1": {
-          "value": "0.51",
+          "value": "0.23",
           "type": "other"
         },
         "2": {
@@ -3875,7 +3875,7 @@
       },
       "on-sfc-primary-inverse": {
         "1": {
-          "value": "0.46",
+          "value": "0.32",
           "type": "other"
         },
         "2": {
@@ -3903,7 +3903,7 @@
       },
       "on-sfc-alt-inverse": {
         "1": {
-          "value": "1",
+          "value": "0.2",
           "type": "other"
         },
         "2": {
@@ -3918,19 +3918,19 @@
     },
     "color": {
       "on-bg-primary": {
-        "value": "{neutral.50}",
+        "value": "{neutral.500}",
         "type": "other"
       },
       "on-bg-secondary": {
-        "value": "{neutral.100}",
+        "value": "{neutral.500}",
         "type": "other"
       },
       "on-bg-tertiary": {
-        "value": "{neutral.200}",
+        "value": "{neutral.500}",
         "type": "other"
       },
       "on-bg-tertiary-inverse": {
-        "value": "{neutral.900}",
+        "value": "{neutral.1000}",
         "type": "other"
       },
       "on-bg-secondary-inverse": {
@@ -3942,27 +3942,27 @@
         "type": "other"
       },
       "on-sfc-primary": {
-        "value": "{neutral.200}",
+        "value": "{neutral.500}",
         "type": "other"
       },
       "on-sfc-secondary": {
-        "value": "{neutral.300}",
+        "value": "{neutral.600}",
         "type": "other"
       },
       "on-sfc-tertiary": {
-        "value": "{neutral.400}",
-        "type": "other"
-      },
-      "on-sfc-tertiary-inverse": {
         "value": "{neutral.700}",
         "type": "other"
       },
+      "on-sfc-tertiary-inverse": {
+        "value": "{neutral.900}",
+        "type": "other"
+      },
       "on-sfc-secondary-inverse": {
-        "value": "{neutral.800}",
+        "value": "{neutral.1000}",
         "type": "other"
       },
       "on-sfc-primary-inverse": {
-        "value": "{neutral.900}",
+        "value": "{neutral.1000}",
         "type": "other"
       },
       "on-sfc-alt": {
@@ -3970,7 +3970,7 @@
         "type": "other"
       },
       "on-sfc-alt-alt": {
-        "value": "{neutral.50}",
+        "value": "{neutral.500}",
         "type": "other"
       }
     }

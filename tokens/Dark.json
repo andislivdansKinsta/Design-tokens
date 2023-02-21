@@ -273,7 +273,7 @@
       },
       "on-bg-tertiary": {
         "1": {
-          "value": "0.54",
+          "value": "0.4",
           "type": "other"
         },
         "2": {
@@ -287,7 +287,7 @@
       },
       "on-bg-tertiary-inverse": {
         "1": {
-          "value": "0.56",
+          "value": "0.23",
           "type": "other"
         },
         "2": {
@@ -301,7 +301,7 @@
       },
       "on-bg-secondary-inverse": {
         "1": {
-          "value": "0.56",
+          "value": "0.24",
           "type": "other"
         },
         "2": {
@@ -315,7 +315,7 @@
       },
       "on-bg-primary-inverse": {
         "1": {
-          "value": "0.71",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -329,7 +329,7 @@
       },
       "on-sfc-primary": {
         "1": {
-          "value": "0.54",
+          "value": "0.4",
           "type": "other"
         },
         "2": {
@@ -343,7 +343,7 @@
       },
       "on-sfc-secondary": {
         "1": {
-          "value": "0.47",
+          "value": "0.25",
           "type": "other"
         },
         "2": {
@@ -357,7 +357,7 @@
       },
       "on-sfc-tertiary": {
         "1": {
-          "value": "0.45",
+          "value": "0.23",
           "type": "other"
         },
         "2": {
@@ -371,7 +371,7 @@
       },
       "on-sfc-tertiary-inverse": {
         "1": {
-          "value": "0.49",
+          "value": "0.21",
           "type": "other"
         },
         "2": {
@@ -385,7 +385,7 @@
       },
       "on-sfc-secondary-inverse": {
         "1": {
-          "value": "0.52",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -399,7 +399,7 @@
       },
       "on-sfc-primary-inverse": {
         "1": {
-          "value": "0.56",
+          "value": "0.23",
           "type": "other"
         },
         "2": {
@@ -413,7 +413,7 @@
       },
       "on-sfc-alt": {
         "1": {
-          "value": "0.71",
+          "value": "0.22",
           "type": "other"
         },
         "2": {
@@ -450,47 +450,47 @@
         "type": "other"
       },
       "on-bg-tertiary": {
-        "value": "{neutral.25}",
+        "value": "{neutral.0}",
         "type": "other"
       },
       "on-bg-tertiary-inverse": {
-        "value": "{neutral.600}",
+        "value": "{neutral.300}",
         "type": "other"
       },
       "on-bg-secondary-inverse": {
-        "value": "{neutral.700}",
-        "type": "other"
-      },
-      "on-bg-primary-inverse": {
-        "value": "{neutral.800}",
-        "type": "other"
-      },
-      "on-sfc-primary": {
-        "value": "{neutral.25}",
-        "type": "other"
-      },
-      "on-sfc-secondary": {
-        "value": "{neutral.50}",
-        "type": "other"
-      },
-      "on-sfc-tertiary": {
-        "value": "{neutral.100}",
-        "type": "other"
-      },
-      "on-sfc-tertiary-inverse": {
         "value": "{neutral.400}",
         "type": "other"
       },
+      "on-bg-primary-inverse": {
+        "value": "{neutral.400}",
+        "type": "other"
+      },
+      "on-sfc-primary": {
+        "value": "{neutral.0}",
+        "type": "other"
+      },
+      "on-sfc-secondary": {
+        "value": "{neutral.0}",
+        "type": "other"
+      },
+      "on-sfc-tertiary": {
+        "value": "{neutral.25}",
+        "type": "other"
+      },
+      "on-sfc-tertiary-inverse": {
+        "value": "{neutral.100}",
+        "type": "other"
+      },
       "on-sfc-secondary-inverse": {
-        "value": "{neutral.500}",
+        "value": "{neutral.200}",
         "type": "other"
       },
       "on-sfc-primary-inverse": {
-        "value": "{neutral.600}",
+        "value": "{neutral.300}",
         "type": "other"
       },
       "on-sfc-alt": {
-        "value": "{neutral.800}",
+        "value": "{neutral.400}",
         "type": "other"
       },
       "on-sfc-alt-alt": {
