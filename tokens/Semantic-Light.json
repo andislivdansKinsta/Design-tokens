@@ -9183,7 +9183,7 @@
       }
     }
   },
-  "background": {
+  "bg": {
     "neutral": {
       "default": {
         "primary": {
@@ -9585,7 +9585,7 @@
       }
     }
   },
-  "surface": {
+  "sfc": {
     "neutral": {
       "default": {
         "primary": {
@@ -11959,6 +11959,102 @@
             "value": "{accent.300}",
             "type": "color"
           }
+        }
+      }
+    }
+  },
+  "fg": {
+    "on-background": {
+      "primary": {
+        "primary-strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "primary-normal": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.400}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.300}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "primary-inverse": {
+        "strong": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.300}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.500}",
+          "type": "color"
+        }
+      },
+      "secondary-inverse": {
+        "strong": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "tertiary-inverse": {
+        "strong": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.300}",
+          "type": "color"
         }
       }
     }
