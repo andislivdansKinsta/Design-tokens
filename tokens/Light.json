@@ -12896,5 +12896,179 @@
         }
       }
     }
+  },
+  "shadow": {
+    "scale": {
+      "value": "1.125",
+      "type": "other"
+    },
+    "opacity-1": {
+      "1": {
+        "value": "1",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-2": {
+      "1": {
+        "value": "0.63",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-3": {
+      "1": {
+        "value": "0.52",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-4": {
+      "1": {
+        "value": "0.47",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-5": {
+      "1": {
+        "value": "0.46",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-6": {
+      "1": {
+        "value": "0.46",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-7": {
+      "1": {
+        "value": "0.48",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-8": {
+      "1": {
+        "value": "0.51",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-9": {
+      "1": {
+        "value": "0.51",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-10": {
+      "1": {
+        "value": "0.46",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-11": {
+      "1": {
+        "value": "0.59",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    },
+    "opacity-12": {
+      "1": {
+        "value": "1",
+        "type": "other"
+      },
+      "2": {
+        "value": "roundTo({shadow.opacity-1.1} / {shadow.scale} /0.01, 0) *0.01",
+        "type": "other"
+      },
+      "3": {
+        "value": "roundTo({shadow.opacity-1.2} / (2*{shadow.scale}) /0.01, 0) *0.01",
+        "type": "other"
+      }
+    }
   }
 }
