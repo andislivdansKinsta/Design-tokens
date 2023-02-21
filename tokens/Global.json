@@ -5308,7 +5308,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-neutral}",
           "type": "dropShadow"
         },
@@ -5319,7 +5319,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-neutral-inverse}",
           "type": "dropShadow"
         },
@@ -5356,7 +5356,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5393,7 +5393,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5430,7 +5430,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5467,7 +5467,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5504,7 +5504,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5541,7 +5541,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5578,7 +5578,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5617,7 +5617,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5654,7 +5654,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5691,7 +5691,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5728,7 +5728,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5765,7 +5765,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5802,7 +5802,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5839,7 +5839,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5870,7 +5870,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             },
@@ -5915,7 +5915,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5952,7 +5952,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -5989,7 +5989,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -6026,7 +6026,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -6063,7 +6063,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -6100,7 +6100,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral}",
               "type": "dropShadow"
             }
@@ -6139,7 +6139,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6176,7 +6176,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6213,7 +6213,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6250,7 +6250,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6287,7 +6287,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6324,7 +6324,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6361,7 +6361,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6400,7 +6400,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6437,7 +6437,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6474,7 +6474,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6511,7 +6511,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6548,7 +6548,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6585,7 +6585,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6622,7 +6622,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6661,7 +6661,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6698,7 +6698,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6735,7 +6735,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6772,7 +6772,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6809,7 +6809,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6846,7 +6846,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6883,7 +6883,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-neutral-inverse}",
               "type": "dropShadow"
             }
@@ -6898,7 +6898,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-positive}",
           "type": "dropShadow"
         },
@@ -6909,7 +6909,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-positive-inverse}",
           "type": "dropShadow"
         },
@@ -6946,7 +6946,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -6983,7 +6983,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7020,7 +7020,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7057,7 +7057,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7094,7 +7094,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7131,7 +7131,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7168,7 +7168,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7207,7 +7207,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7244,7 +7244,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7281,7 +7281,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7318,7 +7318,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7355,7 +7355,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7392,7 +7392,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7429,7 +7429,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7460,7 +7460,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             },
@@ -7505,7 +7505,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7542,7 +7542,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7579,7 +7579,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7616,7 +7616,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7653,7 +7653,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7690,7 +7690,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive}",
               "type": "dropShadow"
             }
@@ -7729,7 +7729,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7766,7 +7766,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7803,7 +7803,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7840,7 +7840,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7877,7 +7877,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7914,7 +7914,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7951,7 +7951,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -7990,7 +7990,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8027,7 +8027,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8064,7 +8064,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8101,7 +8101,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8138,7 +8138,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8175,7 +8175,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8212,7 +8212,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8251,7 +8251,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8288,7 +8288,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8325,7 +8325,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8362,7 +8362,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8399,7 +8399,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8436,7 +8436,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8473,7 +8473,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-positive-inverse}",
               "type": "dropShadow"
             }
@@ -8488,7 +8488,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-warning}",
           "type": "dropShadow"
         },
@@ -8499,7 +8499,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-warning-inverse}",
           "type": "dropShadow"
         },
@@ -8536,7 +8536,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8573,7 +8573,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8610,7 +8610,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8647,7 +8647,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8684,7 +8684,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8721,7 +8721,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8758,7 +8758,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8797,7 +8797,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8834,7 +8834,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8871,7 +8871,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8908,7 +8908,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8945,7 +8945,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -8982,7 +8982,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9019,7 +9019,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9050,7 +9050,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             },
@@ -9095,7 +9095,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9132,7 +9132,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9169,7 +9169,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9206,7 +9206,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9243,7 +9243,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9280,7 +9280,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning}",
               "type": "dropShadow"
             }
@@ -9319,7 +9319,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9356,7 +9356,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9393,7 +9393,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9430,7 +9430,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9467,7 +9467,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9504,7 +9504,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9541,7 +9541,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9580,7 +9580,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9617,7 +9617,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9654,7 +9654,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9691,7 +9691,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9728,7 +9728,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9765,7 +9765,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9802,7 +9802,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9841,7 +9841,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9878,7 +9878,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9915,7 +9915,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9952,7 +9952,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -9989,7 +9989,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -10026,7 +10026,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -10063,7 +10063,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-warning-inverse}",
               "type": "dropShadow"
             }
@@ -10078,7 +10078,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-negative}",
           "type": "dropShadow"
         },
@@ -10089,7 +10089,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-negative-inverse}",
           "type": "dropShadow"
         },
@@ -10126,7 +10126,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10163,7 +10163,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10200,7 +10200,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10237,7 +10237,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10274,7 +10274,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10311,7 +10311,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10348,7 +10348,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10387,7 +10387,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10424,7 +10424,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10461,7 +10461,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10498,7 +10498,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10535,7 +10535,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10572,7 +10572,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10609,7 +10609,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10640,7 +10640,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             },
@@ -10685,7 +10685,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10722,7 +10722,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10759,7 +10759,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10796,7 +10796,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10833,7 +10833,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10870,7 +10870,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative}",
               "type": "dropShadow"
             }
@@ -10909,7 +10909,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -10946,7 +10946,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -10983,7 +10983,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11020,7 +11020,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11057,7 +11057,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11094,7 +11094,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11131,7 +11131,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11170,7 +11170,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11207,7 +11207,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11244,7 +11244,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11281,7 +11281,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11318,7 +11318,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11355,7 +11355,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11392,7 +11392,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11431,7 +11431,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11468,7 +11468,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11505,7 +11505,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11542,7 +11542,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11579,7 +11579,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11616,7 +11616,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11653,7 +11653,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-negative-inverse}",
               "type": "dropShadow"
             }
@@ -11668,7 +11668,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-accent}",
           "type": "dropShadow"
         },
@@ -11679,7 +11679,7 @@
           "x": "0",
           "y": "0",
           "blur": "0",
-          "spread": "{shadow.focus-spread.default}",
+          "spread": "{shadow.focus-border-width.default}",
           "color": "{shadow.color.light.focus-accent-inverse}",
           "type": "dropShadow"
         },
@@ -11716,7 +11716,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11753,7 +11753,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11790,7 +11790,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11827,7 +11827,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11864,7 +11864,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11901,7 +11901,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11938,7 +11938,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -11977,7 +11977,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12014,7 +12014,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12051,7 +12051,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12088,7 +12088,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12125,7 +12125,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12162,7 +12162,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12199,7 +12199,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12230,7 +12230,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             },
@@ -12275,7 +12275,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12312,7 +12312,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12349,7 +12349,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12386,7 +12386,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12423,7 +12423,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12460,7 +12460,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent}",
               "type": "dropShadow"
             }
@@ -12499,7 +12499,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12536,7 +12536,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12573,7 +12573,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12610,7 +12610,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12647,7 +12647,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12684,7 +12684,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12721,7 +12721,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12760,7 +12760,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12797,7 +12797,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12834,7 +12834,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12871,7 +12871,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12908,7 +12908,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12945,7 +12945,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -12982,7 +12982,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13021,7 +13021,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13058,7 +13058,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13095,7 +13095,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13132,7 +13132,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13169,7 +13169,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13206,7 +13206,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }
@@ -13243,7 +13243,7 @@
               "x": "0",
               "y": "0",
               "blur": "0",
-              "spread": "{shadow.focus-spread.default}",
+              "spread": "{shadow.focus-border-width.default}",
               "color": "{shadow.color.light.focus-accent-inverse}",
               "type": "dropShadow"
             }

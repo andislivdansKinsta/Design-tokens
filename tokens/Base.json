@@ -4790,7 +4790,7 @@
         }
       }
     },
-    "focus-spread": {
+    "focus-border-width": {
       "default": {
         "value": "{border-width.4}",
         "type": "other"
