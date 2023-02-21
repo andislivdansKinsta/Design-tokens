@@ -4283,7 +4283,7 @@
             "y": "{shadow.axis.x-small.1}",
             "blur": "{shadow.blur.x-small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4291,7 +4291,7 @@
             "y": "{shadow.axis.x-small.2}",
             "blur": "{shadow.blur.x-small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4299,7 +4299,7 @@
             "y": "{shadow.axis.x-small.3}",
             "blur": "{shadow.blur.x-small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4312,7 +4312,7 @@
             "y": "{shadow.axis.small.1}",
             "blur": "{shadow.blur.small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4320,7 +4320,7 @@
             "y": "{shadow.axis.small.2}",
             "blur": "{shadow.blur.small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4328,7 +4328,7 @@
             "y": "{shadow.axis.small.3}",
             "blur": "{shadow.blur.small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4341,7 +4341,7 @@
             "y": "{shadow.axis.regular.1}",
             "blur": "{shadow.blur.regular.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4349,7 +4349,7 @@
             "y": "{shadow.axis.regular.2}",
             "blur": "{shadow.blur.regular.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4357,7 +4357,7 @@
             "y": "{shadow.axis.regular.3}",
             "blur": "{shadow.blur.regular.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4370,7 +4370,7 @@
             "y": "{shadow.axis.medium.1}",
             "blur": "{shadow.blur.medium.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4378,7 +4378,7 @@
             "y": "{shadow.axis.medium.2}",
             "blur": "{shadow.blur.medium.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4386,7 +4386,7 @@
             "y": "{shadow.axis.medium.3}",
             "blur": "{shadow.blur.medium.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4399,7 +4399,7 @@
             "y": "{shadow.axis.large.1}",
             "blur": "{shadow.blur.large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4407,7 +4407,7 @@
             "y": "{shadow.axis.large.2}",
             "blur": "{shadow.blur.large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4415,7 +4415,7 @@
             "y": "{shadow.axis.large.3}",
             "blur": "{shadow.blur.large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4428,7 +4428,7 @@
             "y": "{shadow.axis.x-large.1}",
             "blur": "{shadow.blur.x-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4436,7 +4436,7 @@
             "y": "{shadow.axis.x-large.2}",
             "blur": "{shadow.blur.x-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4444,7 +4444,7 @@
             "y": "{shadow.axis.x-large.3}",
             "blur": "{shadow.blur.x-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4457,7 +4457,7 @@
             "y": "{shadow.axis.xx-large.1}",
             "blur": "{shadow.blur.xx-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.1})",
             "type": "dropShadow"
           },
           {
@@ -4465,7 +4465,7 @@
             "y": "{shadow.axis.xx-large.2}",
             "blur": "{shadow.blur.xx-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.2})",
             "type": "dropShadow"
           },
           {
@@ -4473,7 +4473,7 @@
             "y": "{shadow.axis.xx-large.3}",
             "blur": "{shadow.blur.xx-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-primary.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary}, {shadow.opacity.on-bg-secondary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4488,7 +4488,7 @@
             "y": "{shadow.axis.x-small.1}",
             "blur": "{shadow.blur.x-small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4496,7 +4496,7 @@
             "y": "{shadow.axis.x-small.2}",
             "blur": "{shadow.blur.x-small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4504,7 +4504,7 @@
             "y": "{shadow.axis.x-small.3}",
             "blur": "{shadow.blur.x-small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4517,7 +4517,7 @@
             "y": "{shadow.axis.small.1}",
             "blur": "{shadow.blur.small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4525,7 +4525,7 @@
             "y": "{shadow.axis.small.2}",
             "blur": "{shadow.blur.small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4533,7 +4533,7 @@
             "y": "{shadow.axis.small.3}",
             "blur": "{shadow.blur.small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4546,7 +4546,7 @@
             "y": "{shadow.axis.regular.1}",
             "blur": "{shadow.blur.regular.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4554,7 +4554,7 @@
             "y": "{shadow.axis.regular.2}",
             "blur": "{shadow.blur.regular.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4562,7 +4562,7 @@
             "y": "{shadow.axis.regular.3}",
             "blur": "{shadow.blur.regular.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4575,7 +4575,7 @@
             "y": "{shadow.axis.medium.1}",
             "blur": "{shadow.blur.medium.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4583,7 +4583,7 @@
             "y": "{shadow.axis.medium.2}",
             "blur": "{shadow.blur.medium.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4591,7 +4591,7 @@
             "y": "{shadow.axis.medium.3}",
             "blur": "{shadow.blur.medium.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4604,7 +4604,7 @@
             "y": "{shadow.axis.large.1}",
             "blur": "{shadow.blur.large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4612,7 +4612,7 @@
             "y": "{shadow.axis.large.2}",
             "blur": "{shadow.blur.large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4620,7 +4620,7 @@
             "y": "{shadow.axis.large.3}",
             "blur": "{shadow.blur.large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4633,7 +4633,7 @@
             "y": "{shadow.axis.x-large.1}",
             "blur": "{shadow.blur.x-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4641,7 +4641,7 @@
             "y": "{shadow.axis.x-large.2}",
             "blur": "{shadow.blur.x-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4649,7 +4649,7 @@
             "y": "{shadow.axis.x-large.3}",
             "blur": "{shadow.blur.x-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4662,7 +4662,7 @@
             "y": "{shadow.axis.xx-large.1}",
             "blur": "{shadow.blur.xx-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-1})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.1})",
             "type": "dropShadow"
           },
           {
@@ -4670,7 +4670,7 @@
             "y": "{shadow.axis.xx-large.2}",
             "blur": "{shadow.blur.xx-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-2})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.2})",
             "type": "dropShadow"
           },
           {
@@ -4678,7 +4678,7 @@
             "y": "{shadow.axis.xx-large.3}",
             "blur": "{shadow.blur.xx-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-light}, {shadow.opacity.light.on-surface-secondary.opacity-3})",
+            "color": "rgba(shadow.color.on-bg-tertiary}, {shadow.opacity.on-bg-tertiary.3})",
             "type": "dropShadow"
           }
         ],
@@ -4693,7 +4693,7 @@
             "y": "{shadow.axis.x-small.1}",
             "blur": "{shadow.blur.x-small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4701,7 +4701,7 @@
             "y": "{shadow.axis.x-small.2}",
             "blur": "{shadow.blur.x-small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4709,7 +4709,7 @@
             "y": "{shadow.axis.x-small.3}",
             "blur": "{shadow.blur.x-small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4722,7 +4722,7 @@
             "y": "{shadow.axis.small.1}",
             "blur": "{shadow.blur.small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4730,7 +4730,7 @@
             "y": "{shadow.axis.small.2}",
             "blur": "{shadow.blur.small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4738,7 +4738,7 @@
             "y": "{shadow.axis.small.3}",
             "blur": "{shadow.blur.small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4751,7 +4751,7 @@
             "y": "{shadow.axis.regular.1}",
             "blur": "{shadow.blur.regular.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4759,7 +4759,7 @@
             "y": "{shadow.axis.regular.2}",
             "blur": "{shadow.blur.regular.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4767,7 +4767,7 @@
             "y": "{shadow.axis.regular.3}",
             "blur": "{shadow.blur.regular.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4780,7 +4780,7 @@
             "y": "{shadow.axis.medium.1}",
             "blur": "{shadow.blur.medium.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4788,7 +4788,7 @@
             "y": "{shadow.axis.medium.2}",
             "blur": "{shadow.blur.medium.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4796,7 +4796,7 @@
             "y": "{shadow.axis.medium.3}",
             "blur": "{shadow.blur.medium.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4809,7 +4809,7 @@
             "y": "{shadow.axis.large.1}",
             "blur": "{shadow.blur.large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4817,7 +4817,7 @@
             "y": "{shadow.axis.large.2}",
             "blur": "{shadow.blur.large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4825,7 +4825,7 @@
             "y": "{shadow.axis.large.3}",
             "blur": "{shadow.blur.large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4838,7 +4838,7 @@
             "y": "{shadow.axis.x-large.1}",
             "blur": "{shadow.blur.x-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4846,7 +4846,7 @@
             "y": "{shadow.axis.x-large.2}",
             "blur": "{shadow.blur.x-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4854,7 +4854,7 @@
             "y": "{shadow.axis.x-large.3}",
             "blur": "{shadow.blur.x-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4867,7 +4867,7 @@
             "y": "{shadow.axis.xx-large.1}",
             "blur": "{shadow.blur.xx-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4875,7 +4875,7 @@
             "y": "{shadow.axis.xx-large.2}",
             "blur": "{shadow.blur.xx-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4883,7 +4883,7 @@
             "y": "{shadow.axis.xx-large.3}",
             "blur": "{shadow.blur.xx-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-secondary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-tertiary-inverse}, {shadow.opacity.on-bg-tertiary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4898,7 +4898,7 @@
             "y": "{shadow.axis.x-small.1}",
             "blur": "{shadow.blur.x-small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4906,7 +4906,7 @@
             "y": "{shadow.axis.x-small.2}",
             "blur": "{shadow.blur.x-small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4914,7 +4914,7 @@
             "y": "{shadow.axis.x-small.3}",
             "blur": "{shadow.blur.x-small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4927,7 +4927,7 @@
             "y": "{shadow.axis.small.1}",
             "blur": "{shadow.blur.small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4935,7 +4935,7 @@
             "y": "{shadow.axis.small.2}",
             "blur": "{shadow.blur.small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4943,7 +4943,7 @@
             "y": "{shadow.axis.small.3}",
             "blur": "{shadow.blur.small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4956,7 +4956,7 @@
             "y": "{shadow.axis.regular.1}",
             "blur": "{shadow.blur.regular.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4964,7 +4964,7 @@
             "y": "{shadow.axis.regular.2}",
             "blur": "{shadow.blur.regular.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -4972,7 +4972,7 @@
             "y": "{shadow.axis.regular.3}",
             "blur": "{shadow.blur.regular.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -4985,7 +4985,7 @@
             "y": "{shadow.axis.medium.1}",
             "blur": "{shadow.blur.medium.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -4993,7 +4993,7 @@
             "y": "{shadow.axis.medium.2}",
             "blur": "{shadow.blur.medium.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5001,7 +5001,7 @@
             "y": "{shadow.axis.medium.3}",
             "blur": "{shadow.blur.medium.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5014,7 +5014,7 @@
             "y": "{shadow.axis.large.1}",
             "blur": "{shadow.blur.large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5022,7 +5022,7 @@
             "y": "{shadow.axis.large.2}",
             "blur": "{shadow.blur.large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5030,7 +5030,7 @@
             "y": "{shadow.axis.large.3}",
             "blur": "{shadow.blur.large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5043,7 +5043,7 @@
             "y": "{shadow.axis.x-large.1}",
             "blur": "{shadow.blur.x-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5051,7 +5051,7 @@
             "y": "{shadow.axis.x-large.2}",
             "blur": "{shadow.blur.x-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5059,7 +5059,7 @@
             "y": "{shadow.axis.x-large.3}",
             "blur": "{shadow.blur.x-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5072,7 +5072,7 @@
             "y": "{shadow.axis.xx-large.1}",
             "blur": "{shadow.blur.xx-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5080,7 +5080,7 @@
             "y": "{shadow.axis.xx-large.2}",
             "blur": "{shadow.blur.xx-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5088,7 +5088,7 @@
             "y": "{shadow.axis.xx-large.3}",
             "blur": "{shadow.blur.xx-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-dark}, {shadow.opacity.light.on-surface-primary-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-secondary-inverse}, {shadow.opacity.on-bg-secondary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5103,7 +5103,7 @@
             "y": "{shadow.axis.x-small.1}",
             "blur": "{shadow.blur.x-small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5111,7 +5111,7 @@
             "y": "{shadow.axis.x-small.2}",
             "blur": "{shadow.blur.x-small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5119,7 +5119,7 @@
             "y": "{shadow.axis.x-small.3}",
             "blur": "{shadow.blur.x-small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5132,7 +5132,7 @@
             "y": "{shadow.axis.small.1}",
             "blur": "{shadow.blur.small.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5140,7 +5140,7 @@
             "y": "{shadow.axis.small.2}",
             "blur": "{shadow.blur.small.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5148,7 +5148,7 @@
             "y": "{shadow.axis.small.3}",
             "blur": "{shadow.blur.small.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5161,7 +5161,7 @@
             "y": "{shadow.axis.regular.1}",
             "blur": "{shadow.blur.regular.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5169,7 +5169,7 @@
             "y": "{shadow.axis.regular.2}",
             "blur": "{shadow.blur.regular.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5177,7 +5177,7 @@
             "y": "{shadow.axis.regular.3}",
             "blur": "{shadow.blur.regular.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5190,7 +5190,7 @@
             "y": "{shadow.axis.medium.1}",
             "blur": "{shadow.blur.medium.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5198,7 +5198,7 @@
             "y": "{shadow.axis.medium.2}",
             "blur": "{shadow.blur.medium.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5206,7 +5206,7 @@
             "y": "{shadow.axis.medium.3}",
             "blur": "{shadow.blur.medium.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5219,7 +5219,7 @@
             "y": "{shadow.axis.large.1}",
             "blur": "{shadow.blur.large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5227,7 +5227,7 @@
             "y": "{shadow.axis.large.2}",
             "blur": "{shadow.blur.large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5235,7 +5235,7 @@
             "y": "{shadow.axis.large.3}",
             "blur": "{shadow.blur.large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5248,7 +5248,7 @@
             "y": "{shadow.axis.x-large.1}",
             "blur": "{shadow.blur.x-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5256,7 +5256,7 @@
             "y": "{shadow.axis.x-large.2}",
             "blur": "{shadow.blur.x-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5264,7 +5264,7 @@
             "y": "{shadow.axis.x-large.3}",
             "blur": "{shadow.blur.x-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
@@ -5277,7 +5277,7 @@
             "y": "{shadow.axis.xx-large.1}",
             "blur": "{shadow.blur.xx-large.1}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-1})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
             "type": "dropShadow"
           },
           {
@@ -5285,7 +5285,7 @@
             "y": "{shadow.axis.xx-large.2}",
             "blur": "{shadow.blur.xx-large.2}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-2})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
             "type": "dropShadow"
           },
           {
@@ -5293,7 +5293,7 @@
             "y": "{shadow.axis.xx-large.3}",
             "blur": "{shadow.blur.xx-large.3}",
             "spread": "0",
-            "color": "rgba({shadow.color.light.box-shadow-darkest}, {shadow.opacity.light.on-surface-base-inverse.opacity-3})",
+            "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
             "type": "dropShadow"
           }
         ],
