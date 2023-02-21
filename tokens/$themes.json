@@ -4,9 +4,7 @@
     "name": "Stratus - Light",
     "selectedTokenSets": {
       "Base": "source",
-      "Patterns": "disabled",
       "Light": "enabled",
-      "Dark": "disabled",
       "Typography": "enabled"
     },
     "$figmaStyleReferences": {
@@ -3343,8 +3341,6 @@
     "name": "Stratus - Dark",
     "selectedTokenSets": {
       "Base": "source",
-      "Patterns": "disabled",
-      "Light": "disabled",
       "Dark": "enabled",
       "Typography": "enabled"
     },
