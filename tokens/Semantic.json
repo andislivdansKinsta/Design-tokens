@@ -2553,7 +2553,7 @@
   },
   "focused-shadow": {
     "on-bg-primary": {
-      "neutral": {
+      "neutral-2": {
         "x-small-primary": {
           "value": [
             {
