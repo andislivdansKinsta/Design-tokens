@@ -812,79 +812,79 @@
       "default": {
         "primary": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.25}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.900}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.800}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.700}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{neutral.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.600}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.200}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.900}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.800}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -892,79 +892,79 @@
       "default": {
         "primary": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.25}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.900}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.800}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.700}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{positive.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.600}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.200}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.900}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.800}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -972,79 +972,79 @@
       "default": {
         "primary": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.25}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.900}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.800}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.700}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{warning.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.600}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.200}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.900}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.800}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1052,79 +1052,79 @@
       "default": {
         "primary": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.25}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.900}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.800}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.700}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{negative.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.600}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.200}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.900}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.800}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1132,79 +1132,79 @@
       "default": {
         "primary": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.25}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.900}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.800}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.700}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{accent.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.600}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.200}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.900}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.800}",
-          "type": "other"
+          "type": "color"
         }
       }
     }
@@ -1214,137 +1214,137 @@
       "default": {
         "primary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.200}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.900}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.700}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.600}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.500}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{neutral.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.800}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.25}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.200}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.300}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.600}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{neutral.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{neutral.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{neutral.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{neutral.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{neutral.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.400}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1352,137 +1352,137 @@
       "default": {
         "primary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.200}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{positive.900}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.700}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.600}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.500}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{positive.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{positive.800}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{positive.25}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.200}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.300}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.600}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{positive.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{positive.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{positive.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{positive.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{positive.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{positive.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{positive.400}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1490,137 +1490,137 @@
       "default": {
         "primary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.200}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{warning.900}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.700}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.600}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.500}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{warning.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{warning.800}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{warning.25}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.200}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.300}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.600}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{warning.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{warning.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{warning.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{warning.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{warning.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{warning.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{warning.400}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1628,137 +1628,137 @@
       "default": {
         "primary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.200}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{negative.900}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.700}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.600}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.500}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{negative.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{negative.800}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{negative.25}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.200}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.300}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.600}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{negative.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{negative.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{negative.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{negative.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{negative.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{negative.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{negative.400}",
-          "type": "other"
+          "type": "color"
         }
       }
     },
@@ -1766,137 +1766,137 @@
       "default": {
         "primary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.200}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{accent.900}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.700}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.600}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.500}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{neutral.0}",
-          "type": "other"
+          "type": "color"
         }
       },
       "hovered": {
         "primary": {
           "value": "{accent.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{accent.800}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{accent.25}",
-          "type": "other"
+          "type": "color"
         }
       },
       "pressed": {
         "primary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.200}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.300}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{neutral.1000}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.800}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.700}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.600}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         }
       },
       "disabled": {
         "primary": {
           "value": "{accent.25}",
-          "type": "other"
+          "type": "color"
         },
         "secondary": {
           "value": "{accent.50}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "alt": {
           "value": "{accent.100}",
-          "type": "other"
+          "type": "color"
         },
         "primary-inverse": {
           "value": "{accent.600}",
-          "type": "other"
+          "type": "color"
         },
         "secondary-inverse": {
           "value": "{accent.500}",
-          "type": "other"
+          "type": "color"
         },
         "tertiary-inverse": {
           "value": "{accent.400}",
-          "type": "other"
+          "type": "color"
         },
         "alt-inverse": {
           "value": "{accent.400}",
-          "type": "other"
+          "type": "color"
         }
       }
     }
@@ -1907,97 +1907,97 @@
         "default": {
           "primary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2005,97 +2005,97 @@
         "default": {
           "primary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2103,97 +2103,97 @@
         "default": {
           "primary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2201,97 +2201,97 @@
         "default": {
           "primary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2299,97 +2299,97 @@
         "default": {
           "primary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           }
         }
       }
@@ -2399,237 +2399,237 @@
         "default": {
           "primary": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed": {
           "primary": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled": {
           "primary": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.800}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed-inverse": {
           "alt": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{neutral.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2637,237 +2637,237 @@
         "default": {
           "primary": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed": {
           "primary": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled": {
           "primary": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{positive.800}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed-inverse": {
           "alt": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{positive.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -2875,237 +2875,237 @@
         "default": {
           "primary": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed": {
           "primary": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled": {
           "primary": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{warning.800}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed-inverse": {
           "alt": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{warning.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -3113,237 +3113,237 @@
         "default": {
           "primary": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed": {
           "primary": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled": {
           "primary": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{negative.800}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed-inverse": {
           "alt": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{negative.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -3351,237 +3351,237 @@
         "default": {
           "primary": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{neutral.1000}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered": {
           "primary": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed": {
           "primary": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled": {
           "primary": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "default-inverse": {
           "primary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{accent.800}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "hovered-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           }
         },
         "pressed-inverse": {
           "alt": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           }
         },
         "disabled-inverse": {
           "primary": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "secondary": {
             "value": "{accent.25}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "alt": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "primary-inverse": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "secondary-inverse": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           },
           "tertiary-inverse": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "alt-inverse": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       }
@@ -3593,161 +3593,161 @@
         "primary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-normal": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal-alpha": {
             "value": "{alpha.black.600}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "normal-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.200}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -3755,93 +3755,93 @@
         "primary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-normal": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -3849,93 +3849,93 @@
         "primary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-normal": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -3943,93 +3943,93 @@
         "primary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-normal": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -4037,93 +4037,93 @@
         "primary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "primary-normal": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           }
         }
       }
@@ -4133,225 +4133,225 @@
         "primary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.500}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{neutral.600}",
-            "type": "other"
+            "type": "color"
           },
           "normal-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.200}",
-            "type": "other"
+            "type": "color"
           },
           "disabled-alpha": {
             "value": "{alpha.black.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.200}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.50}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.white.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt-inverse": {
           "strong": {
             "value": "{neutral.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{neutral.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{neutral.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{neutral.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{neutral.100}",
-            "type": "other"
+            "type": "color"
           },
           "strong-alpha": {
             "value": "{alpha.black.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal-alpha": {
             "value": "{alpha.black.600}",
-            "type": "other"
+            "type": "color"
           },
           "weak-alpha": {
             "value": "{alpha.black.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest-alpha": {
             "value": "{alpha.black.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled-alpha": {
             "value": "{alpha.white.500}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -4359,129 +4359,129 @@
         "primary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.500}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{positive.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.200}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.50}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt-inverse": {
           "strong": {
             "value": "{positive.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{positive.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{positive.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{positive.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{positive.100}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -4489,129 +4489,129 @@
         "primary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.500}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{warning.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.200}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.50}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt-inverse": {
           "strong": {
             "value": "{warning.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{warning.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{warning.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{warning.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{warning.100}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -4619,129 +4619,129 @@
         "primary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.500}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{negative.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.200}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.50}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt-inverse": {
           "strong": {
             "value": "{negative.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{negative.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{negative.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{negative.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{negative.100}",
-            "type": "other"
+            "type": "color"
           }
         }
       },
@@ -4749,129 +4749,129 @@
         "primary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.500}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{accent.600}",
-            "type": "other"
+            "type": "color"
           }
         },
         "primary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           }
         },
         "secondary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.200}",
-            "type": "other"
+            "type": "color"
           }
         },
         "tertiary-inverse": {
           "strong": {
             "value": "{neutral.0}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.50}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           }
         },
         "alt-inverse": {
           "strong": {
             "value": "{accent.900}",
-            "type": "other"
+            "type": "color"
           },
           "normal": {
             "value": "{accent.700}",
-            "type": "other"
+            "type": "color"
           },
           "weak": {
             "value": "{accent.400}",
-            "type": "other"
+            "type": "color"
           },
           "weakest": {
             "value": "{accent.300}",
-            "type": "other"
+            "type": "color"
           },
           "disabled": {
             "value": "{accent.100}",
-            "type": "other"
+            "type": "color"
           }
         }
       }
