@@ -2552,9 +2552,9 @@
     }
   },
   "focused-shadow": {
-    "neutral": {
-      "on-bg-primary": {
-        "x-small-tertiary": {
+    "on-bg-primary": {
+      "neutral": {
+        "x-small-primary": {
           "value": [
             {
               "x": "0",
@@ -2585,7 +2585,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{neutral.25}",
+              "color": "{border.on-bg.neutral.default.primary}",
               "type": "dropShadow"
             }
           ],
@@ -2622,13 +2622,13 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{neutral.50}",
+              "color": "{border.on-bg.neutral.default.secondary}",
               "type": "dropShadow"
             }
           ],
           "type": "boxShadow"
         },
-        "x-small-primary": {
+        "x-small-tertiary": {
           "value": [
             {
               "x": "0",
@@ -2659,44 +2659,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{neutral.100}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "x-small-alt": {
-          "value": [
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.1}",
-              "blur": "{shadow.blur.x-small.1}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary}, {shadow.opacity.on-bg-primary.1})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.2}",
-              "blur": "{shadow.blur.x-small.2}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary}, {shadow.opacity.on-bg-primary.2})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.3}",
-              "blur": "{shadow.blur.x-small.3}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary}, {shadow.opacity.on-bg-primary.3})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "{border-width.4}",
-              "color": "{neutral.1000}",
+              "color": "{border.on-bg.neutral.default.tertiary}",
               "type": "dropShadow"
             }
           ],
@@ -2876,7 +2839,9 @@
           ],
           "type": "boxShadow"
         }
-      },
+      }
+    },
+    "neutral": {
       "on-bg-secondary": {
         "x-small": {
           "value": [
