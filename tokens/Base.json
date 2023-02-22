@@ -8209,16 +8209,6 @@
           "type": "other"
         }
       }
-    },
-    "focus-border-width": {
-      "2": {
-        "value": "{border-width.2}",
-        "type": "other"
-      },
-      "4": {
-        "value": "{border-width.4}",
-        "type": "other"
-      }
     }
   }
 }
