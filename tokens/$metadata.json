@@ -3,6 +3,7 @@
     "Base",
     "Light",
     "Dark",
-    "Semantic"
+    "Typography",
+    "Shadow"
   ]
 }
