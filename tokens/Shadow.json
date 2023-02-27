@@ -1232,8 +1232,21 @@
     }
   },
   "focused-shadow": {
-    "on-bg": {
+    "on-bg-primary": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -1495,6 +1508,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -1756,6 +1782,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -2017,6 +2056,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -2278,6 +2330,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -2576,6 +2641,19 @@
           ],
           "type": "boxShadow"
         },
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "small": {
           "value": [
             {
@@ -2800,6 +2878,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -3061,6 +3152,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -3322,6 +3426,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -3583,6 +3700,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -3846,6 +3976,19 @@
     },
     "on-bg-secondary": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -4107,6 +4250,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -4368,6 +4524,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -4629,6 +4798,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -4890,6 +5072,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -5151,6 +5346,19 @@
         }
       },
       "warning-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -5412,6 +5620,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -5673,6 +5894,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -5934,6 +6168,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -6195,6 +6442,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -6458,6 +6718,19 @@
     },
     "on-bg-tertiary": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -6719,6 +6992,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.neutral.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -6980,6 +7266,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -7241,6 +7540,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.positive.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -7502,6 +7814,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -7763,6 +8088,19 @@
         }
       },
       "warning-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.warning.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -8024,6 +8362,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -8285,6 +8636,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.negative.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -8546,6 +8910,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -8807,6 +9184,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "border-width.4",
+              "color": "{border.on-bg.accent.default.primary}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -9070,6 +9460,19 @@
     },
     "on-bg-tertiary-inverse": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -9331,6 +9734,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -9592,6 +10008,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -9853,6 +10282,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -10114,6 +10556,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -10375,6 +10830,19 @@
         }
       },
       "warning-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -10636,6 +11104,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -10897,6 +11378,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -11158,6 +11652,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -11419,6 +11926,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -11682,6 +12202,19 @@
     },
     "on-bg-secondary-inverse": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -11943,6 +12476,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -12204,6 +12750,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -12465,6 +13024,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -12726,6 +13298,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -12987,6 +13572,19 @@
         }
       },
       "warning-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -13248,6 +13846,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -13509,6 +14120,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -13770,6 +14394,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -14031,6 +14668,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -14294,6 +14944,19 @@
     },
     "on-bg-primary-inverse": {
       "neutral-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -14555,6 +15218,19 @@
         }
       },
       "neutral-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.neutral.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -14816,6 +15492,19 @@
         }
       },
       "positive-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -15077,6 +15766,19 @@
         }
       },
       "positive-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.positive.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -15338,6 +16040,19 @@
         }
       },
       "warning-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -15599,6 +16314,19 @@
         }
       },
       "warning-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.warning.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -15860,6 +16588,19 @@
         }
       },
       "negative-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -16121,6 +16862,19 @@
         }
       },
       "negative-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.negative.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -16382,6 +17136,19 @@
         }
       },
       "accent-2": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.2}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -16643,6 +17410,19 @@
         }
       },
       "accent-4": {
+        "default": {
+          "value": [
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "{border-width.4}",
+              "color": "{border.on-bg.accent.default.primary-inverse}",
+              "type": "dropShadow"
+            }
+          ],
+          "type": "boxShadow"
+        },
         "x-small": {
           "value": [
             {
@@ -16675,80 +17455,6 @@
               "blur": "0",
               "spread": "{border-width.4}",
               "color": "{border.on-bg.accent.default.primary-inverse}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "x-small-secondary": {
-          "value": [
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.1}",
-              "blur": "{shadow.blur.x-small.1}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.2}",
-              "blur": "{shadow.blur.x-small.2}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.3}",
-              "blur": "{shadow.blur.x-small.3}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "{border-width.4}",
-              "color": "{border.on-bg.accent.default.secondary-inverse}",
-              "type": "dropShadow"
-            }
-          ],
-          "type": "boxShadow"
-        },
-        "x-small-tertiary": {
-          "value": [
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.1}",
-              "blur": "{shadow.blur.x-small.1}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.1})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.2}",
-              "blur": "{shadow.blur.x-small.2}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.2})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "{shadow.axis.x-small.3}",
-              "blur": "{shadow.blur.x-small.3}",
-              "spread": "0",
-              "color": "rgba({shadow.color.on-bg-primary-inverse}, {shadow.opacity.on-bg-primary-inverse.3})",
-              "type": "dropShadow"
-            },
-            {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "{border-width.4}",
-              "color": "{border.on-bg.accent.default.tertiary-inverse}",
               "type": "dropShadow"
             }
           ],
