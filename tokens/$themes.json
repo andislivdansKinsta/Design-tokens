@@ -6,7 +6,6 @@
       "Base": "source",
       "Typography": "enabled",
       "Shadow": "enabled",
-      "Light theme": "disabled",
       "Dark theme": "enabled"
     },
     "$figmaStyleReferences": {
@@ -1037,8 +1036,7 @@
       "Base": "source",
       "Typography": "enabled",
       "Shadow": "enabled",
-      "Light theme": "enabled",
-      "Dark theme": "disabled"
+      "Light theme": "enabled"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
