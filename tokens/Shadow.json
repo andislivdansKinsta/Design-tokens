@@ -9467,7 +9467,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9504,7 +9504,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9541,7 +9541,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9578,7 +9578,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9615,7 +9615,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9652,7 +9652,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9689,7 +9689,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9726,7 +9726,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9741,7 +9741,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9778,7 +9778,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9815,7 +9815,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9852,7 +9852,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9889,7 +9889,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9926,7 +9926,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -9963,7 +9963,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -10000,7 +10000,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12209,7 +12209,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12246,7 +12246,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12283,7 +12283,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12320,7 +12320,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12357,7 +12357,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12394,7 +12394,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12431,7 +12431,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12468,7 +12468,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12483,7 +12483,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12520,7 +12520,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12557,7 +12557,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12594,7 +12594,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12631,7 +12631,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12668,7 +12668,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12705,7 +12705,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -12742,7 +12742,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -14951,7 +14951,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -14988,7 +14988,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15025,7 +15025,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15062,7 +15062,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15099,7 +15099,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15136,7 +15136,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15173,7 +15173,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15210,7 +15210,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.2}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15225,7 +15225,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15262,7 +15262,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15299,7 +15299,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15336,7 +15336,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15373,7 +15373,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15410,7 +15410,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15447,7 +15447,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
@@ -15484,7 +15484,7 @@
               "y": "0",
               "blur": "0",
               "spread": "{border-width.4}",
-              "color": "{border.on-bg.neutral.default.tertiary-inverse}",
+              "color": "{border.on-bg.neutral.default-inverse.primary-inverse}",
               "type": "dropShadow"
             }
           ],
