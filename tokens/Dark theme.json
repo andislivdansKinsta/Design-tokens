@@ -936,5 +936,149 @@
         }
       }
     }
+  },
+  "fg": {
+    "neutral": {
+      "primary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.600}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.500}",
+          "type": "color"
+        }
+      },
+      "quaternary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.600}",
+          "type": "color"
+        }
+      },
+      "quinary": {
+        "weak": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.700}",
+          "type": "color"
+        }
+      },
+      "primary-inverse": {
+        "strong": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "normal": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.300}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.500}",
+          "type": "color"
+        }
+      },
+      "secondary-inverse": {
+        "strong": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "tertiary-inverse": {
+        "strong": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.300}",
+          "type": "color"
+        }
+      },
+      "quaternary-inverse": {
+        "strong": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.100}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.200}",
+          "type": "color"
+        }
+      },
+      "quinary-inverse": {
+        "weak": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.50}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
