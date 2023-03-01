@@ -1467,61 +1467,7 @@
         "weakest": {
           "value": "{neutral.300}",
           "type": "color"
-        }
-      },
-      "secondary": {
-        "strong": {
-          "value": "{neutral.900}",
-          "type": "color"
         },
-        "weak": {
-          "value": "{neutral.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.400}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "strong": {
-          "value": "{neutral.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{neutral.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.400}",
-          "type": "color"
-        }
-      },
-      "quaternary": {
-        "strong": {
-          "value": "{neutral.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{neutral.600}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.500}",
-          "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{neutral.900}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
         "strong-inverse": {
           "value": "{neutral.0}",
           "type": "color"
@@ -1539,54 +1485,98 @@
           "type": "color"
         }
       },
-      "secondary-inverse": {
+      "secondary": {
         "strong": {
-          "value": "{neutral.0}",
+          "value": "{neutral.900}",
           "type": "color"
         },
         "weak": {
-          "value": "{neutral.200}",
+          "value": "{neutral.500}",
           "type": "color"
         },
         "weakest": {
           "value": "{neutral.400}",
           "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
+        },
+        "strong-inverse": {
           "value": "{neutral.0}",
           "type": "color"
         },
-        "weak": {
+        "weak-inverse": {
           "value": "{neutral.200}",
           "type": "color"
         },
+        "weakest-inverse": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "strong": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weak": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
         "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest-inverse": {
           "value": "{neutral.300}",
           "type": "color"
         }
       },
-      "quaternary-inverse": {
+      "quaternary": {
         "strong": {
-          "value": "{neutral.0}",
+          "value": "{neutral.900}",
           "type": "color"
         },
         "weak": {
-          "value": "{neutral.100}",
+          "value": "{neutral.600}",
           "type": "color"
         },
         "weakest": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.100}",
+          "type": "color"
+        },
+        "weakest-inverse": {
           "value": "{neutral.200}",
           "type": "color"
         }
       },
-      "quinary-inverse": {
+      "quinary": {
         "weak": {
-          "value": "{neutral.0}",
+          "value": "{neutral.900}",
           "type": "color"
         },
         "weakest": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "weakest-inverse": {
           "value": "{neutral.100}",
           "type": "color"
         }

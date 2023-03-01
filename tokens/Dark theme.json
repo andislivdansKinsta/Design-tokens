@@ -1467,6 +1467,22 @@
         "weakest": {
           "value": "{neutral.400}",
           "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "normal-inverse": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.300}",
+          "type": "color"
+        },
+        "weakest-inverse": {
+          "value": "{neutral.500}",
+          "type": "color"
         }
       },
       "secondary": {
@@ -1479,6 +1495,18 @@
           "type": "color"
         },
         "weakest": {
+          "value": "{neutral.400}",
+          "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest-inverse": {
           "value": "{neutral.400}",
           "type": "color"
         }
@@ -1495,6 +1523,18 @@
         "weakest": {
           "value": "{neutral.500}",
           "type": "color"
+        },
+        "strong-inverse": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "weak-inverse": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "weakest-inverse": {
+          "value": "{neutral.300}",
+          "type": "color"
         }
       },
       "quaternary": {
@@ -1509,653 +1549,35 @@
         "weakest": {
           "value": "{neutral.600}",
           "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{neutral.900}",
-          "type": "color"
         },
-        "weakest": {
-          "value": "{neutral.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
-        "strong": {
+        "strong-inverse": {
           "value": "{neutral.25}",
           "type": "color"
         },
-        "normal": {
-          "value": "{neutral.50}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{neutral.300}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.500}",
-          "type": "color"
-        }
-      },
-      "secondary-inverse": {
-        "strong": {
-          "value": "{neutral.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{neutral.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.400}",
-          "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
-          "value": "{neutral.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{neutral.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{neutral.300}",
-          "type": "color"
-        }
-      },
-      "quaternary-inverse": {
-        "strong": {
-          "value": "{neutral.25}",
-          "type": "color"
-        },
-        "weak": {
+        "weak-inverse": {
           "value": "{neutral.100}",
           "type": "color"
         },
-        "weakest": {
+        "weakest-inverse": {
           "value": "{neutral.200}",
           "type": "color"
         }
       },
-      "quinary-inverse": {
+      "quinary": {
         "weak": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "weakest": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "weak-inverse": {
           "value": "{neutral.25}",
           "type": "color"
         },
-        "weakest": {
+        "weakest-inverse": {
           "value": "{neutral.50}",
-          "type": "color"
-        }
-      }
-    },
-    "positive": {
-      "primary": {
-        "strong": {
-          "value": "{positive.900}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{positive.700}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.400}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "strong": {
-          "value": "{positive.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.400}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "strong": {
-          "value": "{positive.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.600}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.500}",
-          "type": "color"
-        }
-      },
-      "quaternary": {
-        "strong": {
-          "value": "{positive.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.700}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.600}",
-          "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{positive.900}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
-        "strong": {
-          "value": "{positive.25}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{positive.50}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.300}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.500}",
-          "type": "color"
-        }
-      },
-      "secondary-inverse": {
-        "strong": {
-          "value": "{positive.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.400}",
-          "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
-          "value": "{positive.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.300}",
-          "type": "color"
-        }
-      },
-      "quaternary-inverse": {
-        "strong": {
-          "value": "{positive.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{positive.100}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.200}",
-          "type": "color"
-        }
-      },
-      "quinary-inverse": {
-        "weak": {
-          "value": "{positive.25}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{positive.50}",
-          "type": "color"
-        }
-      }
-    },
-    "warning": {
-      "primary": {
-        "strong": {
-          "value": "{warning.900}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{warning.700}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.400}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "strong": {
-          "value": "{warning.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.400}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "strong": {
-          "value": "{warning.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.600}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.500}",
-          "type": "color"
-        }
-      },
-      "quaternary": {
-        "strong": {
-          "value": "{warning.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.700}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.600}",
-          "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{warning.900}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
-        "strong": {
-          "value": "{warning.25}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{warning.50}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.300}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.500}",
-          "type": "color"
-        }
-      },
-      "secondary-inverse": {
-        "strong": {
-          "value": "{warning.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.400}",
-          "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
-          "value": "{warning.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.300}",
-          "type": "color"
-        }
-      },
-      "quaternary-inverse": {
-        "strong": {
-          "value": "{warning.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{warning.100}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.200}",
-          "type": "color"
-        }
-      },
-      "quinary-inverse": {
-        "weak": {
-          "value": "{warning.25}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{warning.50}",
-          "type": "color"
-        }
-      }
-    },
-    "negative": {
-      "primary": {
-        "strong": {
-          "value": "{negative.900}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{negative.700}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.400}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "strong": {
-          "value": "{negative.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.400}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "strong": {
-          "value": "{negative.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.600}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.500}",
-          "type": "color"
-        }
-      },
-      "quaternary": {
-        "strong": {
-          "value": "{negative.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.700}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.600}",
-          "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{negative.900}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
-        "strong": {
-          "value": "{negative.25}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{negative.50}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.300}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.500}",
-          "type": "color"
-        }
-      },
-      "secondary-inverse": {
-        "strong": {
-          "value": "{negative.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.400}",
-          "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
-          "value": "{negative.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.300}",
-          "type": "color"
-        }
-      },
-      "quaternary-inverse": {
-        "strong": {
-          "value": "{negative.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{negative.100}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.200}",
-          "type": "color"
-        }
-      },
-      "quinary-inverse": {
-        "weak": {
-          "value": "{negative.25}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{negative.50}",
-          "type": "color"
-        }
-      }
-    },
-    "accent": {
-      "primary": {
-        "strong": {
-          "value": "{accent.900}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{accent.700}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.400}",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "strong": {
-          "value": "{accent.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.500}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.400}",
-          "type": "color"
-        }
-      },
-      "tertiary": {
-        "strong": {
-          "value": "{accent.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.600}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.500}",
-          "type": "color"
-        }
-      },
-      "quaternary": {
-        "strong": {
-          "value": "{accent.900}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.700}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.600}",
-          "type": "color"
-        }
-      },
-      "quinary": {
-        "weak": {
-          "value": "{accent.900}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.700}",
-          "type": "color"
-        }
-      },
-      "primary-inverse": {
-        "strong": {
-          "value": "{accent.25}",
-          "type": "color"
-        },
-        "normal": {
-          "value": "{accent.50}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.300}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.500}",
-          "type": "color"
-        }
-      },
-      "secondary-inverse": {
-        "strong": {
-          "value": "{accent.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.400}",
-          "type": "color"
-        }
-      },
-      "tertiary-inverse": {
-        "strong": {
-          "value": "{accent.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.200}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.300}",
-          "type": "color"
-        }
-      },
-      "quaternary-inverse": {
-        "strong": {
-          "value": "{accent.25}",
-          "type": "color"
-        },
-        "weak": {
-          "value": "{accent.100}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.200}",
-          "type": "color"
-        }
-      },
-      "quinary-inverse": {
-        "weak": {
-          "value": "{accent.25}",
-          "type": "color"
-        },
-        "weakest": {
-          "value": "{accent.50}",
           "type": "color"
         }
       }
