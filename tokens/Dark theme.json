@@ -806,5 +806,135 @@
         "type": "other"
       }
     }
+  },
+  "bg": {
+    "neutral": {
+      "default": {
+        "primary": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{neutral.100}",
+          "type": "color"
+        },
+        "quaternary": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "quinary": {
+          "value": "{neutral.300}",
+          "type": "color"
+        },
+        "primary-inverse": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "secondary-inverse": {
+          "value": "{neutral.800}",
+          "type": "color"
+        },
+        "tertiary-inverse": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "quaternary-inverse": {
+          "value": "{neutral.600}",
+          "type": "color"
+        },
+        "quinary-inverse": {
+          "value": "{neutral.500}",
+          "type": "color"
+        }
+      },
+      "hovered": {
+        "primary": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{neutral.100}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "quaternary": {
+          "value": "{neutral.300}",
+          "type": "color"
+        },
+        "quinary": {
+          "value": "{neutral.400}",
+          "type": "color"
+        },
+        "primary-inverse": {
+          "value": "{neutral.1000}",
+          "type": "color"
+        },
+        "secondary-inverse": {
+          "value": "{neutral.900}",
+          "type": "color"
+        },
+        "tertiary-inverse": {
+          "value": "{neutral.800}",
+          "type": "color"
+        },
+        "quaternary-inverse": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "quinary-inverse": {
+          "value": "{neutral.600}",
+          "type": "color"
+        }
+      },
+      "pressed": {
+        "primary": {
+          "value": "{neutral.0}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{neutral.25}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{neutral.50}",
+          "type": "color"
+        },
+        "quaternary": {
+          "value": "{neutral.100}",
+          "type": "color"
+        },
+        "quinary": {
+          "value": "{neutral.200}",
+          "type": "color"
+        },
+        "primary-inverse": {
+          "value": "{neutral.800}",
+          "type": "color"
+        },
+        "secondary-inverse": {
+          "value": "{neutral.700}",
+          "type": "color"
+        },
+        "tertiary-inverse": {
+          "value": "{neutral.600}",
+          "type": "color"
+        },
+        "quaternary-inverse": {
+          "value": "{neutral.500}",
+          "type": "color"
+        },
+        "quinary-inverse": {
+          "value": "{neutral.400}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
