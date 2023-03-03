@@ -8209,6 +8209,10 @@
           "type": "other"
         }
       }
+    },
+    "spread": {
+      "value": "{border-width.4}",
+      "type": "other"
     }
   }
 }
