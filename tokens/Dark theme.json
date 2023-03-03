@@ -567,7 +567,7 @@
       },
       "on-bg-secondary": {
         "1": {
-          "value": "1",
+          "value": "0.33",
           "type": "other"
         },
         "2": {
@@ -581,7 +581,7 @@
       },
       "on-bg-tertiary": {
         "1": {
-          "value": "0.4",
+          "value": "0.21",
           "type": "other"
         },
         "2": {
@@ -593,9 +593,9 @@
           "type": "other"
         }
       },
-      "on-bg-tertiary-inverse": {
+      "on-bg-quaternary": {
         "1": {
-          "value": "0.23",
+          "value": "0.20",
           "type": "other"
         },
         "2": {
@@ -607,9 +607,9 @@
           "type": "other"
         }
       },
-      "on-bg-secondary-inverse": {
+      "on-bg-quinary": {
         "1": {
-          "value": "0.24",
+          "value": "0.19",
           "type": "other"
         },
         "2": {
@@ -623,7 +623,7 @@
       },
       "on-bg-primary-inverse": {
         "1": {
-          "value": "0.22",
+          "value": "0.24",
           "type": "other"
         },
         "2": {
@@ -635,35 +635,7 @@
           "type": "other"
         }
       },
-      "on-sfc-primary": {
-        "1": {
-          "value": "0.4",
-          "type": "other"
-        },
-        "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
-          "type": "other"
-        },
-        "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
-          "type": "other"
-        }
-      },
-      "on-sfc-secondary": {
-        "1": {
-          "value": "0.25",
-          "type": "other"
-        },
-        "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
-          "type": "other"
-        },
-        "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
-          "type": "other"
-        }
-      },
-      "on-sfc-tertiary": {
+      "on-bg-secondary-inverse": {
         "1": {
           "value": "0.23",
           "type": "other"
@@ -677,7 +649,21 @@
           "type": "other"
         }
       },
-      "on-sfc-tertiary-inverse": {
+      "on-bg-tertiary-inverse": {
+        "1": {
+          "value": "0.22",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-quaternary-inverse": {
         "1": {
           "value": "0.21",
           "type": "other"
@@ -691,51 +677,9 @@
           "type": "other"
         }
       },
-      "on-sfc-secondary-inverse": {
+      "on-bg-quinary-inverse": {
         "1": {
-          "value": "0.22",
-          "type": "other"
-        },
-        "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
-          "type": "other"
-        },
-        "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
-          "type": "other"
-        }
-      },
-      "on-sfc-primary-inverse": {
-        "1": {
-          "value": "0.23",
-          "type": "other"
-        },
-        "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
-          "type": "other"
-        },
-        "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
-          "type": "other"
-        }
-      },
-      "on-sfc-alt": {
-        "1": {
-          "value": "0.22",
-          "type": "other"
-        },
-        "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
-          "type": "other"
-        },
-        "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
-          "type": "other"
-        }
-      },
-      "on-sfc-alt-inverse": {
-        "1": {
-          "value": "1",
+          "value": "0.20",
           "type": "other"
         },
         "2": {
@@ -758,35 +702,35 @@
         "type": "other"
       },
       "on-bg-tertiary": {
-        "value": "{neutral.0}",
+        "value": "{neutral.25}",
         "type": "other"
       },
-      "on-bg-tertiary-inverse": {
-        "value": "{neutral.300}",
+      "on-bg-quaternary": {
+        "value": "{neutral.50}",
         "type": "other"
       },
-      "on-bg-secondary-inverse": {
-        "value": "{neutral.400}",
+      "on-bg-quinary": {
+        "value": "{neutral.50}",
         "type": "other"
       },
       "on-bg-primary-inverse": {
         "value": "{neutral.400}",
         "type": "other"
       },
-      "on-bg-quaternary": {
-        "value": "{neutral.0}",
+      "on-bg-secondary-inverse": {
+        "value": "{neutral.300}",
         "type": "other"
       },
-      "on-sfc-tertiary": {
-        "value": "{neutral.25}",
+      "on-bg-tertiary-inverse": {
+        "value": "{neutral.200}",
         "type": "other"
       },
-      "on-sfc-tertiary-inverse": {
+      "on-bg-quaternary-inverse": {
         "value": "{neutral.100}",
         "type": "other"
       },
-      "on-sfc-secondary-inverse": {
-        "value": "{neutral.200}",
+      "on-bg-quinary-inverse": {
+        "value": "{neutral.50}",
         "type": "other"
       }
     }
