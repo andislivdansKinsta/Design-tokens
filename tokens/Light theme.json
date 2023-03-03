@@ -761,48 +761,32 @@
         "value": "{neutral.500}",
         "type": "other"
       },
-      "on-bg-tertiary-inverse": {
-        "value": "{neutral.900}",
+      "on-bg-quaternary": {
+        "value": "{neutral.600}",
         "type": "other"
       },
-      "on-bg-secondary-inverse": {
-        "value": "{neutral.1000}",
+      "on-bg-quinary": {
+        "value": "{neutral.700}",
         "type": "other"
       },
       "on-bg-primary-inverse": {
         "value": "{neutral.1000}",
         "type": "other"
       },
-      "on-sfc-primary": {
-        "value": "{neutral.500}",
-        "type": "other"
-      },
-      "on-sfc-secondary": {
-        "value": "{neutral.600}",
-        "type": "other"
-      },
-      "on-sfc-tertiary": {
-        "value": "{neutral.700}",
-        "type": "other"
-      },
-      "on-sfc-tertiary-inverse": {
-        "value": "{neutral.700}",
-        "type": "other"
-      },
-      "on-sfc-secondary-inverse": {
-        "value": "{neutral.800}",
-        "type": "other"
-      },
-      "on-sfc-primary-inverse": {
-        "value": "{neutral.900}",
-        "type": "other"
-      },
-      "on-sfc-alt": {
+      "on-bg-secondary-inverse": {
         "value": "{neutral.1000}",
         "type": "other"
       },
-      "on-sfc-alt-alt": {
-        "value": "{neutral.500}",
+      "on-bg-tertiary-inverse": {
+        "value": "{neutral.900}",
+        "type": "other"
+      },
+      "on-bg-quaternary-inverse": {
+        "value": "{neutral.800}",
+        "type": "other"
+      },
+      "on-bg-quinary-inverse": {
+        "value": "{neutral.800}",
         "type": "other"
       }
     }

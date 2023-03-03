@@ -773,11 +773,7 @@
         "value": "{neutral.400}",
         "type": "other"
       },
-      "on-sfc-primary": {
-        "value": "{neutral.0}",
-        "type": "other"
-      },
-      "on-sfc-secondary": {
+      "on-bg-quaternary": {
         "value": "{neutral.0}",
         "type": "other"
       },
@@ -791,18 +787,6 @@
       },
       "on-sfc-secondary-inverse": {
         "value": "{neutral.200}",
-        "type": "other"
-      },
-      "on-sfc-primary-inverse": {
-        "value": "{neutral.300}",
-        "type": "other"
-      },
-      "on-sfc-alt": {
-        "value": "{neutral.400}",
-        "type": "other"
-      },
-      "on-sfc-alt-alt": {
-        "value": "{neutral.0}",
         "type": "other"
       }
     }
