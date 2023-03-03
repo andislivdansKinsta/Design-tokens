@@ -733,6 +733,218 @@
         "value": "{neutral.800}",
         "type": "other"
       }
+    },
+    "focused-color": {
+      "neutral": {
+        "primary": {
+          "value": "{border.neutral.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.neutral.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.neutral.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.neutral.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.neutral.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.neutral.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.neutral.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.neutral.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.neutral.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.neutral.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "positive": {
+        "primary": {
+          "value": "{border.positive.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.positive.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.positive.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.positive.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.positive.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.positive.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.positive.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.positive.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.positive.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.positive.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "warning": {
+        "primary": {
+          "value": "{border.warning.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.warning.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.warning.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.warning.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.warning.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.warning.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.warning.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.warning.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.warning.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.warning.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "negative": {
+        "primary": {
+          "value": "{border.negative.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.negative.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.negative.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.negative.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.negative.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.negative.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.negative.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.negative.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.negative.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.negative.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "accent": {
+        "primary": {
+          "value": "{border.accent.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.accent.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.accent.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.accent.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.accent.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.accent.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.accent.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.accent.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.accent.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.accent.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      }
     }
   },
   "bg": {
