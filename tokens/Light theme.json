@@ -4024,7 +4024,7 @@
             "type": "color"
           },
           "normal-inverse": {
-            "value": "{neutral.700}",
+            "value": "{warning.700}",
             "type": "color"
           },
           "strong-inverse": {
