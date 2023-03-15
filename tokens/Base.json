@@ -8019,5 +8019,259 @@
       "value": "{font-size.15x-large}/{font-size.regular}",
       "type": "fontSizes"
     }
+  },
+  "line-height-rem": {
+    "xx-small-tight": {
+      "value": "{line-height.xx-small-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "xx-small-normal": {
+      "value": "{line-height.xx-small-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "xx-small-loose": {
+      "value": "{line-height.xx-small-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-small-tight": {
+      "value": "{line-height.x-small-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-small-normal": {
+      "value": "{line-height.x-small-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-small-loose": {
+      "value": "{line-height.x-small-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "small-tight": {
+      "value": "{line-height.small-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "small-normal": {
+      "value": "{line-height.small-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "small-loose": {
+      "value": "{line-height.small-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "regular-tight": {
+      "value": "{line-height.regular-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "regular-normal": {
+      "value": "{line-height.regular-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "regular-loose": {
+      "value": "{line-height.regular-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "medium-tight": {
+      "value": "{line-height.medium-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "medium-normal": {
+      "value": "{line-height.medium-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "medium-loose": {
+      "value": "{line-height.medium-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "large-tight": {
+      "value": "{line-height.large-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "large-normal": {
+      "value": "{line-height.large-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "large-loose": {
+      "value": "{line-height.large-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-large-tight": {
+      "value": "{line-height.x-large-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-large-normal": {
+      "value": "{line-height.x-large-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "x-large-loose": {
+      "value": "{line-height.x-large-loose}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "xx-large-tight": {
+      "value": "{line-height.xx-large-tight}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "xx-large-normal": {
+      "value": "{line-height.xx-large-normal}/{font-size.regular}",
+      "type": "lineHeights"
+    },
+    "xx-large-loose": {
+      "value": "roundTo({font-size.xx-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "3x-large-tight": {
+      "value": "roundTo({font-size.3x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "3x-large-normal": {
+      "value": "roundTo({font-size.3x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "3x-large-loose": {
+      "value": "roundTo({font-size.3x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "4x-large-tight": {
+      "value": "roundTo({font-size.4x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "4x-large-normal": {
+      "value": "roundTo({font-size.4x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "4x-large-loose": {
+      "value": "roundTo({font-size.4x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "5x-large-tight": {
+      "value": "roundTo({font-size.5x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "5x-large-normal": {
+      "value": "roundTo({font-size.5x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "5x-large-loose": {
+      "value": "roundTo({font-size.5x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "6x-large-tight": {
+      "value": "roundTo({font-size.6x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "6x-large-normal": {
+      "value": "roundTo({font-size.6x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "6x-large-loose": {
+      "value": "roundTo({font-size.6x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "7x-large-tight": {
+      "value": "roundTo({font-size.7x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "7x-large-normal": {
+      "value": "roundTo({font-size.7x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "7x-large-loose": {
+      "value": "roundTo({font-size.7x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "8x-large-tight": {
+      "value": "roundTo({font-size.8x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "8x-large-normal": {
+      "value": "roundTo({font-size.8x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "8x-large-loose": {
+      "value": "roundTo({font-size.8x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "9x-large-tight": {
+      "value": "roundTo({font-size.9x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "9x-large-normal": {
+      "value": "roundTo({font-size.9x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "9x-large-loose": {
+      "value": "roundTo({font-size.9x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "10x-large-tight": {
+      "value": "roundTo({font-size.10x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "10x-large-normal": {
+      "value": "roundTo({font-size.10x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "10x-large-loose": {
+      "value": "roundTo({font-size.10x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "11x-large-tight": {
+      "value": "roundTo({font-size.11x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "11x-large-normal": {
+      "value": "roundTo({font-size.11x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "11x-large-loose": {
+      "value": "roundTo({font-size.11x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "12x-large-tight": {
+      "value": "roundTo({font-size.12x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "12x-large-normal": {
+      "value": "roundTo({font-size.12x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "12x-large-loose": {
+      "value": "roundTo({font-size.12x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "13x-large-tight": {
+      "value": "roundTo({font-size.13x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "13x-large-normal": {
+      "value": "roundTo({font-size.13x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "13x-large-loose": {
+      "value": "roundTo({font-size.13x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "14x-large-tight": {
+      "value": "roundTo({font-size.14x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "14x-large-normal": {
+      "value": "roundTo({font-size.14x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "14x-large-loose": {
+      "value": "roundTo({font-size.14x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "15x-large-tight": {
+      "value": "roundTo({font-size.15x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "15x-large-normal": {
+      "value": "roundTo({font-size.15x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "type": "lineHeights"
+    },
+    "15x-large-loose": {
+      "value": "roundTo({font-size.15x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "type": "lineHeights"
+    }
   }
 }
