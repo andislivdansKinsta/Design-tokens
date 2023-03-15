@@ -7491,17 +7491,17 @@
   },
   "letter-spacing": {
     "a": {
-      "value": "-0.0223",
+      "value": "-0.048",
       "type": "letterSpacing",
       "description": "Default -0.0223"
     },
     "b": {
-      "value": "0.585",
+      "value": "0.38",
       "type": "letterSpacing",
       "description": "Default 0.185"
     },
     "c": {
-      "value": "-0.325",
+      "value": "-0.16",
       "type": "letterSpacing",
       "description": "Default -0.1745"
     },
