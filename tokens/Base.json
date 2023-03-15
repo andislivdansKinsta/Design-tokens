@@ -7513,6 +7513,10 @@
       "type": "letterSpacing",
       "description": "Default -0.1745"
     },
+    "e": {
+      "value": "2.71828",
+      "type": "letterSpacing"
+    },
     "xx-small": {
       "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.xx-small} * {letter-spacing.c}))",
       "type": "letterSpacing"
