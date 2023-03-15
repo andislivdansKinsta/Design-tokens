@@ -7117,6 +7117,14 @@
     "secondary": {
       "value": "Inter",
       "type": "fontFamilies"
+    },
+    "tertiary": {
+      "value": "none",
+      "type": "fontFamilies"
+    },
+    "quaternary": {
+      "value": "none",
+      "type": "fontFamilies"
     }
   },
   "font-weight": {
@@ -7491,17 +7499,17 @@
   },
   "letter-spacing": {
     "a": {
-      "value": "-0.048",
+      "value": "-0.0223",
       "type": "letterSpacing",
       "description": "Default -0.0223"
     },
     "b": {
-      "value": "0.38",
+      "value": "0.185",
       "type": "letterSpacing",
       "description": "Default 0.185"
     },
     "c": {
-      "value": "-0.16",
+      "value": "-0.1745",
       "type": "letterSpacing",
       "description": "Default -0.1745"
     },
