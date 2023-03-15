@@ -8110,167 +8110,167 @@
       "type": "lineHeights"
     },
     "xx-large-normal": {
-      "value": "roundTo({font-size.xx-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.xx-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "xx-large-loose": {
-      "value": "roundTo({font-size.xx-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.xx-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "3x-large-tight": {
-      "value": "roundTo({font-size.3x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.3x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "3x-large-normal": {
-      "value": "roundTo({font-size.3x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.3x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "3x-large-loose": {
-      "value": "roundTo({font-size.3x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.3x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "4x-large-tight": {
-      "value": "roundTo({font-size.4x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.4x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "4x-large-normal": {
-      "value": "roundTo({font-size.4x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.4x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "4x-large-loose": {
-      "value": "roundTo({font-size.4x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.4x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "5x-large-tight": {
-      "value": "roundTo({font-size.5x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.5x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "5x-large-normal": {
-      "value": "roundTo({font-size.5x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.5x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "5x-large-loose": {
-      "value": "roundTo({font-size.5x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.5x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "6x-large-tight": {
-      "value": "roundTo({font-size.6x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.6x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "6x-large-normal": {
-      "value": "roundTo({font-size.6x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.6x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "6x-large-loose": {
-      "value": "roundTo({font-size.6x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.6x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "7x-large-tight": {
-      "value": "roundTo({font-size.7x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.7x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "7x-large-normal": {
-      "value": "roundTo({font-size.7x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.7x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "7x-large-loose": {
-      "value": "roundTo({font-size.7x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.7x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "8x-large-tight": {
-      "value": "roundTo({font-size.8x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.8x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "8x-large-normal": {
-      "value": "roundTo({font-size.8x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.8x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "8x-large-loose": {
-      "value": "roundTo({font-size.8x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.8x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "9x-large-tight": {
-      "value": "roundTo({font-size.9x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.9x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "9x-large-normal": {
-      "value": "roundTo({font-size.9x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.9x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "9x-large-loose": {
-      "value": "roundTo({font-size.9x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.9x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "10x-large-tight": {
-      "value": "roundTo({font-size.10x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.10x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "10x-large-normal": {
-      "value": "roundTo({font-size.10x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.10x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "10x-large-loose": {
-      "value": "roundTo({font-size.10x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.10x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "11x-large-tight": {
-      "value": "roundTo({font-size.11x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.11x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "11x-large-normal": {
-      "value": "roundTo({font-size.11x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.11x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "11x-large-loose": {
-      "value": "roundTo({font-size.11x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.11x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "12x-large-tight": {
-      "value": "roundTo({font-size.12x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.12x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "12x-large-normal": {
-      "value": "roundTo({font-size.12x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.12x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "12x-large-loose": {
-      "value": "roundTo({font-size.12x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.12x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "13x-large-tight": {
-      "value": "roundTo({font-size.13x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.13x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "13x-large-normal": {
-      "value": "roundTo({font-size.13x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.13x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "13x-large-loose": {
-      "value": "roundTo({font-size.13x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.13x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "14x-large-tight": {
-      "value": "roundTo({font-size.14x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.14x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "14x-large-normal": {
-      "value": "roundTo({font-size.14x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.14x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "14x-large-loose": {
-      "value": "roundTo({font-size.14x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.14x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     },
     "15x-large-tight": {
-      "value": "roundTo({font-size.15x-large} * {line-height.scale-tight} / 4,0) * 4",
+      "value": "{line-height.15x-large-tight}/{font-size.regular}",
       "type": "lineHeights"
     },
     "15x-large-normal": {
-      "value": "roundTo({font-size.15x-large} * {line-height.scale-normal} / 4,0) * 4",
+      "value": "{line-height.15x-large-normal}/{font-size.regular}",
       "type": "lineHeights"
     },
     "15x-large-loose": {
-      "value": "roundTo({font-size.15x-large} * {line-height.scale-loose} / 4,0) * 4",
+      "value": "{line-height.15x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
     }
   }
