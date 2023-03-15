@@ -7492,15 +7492,18 @@
   "letter-spacing": {
     "a": {
       "value": "-0.0223",
-      "type": "letterSpacing"
+      "type": "letterSpacing",
+      "description": "Default -0.0223"
     },
     "b": {
-      "value": "0.185",
-      "type": "letterSpacing"
+      "value": "0.585",
+      "type": "letterSpacing",
+      "description": "Default 0.185"
     },
     "c": {
-      "value": "-0.1745",
-      "type": "letterSpacing"
+      "value": "-0.325",
+      "type": "letterSpacing",
+      "description": "Default -0.1745"
     },
     "xx-small": {
       "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.xx-small} * {letter-spacing.c}))",
