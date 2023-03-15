@@ -7933,5 +7933,91 @@
       "value": "{border-width.4}",
       "type": "other"
     }
+  },
+  "font-size-rem": {
+    "xx-small": {
+      "value": "{font-size.xx-small}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "x-small": {
+      "value": "{font-size.x-small}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "small": {
+      "value": "{font-size.small}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "regular": {
+      "value": "{font-size.regular}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "medium": {
+      "value": "{font-size.medium}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "large": {
+      "value": "{font-size.large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "x-large": {
+      "value": "{font-size.x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "xx-large": {
+      "value": "{font-size.xx-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "3x-large": {
+      "value": "{font-size.3x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "4x-large": {
+      "value": "{font-size.4x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "5x-large": {
+      "value": "{font-size.5x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "6x-large": {
+      "value": "{font-size.6x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "7x-large": {
+      "value": "{font-size.7x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "8x-large": {
+      "value": "{font-size.8x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "9x-large": {
+      "value": "{font-size.9x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "10x-large": {
+      "value": "{font-size.10x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "11x-large": {
+      "value": "{font-size.11x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "12x-large": {
+      "value": "{font-size.12x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "13x-large": {
+      "value": "{font-size.13x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "14x-large": {
+      "value": "{font-size.14x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    },
+    "15x-large": {
+      "value": "{font-size.15x-large}/{font-size.regular}",
+      "type": "fontSizes"
+    }
   }
 }
