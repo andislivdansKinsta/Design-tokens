@@ -8110,7 +8110,7 @@
       "type": "lineHeights"
     },
     "xx-large-normal": {
-      "value": "{line-height.xx-large-normal}/{font-size.regular}",
+      "value": "roundTo({font-size.xx-large} * {line-height.scale-normal} / 4,0) * 4",
       "type": "lineHeights"
     },
     "xx-large-loose": {
