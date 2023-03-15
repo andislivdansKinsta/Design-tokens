@@ -7499,17 +7499,17 @@
   },
   "letter-spacing": {
     "a": {
-      "value": "-4.8",
+      "value": "-0.0223",
       "type": "letterSpacing",
       "description": "Default -0.0223"
     },
     "b": {
-      "value": "5.897",
+      "value": "0.185",
       "type": "letterSpacing",
       "description": "Default 0.185"
     },
     "c": {
-      "value": "-0.02",
+      "value": "-0.1745",
       "type": "letterSpacing",
       "description": "Default -0.1745"
     },
