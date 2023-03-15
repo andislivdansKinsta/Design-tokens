@@ -7499,23 +7499,19 @@
   },
   "letter-spacing": {
     "a": {
-      "value": "-0.0223",
+      "value": "-4.8",
       "type": "letterSpacing",
       "description": "Default -0.0223"
     },
     "b": {
-      "value": "0.185",
+      "value": "5.897",
       "type": "letterSpacing",
       "description": "Default 0.185"
     },
     "c": {
-      "value": "-0.1745",
+      "value": "-0.02",
       "type": "letterSpacing",
       "description": "Default -0.1745"
-    },
-    "e": {
-      "value": "2.71828",
-      "type": "letterSpacing"
     },
     "xx-small": {
       "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.xx-small} * {letter-spacing.c}))",
