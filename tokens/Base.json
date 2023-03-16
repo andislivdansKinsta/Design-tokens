@@ -7919,7 +7919,7 @@
       "type": "other"
     }
   },
-  "font-size-rem": {
+  "font-size-relative": {
     "xx-small": {
       "value": "{font-size.xx-small}/{font-size.regular}",
       "type": "fontSizes"
@@ -8005,7 +8005,7 @@
       "type": "fontSizes"
     }
   },
-  "line-height-rem": {
+  "line-height-relative": {
     "xx-small-tight": {
       "value": "{line-height.xx-small-tight}/{font-size.regular}",
       "type": "lineHeights"
@@ -8257,6 +8257,92 @@
     "15x-large-loose": {
       "value": "{line-height.15x-large-loose}/{font-size.regular}",
       "type": "lineHeights"
+    }
+  },
+  "letter-spacing-relative": {
+    "xx-small": {
+      "value": "{letter-spacing.xx-small}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "x-small": {
+      "value": "{letter-spacing.x-small}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "small": {
+      "value": "{letter-spacing.small}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "regular": {
+      "value": "{letter-spacing.regular}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "medium": {
+      "value": "{letter-spacing.medium}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "large": {
+      "value": "{letter-spacing.large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "x-large": {
+      "value": "{letter-spacing.x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "xx-large": {
+      "value": "{letter-spacing.xx-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "3x-large": {
+      "value": "{letter-spacing.3x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "4x-large": {
+      "value": "{letter-spacing.4x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "5x-large": {
+      "value": "{letter-spacing.5x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "6x-large": {
+      "value": "{letter-spacing.6x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "7x-large": {
+      "value": "{letter-spacing.7x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "8x-large": {
+      "value": "{letter-spacing.8x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "9x-large": {
+      "value": "{letter-spacing.9x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "10x-large": {
+      "value": "{letter-spacing.10x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "11x-large": {
+      "value": "{letter-spacing.11x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "12x-large": {
+      "value": "{letter-spacing.12x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "13x-large": {
+      "value": "{letter-spacing.13x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "14x-large": {
+      "value": "{letter-spacing.14x-large}/{font-size.regular}",
+      "type": "letterSpacing"
+    },
+    "15x-large": {
+      "value": "{letter-spacing.15x-large}/{font-size.regular}",
+      "type": "letterSpacing"
     }
   }
 }
