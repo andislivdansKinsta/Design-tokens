@@ -7128,17 +7128,20 @@
     }
   },
   "font-weight": {
-    "regular": {
+    "400": {
       "value": "Regular",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "400"
     },
-    "medium": {
+    "500": {
       "value": "Medium",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "500"
     },
-    "bold": {
+    "700": {
       "value": "Bold",
-      "type": "fontWeights"
+      "type": "fontWeights",
+      "description": "700"
     }
   },
   "line-height": {
