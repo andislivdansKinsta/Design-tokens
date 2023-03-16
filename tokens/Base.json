@@ -8344,5 +8344,91 @@
       "value": "{letter-spacing.15x-large}/{font-size.regular}",
       "type": "letterSpacing"
     }
+  },
+  "paragraph-spacing-relative": {
+    "xx-small": {
+      "value": "{paragraph-spacing.xx-small}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "x-small": {
+      "value": "{paragraph-spacing.x-small}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "small": {
+      "value": "{paragraph-spacing.small}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "regular": {
+      "value": "{paragraph-spacing.regular}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "medium": {
+      "value": "{paragraph-spacing.medium}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "large": {
+      "value": "{paragraph-spacing.large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "x-large": {
+      "value": "{paragraph-spacing.x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "xx-large": {
+      "value": "{paragraph-spacing.xx-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "3x-large": {
+      "value": "{paragraph-spacing.3x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "4x-large": {
+      "value": "{paragraph-spacing.4x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "5x-large": {
+      "value": "{paragraph-spacing.5x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "6x-large": {
+      "value": "{paragraph-spacing.6x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "7x-large": {
+      "value": "{paragraph-spacing.7x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "8x-large": {
+      "value": "{paragraph-spacing.8x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "9x-large": {
+      "value": "{paragraph-spacing.9x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "10x-large": {
+      "value": "{paragraph-spacing.10x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "11x-large": {
+      "value": "{paragraph-spacing.11x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "12x-large": {
+      "value": "{paragraph-spacing.12x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "13x-large": {
+      "value": "{paragraph-spacing.13x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "14x-large": {
+      "value": "{paragraph-spacing.14x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    },
+    "15x-large": {
+      "value": "{paragraph-spacing.15x-large}/{font-size.regular}",
+      "type": "paragraphSpacing"
+    }
   }
 }
