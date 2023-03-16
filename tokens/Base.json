@@ -7498,103 +7498,88 @@
     }
   },
   "letter-spacing": {
-    "a": {
-      "value": "-0.0223",
-      "type": "letterSpacing",
-      "description": "Default -0.0223"
-    },
-    "b": {
-      "value": "0.185",
-      "type": "letterSpacing",
-      "description": "Default 0.185"
-    },
-    "c": {
-      "value": "-0.1745",
-      "type": "letterSpacing",
-      "description": "Default -0.1745"
-    },
     "xx-small": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.xx-small} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.xx-small}-16)-0.1",
       "type": "letterSpacing"
     },
     "x-small": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.x-small} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.x-small}-16)-0.1",
       "type": "letterSpacing"
     },
     "small": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.small} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.small}-16)-0.1",
       "type": "letterSpacing"
     },
     "regular": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.regular} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.regular}-16)-0.1",
       "type": "letterSpacing"
     },
     "medium": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.medium} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.medium}-16)-0.1",
       "type": "letterSpacing"
     },
     "large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.large}-16)-0.1",
       "type": "letterSpacing"
     },
     "x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "xx-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.xx-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.xx-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "3x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.3x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.3x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "4x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.4x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.4x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "5x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.5x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.5x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "6x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.6x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.6x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "7x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.7x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.7x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "8x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.8x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.8x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "9x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.9x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.9x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "10x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.10x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.10x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "11x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.11x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.11x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "12x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.12x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.12x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "13x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.13x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.13x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "14x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.14x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.14x-large}-16)-0.1",
       "type": "letterSpacing"
     },
     "15x-large": {
-      "value": "{letter-spacing.a} + {letter-spacing.b} * (2.71828 ^ ({font-size.15x-large} * {letter-spacing.c}))",
+      "value": "-0.045*({font-size.15x-large}-16)-0.1",
       "type": "letterSpacing"
     }
   },
