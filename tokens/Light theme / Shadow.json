@@ -1,0 +1,404 @@
+{
+  "shadow": {
+    "opacity": {
+      "scale": {
+        "value": "1.125",
+        "type": "other"
+      },
+      "on-bg-primary": {
+        "1": {
+          "value": "0.2",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-secondary": {
+        "1": {
+          "value": "0.21",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-secondary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-secondary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-tertiary": {
+        "1": {
+          "value": "0.22",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-tertiary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-tertiary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-quaternary": {
+        "1": {
+          "value": "0.22",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-quaternary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-quaternary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-quinary": {
+        "1": {
+          "value": "0.28",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-quinary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-quinary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-primary-inverse": {
+        "1": {
+          "value": "1",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-primary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-primary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-secondary-inverse": {
+        "1": {
+          "value": "0.22",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-secondary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-secondary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-tertiary-inverse": {
+        "1": {
+          "value": "0.19",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-tertiary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-tertiary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-quaternary-inverse": {
+        "1": {
+          "value": "0.21",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-quaternary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-quaternary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      },
+      "on-bg-quinary-inverse": {
+        "1": {
+          "value": "0.21",
+          "type": "other"
+        },
+        "2": {
+          "value": "roundTo({shadow.opacity.on-bg-quinary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "type": "other"
+        },
+        "3": {
+          "value": "roundTo({shadow.opacity.on-bg-quinary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "type": "other"
+        }
+      }
+    },
+    "color": {
+      "on-bg-primary": {
+        "value": "{neutral.500}",
+        "type": "other"
+      },
+      "on-bg-secondary": {
+        "value": "{neutral.500}",
+        "type": "other"
+      },
+      "on-bg-tertiary": {
+        "value": "{neutral.500}",
+        "type": "other"
+      },
+      "on-bg-quaternary": {
+        "value": "{neutral.600}",
+        "type": "other"
+      },
+      "on-bg-quinary": {
+        "value": "{neutral.700}",
+        "type": "other"
+      },
+      "on-bg-primary-inverse": {
+        "value": "{neutral.1000}",
+        "type": "other"
+      },
+      "on-bg-secondary-inverse": {
+        "value": "{neutral.1000}",
+        "type": "other"
+      },
+      "on-bg-tertiary-inverse": {
+        "value": "{neutral.900}",
+        "type": "other"
+      },
+      "on-bg-quaternary-inverse": {
+        "value": "{neutral.800}",
+        "type": "other"
+      },
+      "on-bg-quinary-inverse": {
+        "value": "{neutral.800}",
+        "type": "other"
+      }
+    },
+    "focused-color": {
+      "neutral": {
+        "primary": {
+          "value": "{border.neutral.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.neutral.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.neutral.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.neutral.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.neutral.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.neutral.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.neutral.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.neutral.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.neutral.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.neutral.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "positive": {
+        "primary": {
+          "value": "{border.positive.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.positive.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.positive.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.positive.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.positive.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.positive.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.positive.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.positive.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.positive.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.positive.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "warning": {
+        "primary": {
+          "value": "{border.warning.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.warning.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.warning.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.warning.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.warning.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.warning.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.warning.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.warning.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.warning.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.warning.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "negative": {
+        "primary": {
+          "value": "{border.negative.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.negative.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.negative.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.negative.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.negative.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.negative.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.negative.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.negative.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.negative.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.negative.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      },
+      "accent": {
+        "primary": {
+          "value": "{border.accent.primary.pressed.weak}",
+          "type": "other"
+        },
+        "secondary": {
+          "value": "{border.accent.secondary.pressed.weak}",
+          "type": "other"
+        },
+        "tertiary": {
+          "value": "{border.accent.tertiary.pressed.weak}",
+          "type": "other"
+        },
+        "quaternary": {
+          "value": "{border.accent.quaternary.pressed.weak}",
+          "type": "other"
+        },
+        "quinary": {
+          "value": "{border.accent.quinary.pressed.weak}",
+          "type": "other"
+        },
+        "primary-inverse": {
+          "value": "{border.accent.primary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "secondary-inverse": {
+          "value": "{border.accent.secondary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "tertiary-inverse": {
+          "value": "{border.accent.tertiary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quaternary-inverse": {
+          "value": "{border.accent.quaternary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        },
+        "quinary-inverse": {
+          "value": "{border.accent.quinary.hovered-inverse.weak-inverse}",
+          "type": "other"
+        }
+      }
+    }
+  }
+}
