@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
     "Base",
+    "Light theme / Role",
     "Light theme / Pattern",
-    "Light theme / Alias",
     "Light theme / Shadow",
+    "Dark theme / Role",
     "Dark theme / Pattern",
-    "Dark theme / Alias",
     "Dark theme / Shadow",
     "Typography",
     "Shadow"
