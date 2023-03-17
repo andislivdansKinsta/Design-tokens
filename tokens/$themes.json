@@ -8,7 +8,6 @@
       "Shadow": "enabled",
       "Dark theme / Shadow": "enabled",
       "Dark theme / Role": "enabled",
-      "Light theme / Pattern": "disabled",
       "Dark theme / Pattern": "enabled"
     },
     "$figmaStyleReferences": {
@@ -2876,8 +2875,7 @@
       "Shadow": "enabled",
       "Light theme / Shadow": "enabled",
       "Light theme / Role": "enabled",
-      "Light theme / Pattern": "enabled",
-      "Dark theme / Pattern": "disabled"
+      "Light theme / Pattern": "enabled"
     },
     "$figmaStyleReferences": {
       "color.surface.neutral.weak.hovered": "S:2fb5826dbb4da548726c33f97ff4ccd31bf03878,",
