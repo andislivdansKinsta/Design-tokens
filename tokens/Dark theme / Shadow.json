@@ -25,11 +25,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-secondary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-secondary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -39,11 +39,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-tertiary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-tertiary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -53,11 +53,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quaternary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quaternary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -67,11 +67,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quinary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quinary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -81,11 +81,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-primary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-primary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -95,11 +95,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-secondary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-secondary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -109,11 +109,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-tertiary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-tertiary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -123,11 +123,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quaternary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quaternary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       },
@@ -137,11 +137,11 @@
           "type": "other"
         },
         "2": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quinary-inverse.1} / {shadow.opacity.scale} /0.01, 0) *0.01",
           "type": "other"
         },
         "3": {
-          "value": "roundTo({shadow.opacity.on-bg-primary.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
+          "value": "roundTo({shadow.opacity.on-bg-quinary-inverse.2} / (2*{shadow.opacity.scale}) /0.01, 0) *0.01",
           "type": "other"
         }
       }
