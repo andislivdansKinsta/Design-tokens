@@ -8433,9 +8433,5 @@
       "value": "{paragraph-spacing.15x-large}/{font-size.regular}",
       "type": "paragraphSpacing"
     }
-  },
-  "test": {
-    "value": "lch(2 2 2)",
-    "type": "color"
   }
 }
