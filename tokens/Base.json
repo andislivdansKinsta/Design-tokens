@@ -7918,8 +7918,10 @@
       }
     },
     "spread": {
-      "value": "{border-width.4}",
-      "type": "other"
+      "1": {
+        "value": "{border-width.4}",
+        "type": "other"
+      }
     }
   },
   "font-size-relative": {
