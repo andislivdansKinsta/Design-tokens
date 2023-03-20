@@ -324,15 +324,15 @@
         "type": "color"
       },
       "neutral-primary": {
-        "value": "{neutral.50}",
+        "value": "{dark.palette.grey.50}",
         "type": "color"
       },
       "neutral-secondary": {
-        "value": "{neutral.100}",
+        "value": "{dark.palette.grey.100}",
         "type": "color"
       },
       "neutral-tertiary": {
-        "value": "{neutral.200}",
+        "value": "{dark.palette.grey.200}",
         "type": "color"
       }
     },
